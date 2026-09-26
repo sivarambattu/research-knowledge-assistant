@@ -402,10 +402,10 @@ def main():
 
     save_results(rows)
 
-    evaluate_abstention(
-        retriever,
-        queries,
-    )
+    # evaluate_abstention(
+    #     retriever,
+    #     queries,
+    # )
 
 
 if __name__ == "__main__":
