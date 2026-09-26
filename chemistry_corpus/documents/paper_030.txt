@@ -1,0 +1,1108 @@
+ABSTRACT
+Abstract Asymmetric catalysis is the most sustainable means of
+achieving
+efficient production of enantioenriched compounds, which are valuable
+to the pharmaceutical industry and advanced functionalized materials.
+The field has undergone considerable development since its inception
+about 60 years ago. The development of new chiral ligands or organocatalysts
+or the discovery of new reactions all led to spectacular progress
+in terms of activity and enantioselectivity. In this context, this
+Outlook article aims to highlight major advances that demonstrate
+the central role of asymmetric catalysis in sustainability, with the
+examples discussed representing a selection shaped by the authors’
+scientific perspective and sensitivity. This includes recent innovations
+in catalyst recycling, the use of less precious and less toxic metals
+in asymmetric organometallic catalysis, as well as the control of
+the positioning of catalytic sites, to further improve their efficiency.
+The development of asymmetric electrocatalysis and photocatalysis
+as well as of mechanochemistry and continuous flow chemistry is also
+discussed. Finally, the complexity and step-economy issues are raised
+with the presentation of relevant examples of asymmetric multicatalytic
+processes and new challenging transformations that include late-stage
+functionalization reactions, molecular edition or reactions targeting
+the creation of axial, planar or helicoidal chirality.
+
+INTRODUCTION
+Chirality lies at the
+heart of life sciences. The four major classes
+of biomolecules, i.e., proteins, nucleic acids, carbohydrates and
+lipids, are chiral. This structural property plays a major role in
+their mutual interactions, which are the foundation of communication
+in complex biological systems. Thus, the design of pharmaceuticals
+aimed at interfering with biomolecules often relies on chiral molecules. This is clearly demonstrated by the Figure , which highlights
+that 58% (256) of the small molecules approved by the FDA and the
+EMA between 2013 and 2022 (442) are chiral enantiopure products. It is worth mentioning that 10 additional drugs
+(less than 3% of the small molecule drugs) were commercialized as
+chiral racemic compounds in the same time frame. The same holds true
+for agrochemicals with more than 40% of the approved products from
+2007 to 2023 being chiral enantiopure compounds.
+
+Comparison of the number of achiral (blue) and chiral enantiopure
+(gray) small molecules approved by the FDA and the EMA from 2013 to
+2022.
+
+Chirality is also of paramount importance in material
+sciences.
+It is well acknowledged that the stereochemistry has a crucial influence
+on the crystallinity of polymers and, thus, on their mechanical properties
+as well as their stability. In addition,
+growing attention is paid to the light-matter interaction with outstanding
+achievements having been reported in optoelectronics through the design
+of chiral conjugated systems interacting with circular polarized light. Accordingly, the ubiquity of chirality testifies
+to the still relevant importance of asymmetric synthesis, and more
+particularly of asymmetric catalysis in the context of sustainable
+chemistry.
+
+Asymmetric catalysis can be defined as a process
+in which a chiral
+catalyst directs the formation of a new element of chirality in a
+molecule so that the resulting stereoisomeric products are formed
+in different amounts. The first example of a metal-catalyzed asymmetric
+reaction was reported by the Nozaki and Noyori group. It dates back
+to 1966 with the catalytic cyclopropanation of styrene and homologation
+of 2-phenyloxetane in the presence of a chiral Schiff base-copper­(II)
+complex. Both transformations afford the corresponding products of
+carbene addition with an enantiocontrol evaluated by the optical rotation. Numerous achievements based on transition metal
+catalysis were then reported in the following decades, among which
+the rhodium-catalyzed asymmetric alkene hydrogenation pioneered by
+Knowles and Kagan , as well as the Sharpless asymmetric
+epoxidation stand out. The impact of asymmetric
+catalysis on science was then first acknowledged by the Nobel Prize
+awarded in 2001 to Sharpless, Noyori and Knowles for their seminal
+contributions to the field. -
+
+It is often believed that
+the pioneering work of Noyori on copper-catalyzed
+cyclopropanation corresponds to the birth of asymmetric catalysis,
+however, the first example of a catalytic enantioselective process
+was reported earlier in 1960 with the alkaloid-catalyzed asymmetric
+synthesis of α-phenylpropionates from ketenes. Then, seminal papers on amino acid-catalyzed asymmetric
+Strecker reaction and Robinson annulation appeared in the early 1970s. , But it was not until the 2000s that organocatalysis really expanded, as it was considered ineffective or limited
+in terms of applications and substrates scope. Thus, significant breakthroughs
+were made in 2000 with the papers simultaneously published by List
+and MacMillan, respectively on the proline-catalyzed intermolecular
+aldol reaction, and amine-catalyzed cycloadditions. Since then, organic catalysis has become a major
+focus that was also combined with other type of catalytic processes,
+notably metal catalysis and photocatalysis, to achieve even greater
+diversity. It represents a significant step toward the development
+of sustainable methods, which in turn was recognized with the Nobel
+Prize awarded in 2021 to List and MacMillan.
+
+Biocatalysis is
+the third pillar of asymmetric catalysis, perfectly
+complementing organometallic and organic catalysis. Seminal studies
+in this area were reported over a century ago, and the field has expanded considerably in the beginning
+of the 21st century with the application of molecular biology to the
+production of engineered enzymes using a directed evolution strategy. This approach has enabled the development of
+a biocatalytic toolbox that can be applied to various reactions, even
+those unknown in nature, and to total syntheses based on multienzymatic
+sequences. The concept of the directed evolution of enzymes, which
+was also acknowledged with the 2018 Nobel Prize awarded to Arnold,
+is a burgeoning domain, however, it will be only briefly discussed
+in this Outlook as it lies out of its scope.
+
+The concept of
+catalysis is undoubtedly associated with that of
+sustainability, as the ninth principle of green chemistry, and its
+connection to waste minimization and energy saving. The progress made in the design of transition metal- and
+organo-catalyzed asymmetric transformations have been invaluable to
+this end. Nevertheless, limitations, typically high catalyst loadings
+or the use of precious metals, still remain. Moreover, the conceptualization
+of the green chemistry introduced by Anastas and Werner in 1998 has made organic chemists aware of the need
+to adopt a comprehensive approach to design more efficient processes.
+Thus, since the 2001 Nobel Prize, numerous strategies have been implemented
+to address the issue of the impact of synthetic chemistry on the environment.
+In this Outlook, we put forward a focused and opinionated overview
+of recent achievements in asymmetric catalysis that highlight its
+strong interconnections with sustainable chemistry, grounded in the
+authors’ expertise and perspective.
+
+RECYCLING, CONFINEMENT AND USE OF ABUNDANT METALS
+The development of enantioselective catalysis initially remained
+closely linked to the discovery of Wilkinson’s rhodium catalyst
+and its stabilization by chiral ligands for the enantioselective hydrogenation
+of increasingly sophisticated substrates. The fact remains that, due
+to its scarcity and therefore its high cost, rhodium is not a metal
+aligned with sustainable development, despite its very high efficiency
+in producing nearly enantiopure substrates even at low catalytic loadings. Nevertheless, it should be noted that shortly
+after the fundamental discoveries in asymmetric catalysis, industrial
+processes were developed and efficiently exploited. Thus, the Monsanto
+process using a chiral rhodium-dipamp complex enabled the preparation
+of a precursor of L-DOPA used in the treatment of Parkinson’s
+disease, by asymmetric hydrogenation. Nevertheless, at the same time, the cyclopropanation reaction with
+chiral copper complexes enabled the preparation of cyclopropane carboxylic
+acids of industrial interest (Sumitomo Chemical Co). This context led researchers, from the earliest days of
+development, to devise strategies for easy recovery and reuse of these
+precious species in order to improve their productivity. Thus, homogeneous
+supported catalysis was practically born at the same time as its homogeneous
+version. Kagan imagined to anchor the catalyst on a solid support,
+keeping the advantages of the catalysis in solution, and he used a
+commercially available chlorinated Merrifield resin, after oxidation,
+to attach a Rh­(I)-diop complex. However,
+this first system showed a much lower efficiency than its homogeneous
+counterpart but these preliminary results were very important in assessing
+the effect of the support on the catalytic behavior of the metal complex.
+The Stille group therefore proposed the use of a better-suited support
+by preparing a cross-linked polymer containing methacrylate-based
+monomers modified with the same Rh­(I)-diop complex. This way, the authors succeeded in the enantioselective
+hydrogenation of acylamidoacrylic acids with efficiencies matching
+those obtained under homogeneous conditions, albeit with a lower reaction
+rate.
+
+The same strategy of immobilization for recycling purposes
+was
+also successfully applied to organocatalysis , to mitigate the use of high catalytic loadings or recover complex and valuable catalysts, and some processes were even developed on a large scale
+for the synthesis of drugs.
+
+Consequently,
+the search for efficient and recyclable chiral catalysts
+has increased considerably with the quest for a detailed understanding
+of the role of the support, which must go beyond simple heterogenization
+for easy recovery. Various types of immobilization strategies were
+explored and these advances are described in detail in comprehensive
+reviews. Numerous examples can be found
+for asymmetric metal-catalyzed hydrogenation reactions due to the
+historical context, so the following examples will focus on other
+type of processes, operating sometimes with high catalytic loadings,
+and for which catalyst recovery and reuse is very desirable.
+
+The search
+for efficient and recyclable chiral catalysts has increased considerably
+with the quest for a detailed understanding of the role of the support,
+which must go beyond simple heterogenization for easy recovery.
+
+When seeking efficient heterogeneous catalysis, the primary goal
+remains to achieve efficiency values, both in terms of activity and
+selectivity, that match or surpass those achieved under homogeneous
+conditions. To this purpose, the support structure and the nature
+of the linker are key parameters. To give just one very recent example
+as illustration, Hang, Zhu and their group reported the easy preparation
+of nickel nanoparticles embedded in silica in the presence of a ( N , N )-diphenylethylene-diamine-based chiral
+ligand. This supported catalyst was tested
+to promote the asymmetric Michael addition of dimethyl malonate to
+nitroalkenes, demonstrating superior activity compared to its homogeneous
+counterpart, calculated with a 3.6-fold higher apparent turnover frequency,
+for small nanoparticles ( Scheme ). Nonlinear effect studies, and analyses of the supported
+catalyst (STEM, BET, XPS) led the authors to propose that the peripheral
+Ni sites at the interface formed by contact between the Ni NPs and
+the silica play an important positive role in the course of the reaction.
+Catalyst stability was also evaluated in both batch and flow, but
+the ligand had to be added continuously to obtain stable activity
+and selectivity values, indicating its poor coordination with the
+support, while almost no Ni leaching could be measured.
+
+However, the pursuit of consistent recycling
+efficiency is also
+a key driver in the development of new processes for asymmetric heterogeneous
+catalysis. This task is difficult to
+achieve, particularly in fundamental studies, where the quantities
+of catalyst used are always very small and where, as a result, it
+is difficult to implement effective recycling procedures, especially
+in batch mode. Traditionally, recycling attempts are carried out over
+3 to 5 cycles, with few reaching a dozen reuses. Such number was achieved
+by Gu, Tu and You in the context of asymmetric heterogeneous dearomatization
+reactions, thanks to the heterogenization of complex chiral phosphoric
+acids (CPA) as organocatalysts. CPAs are highly effective but difficult
+and costly to synthesize, and they often require a fairly high catalytic
+ratio. The authors therefore prepared
+chiral microporous polymer networks through Friedel-Crafts
+reactions between phosphoric acid derivatives functionalized with
+anthracenyl groups and biphenyldibenzyl alcohol, with the anthracene
+groups being essential for creating a sterically hindered environment
+and a highly cross-linked system ( Scheme ). These species proved highly active and
+selective at a 5 mol % ratio, to promote the asymmetric transfer hydrogenation
+of various 2-phenylquinolines with Hantzsch ester and the asymmetric
+dearomative amination of β-naphthols with azodicarboxylate.
+In both cases, the solid porous organocatalysts were recovered by
+centrifugation and then reused in a new catalysis, without any loss
+of activity or enantioselectivity for 10 additional cycles.
+
+Beyond stable and numerous recycling cycles,
+immobilizing chiral
+catalysts can improve their performance, with enantioselectivity values
+in target products exceeding those obtained under homogeneous conditions.
+This can occur, for instance, when the heterogenization process is
+aimed at controlling the positioning of catalytic sites relative to
+each other, either by increasing the distance between them or bringing
+them closer together as required. Thus, a process for immobilizing
+manganese complexes used in oxidation reactions has made it possible
+to prevent their decomposition, which can easily occur in the homogeneous
+phase through the formation of inactive dimeric μ-oxo species.
+Toward this end, graphene oxide (GO) sheets were modified by catalytic
+active sites through covalent bonds, owing to the presence of oxygenated
+functional groups on their basal planes and edges. Tan, Yin et al.
+then covalently grafted imidazole fragments onto GO sheets, which
+were quaternized by immobilizing a Mn-salen complex ( Scheme a) that was used for the epoxidation
+of a wide range of nonfunctionalized olefins in the presence of aqueous
+NaOCl. The catalyst immobilized on GO
+enabled the epoxidation of olefins at a high reaction rate, while
+also offering high enantioselectivity values. Recovered after centrifugation,
+it was reused seven times and maintained high yield and enantioselectivity
+for styrene epoxide, thus demonstrating high stability. It is interesting
+to note that the authors used the same strategy to fix Ti-salen complexes
+on GO, arguing that multiple anchoring to the surface could promote
+cooperative bimetallic catalysis, which is of paramount importance
+for their test reaction, namely the asymmetric oxidation of sulfides
+with aqueous H 2 O 2 ( Scheme b). It enabled the efficient and selective
+oxidation of methylaryl sulfides, with the support promoting the formation
+of di-μ-oxo Ti-salen species, which are true catalytic precursors. According to the amount of catalyst loading
+(either the Mn-salen or the Ti-salen), two catalytic oxidation reactions
+could be achieved. The first one requires site-isolation whereas the
+other one relies on site-cooperativity, which combines efficiencies
+superior to those obtained with homogeneous analogues and enables
+the recycling of catalytic species.
+
+Another benefit of grafting catalysts onto a
+support is the possibility
+of positioning two active catalytic sites close together. This is
+often challenging in homogeneous catalysis, where it typically requires
+the complex synthesis of a bifunctional catalyst. A relevant example
+was described by Jacobsen and his group for the hydrolytic kinetic
+resolution (HKR) of epoxides. The mechanism of this important transformation
+was elucidated by Jacobsen and Blackmond and involves a bimetallic
+cooperative activation of both the nucleophile and the electrophile
+by salen-cobalt active sites. In this
+context, salen ligands were functionalized with a long alkyl chain
+bearing a terminal thiol group and were further immobilized on gold
+colloids before incorporation of the active cobalt metal. Used in the HKR of hexane-1-oxide, the supported
+catalyst demonstrated high selectivity and accelerated reaction rates
+compared to its homogeneous counterpart, revealing effective cooperativity
+made possible by the proximity of the catalytic sites ( Scheme a). After a simple filtration,
+the catalyst was used effectively up to seven times before its activity
+decreased significantly. A reactivation step in the presence of triflic
+acid was then necessary to restore its activity. Some of us have described
+the preparation of insoluble cobalt catalysts that can be reused several
+times by avoiding this reactivation step. Indeed, the electrolytic
+conditions for the anodic oxidative generation of insoluble salen-cobalt
+polymers have been precisely adjusted to allow formation of (Co-OAc)
+and (Co-BF 4 ) active sites inside the same polymer structure.
+The formers are transformed into (Co-OH) species by water activation,
+while the Lewis-acidic and non-nucleophilic (Co-BF 4 ) sites
+essentially activate the epoxide. This specificity allows the polymer
+to retain its activity during recycling, even once all (Co-OAc) sites
+have been hydrolyzed and without the need for additional acidic reactivation
+( Scheme b).
+
+The initial goal of recovering chiral catalysts
+can thus enhance
+not only their durability through easy reuse, but also their efficiency
+via innovative immobilization techniques. Another important step toward
+sustainability concerns the use of metals that are more abundant in
+the Earth’s crust and less toxic than the Rh, Ru, and Ir complexes. Some examples employing Ti, Mn or Co have already
+been described above, and efforts are currently being made to use
+abundant copper, a metals that was restricted for a long time to Lewis
+acidic activation mode. Recently, the
+generation of chiral copper-hydride led to efficient enantioselective
+hydroamination reactions , and enantioselective
+hydrogenation of carbonyl compounds with
+very high efficiency. Even some dynamic kinetic resolution processes
+leading to the simultaneous formation of two contiguous stereogenic
+centers could be achieved with excellent diastereoselectivity and
+enantioselectivity. Very recently, chiral
+copper hydrides also proved to be remarkable for promoting the kinetic
+resolution of prochiral 2 H -azirine-2-carboxylates,
+leading to valuable azirine and aziridine derivatives with high enantioselectivity
+values ( Scheme ).
+
+However, the metal that remains indisputably
+in number one position
+for green chemistry is still iron, not only because of its availability
+and low price but also because of its poor toxicity. In addition,
+iron has many accessible oxidation states and therefore offers a variety
+of activation modes. When associated with chiral ligands, iron complexes
+can promote a wide range of asymmetric catalytic reactions. A very recent example illustrating the Lewis
+acid ability of chiral iron salts, is the inverse-electron-demand
+[4 + 2] cycloaddition/cheletropic retro-[4 + 1] extrusion of SO 2 reactions between thiophene S , S -dioxides and 3-substituted indoles to access exahydrocarbazoles
+bearing a quaternary stereogenic center. This methodology was effectively
+applied to the total synthesis of (+)-geissoschizoline, an indole
+alkaloid with various biological activities. Significant research has also been conducted to develop efficient
+asymmetric hydrogenation and transfer hydrogenation catalyzed by iron.
+It relies on in-depth mechanistic studies combined with the development
+of specific tetradentate chiral ligands bearing tertiary phosphine
+and secondary amine donor groups, enabling the formation of a bifunctional
+H-Fe-NH unit in the catalytic cycle. The transfer of dihydrogen to the polar bonds of ketones
+or imines occurred readily to produce the corresponding alcohols or
+amines with excellent yields and enantioselectivity values exceeding
+90% in most cases. Meggers and his group expanded the use of iron
+complexes in asymmetric catalysis by designing chiral-at-iron catalysts
+bearing achiral N -(2-pyridyl)-substituted N -heterocyclic carbene bidentate ligands, whose helical
+arrangement provided metal-centered Λ or Δ c onfiguration ( Scheme ). Even if access to these structures is not straightforward, the
+complexes proved configurationally stable after chemical resolution
+and could successfully be tested as catalysts for the enantioselective
+intramolecular Cannizzaro reaction demonstrating the efficient use
+of a stereogenic iron center.
+
+In addition to the development of new catalysts,
+it is also important
+to highlight the growing interest in creating specific catalytic networks
+designed to precisely position confined catalytic sites, with the
+goal of enhancing both their selectivity and durability. Major advances
+have indeed been made with the development of metal organic frameworks
+(MOFs), that are stable, porous, and well-defined structures, primarily
+designed for gas storage and separation. The activity of these ordered networks stems either from unsaturated
+metal coordination sites and/or from active chiral linkers between
+metals, as initially discovered and exploited by Lin’s group.
+They prepared an enantiopure binaphthol ligand modified with pyridine,
+this functionality being positioned so as to connect the Cd atoms
+forming a noninterpenetrating 3D network with very large chiral channels.
+After adding Ti­(O i Pr) 4 , the resulting
+chiral heterogeneous catalyst proved to be highly effective in promoting
+enantioselective additions of ZnEt 2 to aromatic aldehydes,
+with complete conversion and enantioselectivity values comparable
+to those obtained from the homogeneous counterpart. This first example which did not describe recycling studies,
+has inspired numerous research projects over the past 25 years, with
+a particular focus on sustainability. For example, the preparation of a chiral MOF from Cr-salen complexes
+and CdI 2 , capable of promoting four different catalytic
+reactions, demonstrated impressive versatility. The same catalytic
+structure could indeed be used to obtain functionalized cyclopentenones
+through the Nazarov reaction of alkoxydienones, to carry out the asymmetric
+aminolysis of trans -stilbene oxide, the Diels-Alder
+and the hetero Diels-Alder reactions. In some cases, a higher
+level of enantiocontrol can be achieved when compared to that observed
+under homogeneous conditions, thereby proving the existence of favorable
+confinement effects and ideal site localization ( Scheme ). The heterogeneous catalyst was reused in four cycles, indicating
+good stability.
+
+The manipulation of these coordination networks
+is perfectly mastered
+in order to modulate their structure, for example through postmodification.
+There are many impressive examples in the field of metal-salen MOF
+derivatives with synthetic modifications made directly to the salen
+ligand inserted into the network strut to modulate its activity, or through solvent-assisted linker exchange
+to introduce other asymmetric catalysts into the crystalline solid,
+opening the door to cooperative or tandem
+asymmetric catalysis. These networks
+have recently confirmed their usefulness for immobilizing chiral organocatalysts,
+namely imidophosphates (IDP), which only lead to high enantioselectivity
+values for homogeneous asymmetric catalysis in their O , O -syn conformation. The incorporation of IDP into Dy-MOFs, which leads to the stabilization
+of the catalytic sites in their active conformation, has enabled significant
+advances in the asymmetric O , O -acetalization
+of diols and aldehydes, while also providing good reusability for
+the heterogeneous catalyst.
+
+In addition to networks prepared
+by coordination bonds, covalent-organic
+frameworks (COFs) have also recently emerged as molecular platforms
+for providing new crystalline and heterogeneous chiral catalysts that
+mimic stable nanoreactors for asymmetric catalysis. Bimetallic and even trimetallic COFs have been prepared
+from salen-based ligands and have demonstrated excellent activity,
+enantioselectivity and recyclability in various transformations, such
+as the cyanation of aldehydes (V@COFs), the Diels-Alder reaction
+(Co@COFs), the epoxidation of chromene derivatives (Fe@ or Mn@COFs),
+or the aminolysis of stilbene oxide (Cr@COFs). The use of these stable networks has recently been extended
+to include electrochemical asymmetric catalysis. The preparation of
+a 2D chiral COF, incorporating a thiophene-type organic conducting
+linker and a MacMillan imidazolinone catalyst, yielded a stable and
+recyclable material for the electrochemical-induced asymmetric α-arylation
+of aldehydes.
+
+Recent advances in
+organometallic and asymmetric organic catalysis
+have moved beyond simple recycling and metal recovery, focusing instead
+on improving catalyst efficiency through precise control of site positioning.
+It is noteworthy that the use of nonprecious metals is rapidly expanding,
+further broadening the range of applications for these reactions.
+Future advances are already underway, and they no longer involve only
+organometallic or organic catalysis alone. The aim is to avoid co-oxidants
+or coreductants, to use flow techniques and grinding processes, or
+to carry out combined multicatalysis processes, with the primary objective
+of saving atoms, solvents, and energy. This is described in the following
+chapters but remains subject to promising future developments.
+
+CATALYTIC ASYMMETRIC METHODS POWERED BY RENEWABLE
+ENERGIES AND NEW PROCESSES
+The growing interest
+in synthetic methods like photochemistry and
+electrochemistry, particularly when powered by renewable energy, stems
+from urgent environmental challenges.
+
+These approaches
+aim to support the long-term and sustainable development of the energy
+system and to contribute to the transition to a zero-emission society. This dynamic is driven by standardized setups,
+which have facilitated the implementation of these techniques. , Similarly, the widespread availability of LEDs has accelerated their
+adoption, even though issues related to positioning reproducibility
+remain. The scientific community is making considerable progress in
+the use of electrons and photons as green and traceless reagents for
+the development of enantioselective variants of these processes.
+
+In the context of asymmetric redox transformations, current efforts
+are focused on replacing conventional co-oxidants and, more critically,
+the coreductants required to regenerate the oxidation state of the
+active species within catalytic cycles. In this respect, established electrochemical and photochemical protocols
+are increasingly recognized as more sustainable and environmentally
+benign alternatives, primarily due to their significant reduction
+in waste generation.
+
+In photochemistry, the use of light-driven
+asymmetric reactions
+catalyzed by chiral photocatalysts has attracted considerable interest,
+though examples remain limited. The main challenges lie in the short
+lifetimes of excited chiral catalysts and the rapid kinetics of photochemical
+reactions, which hinder effective stereocontrol. One promising strategy
+involves the design of chiral photoactive metal complexes with appropriate
+metal centers and ligands. These complexes have to be photostable,
+tunable, and versatile, offering enhanced chiral induction across
+a range of asymmetric transformations. Recent advances highlight their
+potential as standalone chiral photocatalysts for enantioselective
+photochemical reactions, eliminating the need for harsh reagents or
+complex setups. Their intrinsic chiral environments enable efficient
+stereocontrol in a variety of asymmetric reactions.
+
+The Meggers group has significantly advanced the
+field by developing
+chiral-at-metal Ir­(III) or Rh­(III) polypyridyl complexes as efficient
+standalone photocatalysts. , These helically chiral
+complexes, synthesized using appropriate chiral auxiliaries, are photostable
+under continuous irradiation and exhibit high enantioselectivity across
+a broad range of reactions. Their dual functionality-as both enantioselective
+Lewis acid catalysts and photoredox mediators-combined with synthetic
+accessibility and resistance to racemization upon photoexcitation,
+has established them as leading systems in asymmetric photocatalysis,
+notably in transformations such as the enantioselective alkylation
+of 2-acylimidazolyl ketones ( Scheme ).
+
+A common major drawback about the recent work
+in that field is
+the strong reliance on iridium-based photocatalysts to drive the reactions.
+However, it is conceivable that this negative aspect will soon be
+mitigated by the recent progress made in the design and development
+of efficient and robust organic dyes.
+
+In parallel, due to their abundance, low cost, and ability
+to provide
+strong photoexcited reducing power copper, nickel and cobalt complexes
+have naturally been investigated as standalone photocatalysts. Indeed, developing photocatalysts with similar
+efficacy that rely on more cost-effective, earth-abundant first-row
+transition metals remains a major challenge. Most complexes of these
+metals, particularly nickel, possess significantly different photophysical
+properties, which limit their ability to function as effective photocatalysts. As a result, there are only a few reported examples
+of chiral nickel-based photocatalysts to date.
+
+For these photocatalytic
+processes involving the generation of
+radicals, harsh sacrificial reagents or complex setups are typically
+employed. However, the excessive consumption
+of, for example, presynthesized Hantzsch reductants raises significant
+cost and atom economy concerns. To address the sustainability challenge,
+the scientific community is shifting toward the use of ubiquitous,
+“greener” chemical reductants. In this context, very
+recently a cobalt-catalyzed asymmetric reductive coupling reaction
+between aromatic aldehydes and aryl iodides has been developed using i -Pr 2 NEt as the reducing agent, which is a more
+accessible and cost-effective product ( Scheme ). This approach affords a wide range of
+diarylcarbinols isolated with good yields (up to 96% yield) and excellent
+enantioselectivities (up to 98% ee).
+
+Today, this light-driven strategy represents
+a more sustainable
+and complementary avenue for the construction of highly significant
+chiral molecules.
+
+Despite substantial progress in asymmetric
+catalysis, major challenges
+remain, including dependence on stoichiometric oxidants or reductants
+to regenerate active catalytic species, which often lack environmental
+compatibility. In this context, organic electrochemistry has emerged
+as a sustainable and cost-effective alternative. Compared to conventional methods, electrocatalysis proceeds
+under milder conditions and typically avoids hazardous oxidants or
+metal-based reductants. Activation of organic substrates can occur
+directly via anodic or cathodic processes, or indirectly through redox
+modulation of metal catalysts. Moreover, the precise control over
+current and potential allows fine-tuning of electron transfer steps,
+offering significant advantages in complex multielectron transformations.
+
+The first breakthrough in asymmetric electrochemical
+catalysis
+dates back to 1967, when Grimshaw et al. reported the enantioselective
+reductive synthesis of coumarin using sparteine as a chiral auxiliary
+and a mercury cathode in a divided cell. Despite modest yields and enantioselectivities, this work marked
+the first integration of chiral induction with electrochemistry, laying
+the foundation for asymmetric electrocatalysis. Since then, rapid
+advances in the field of transition metal catalysis have sparked growing
+interest in the synergistic use of electrochemistry and metal catalysts
+in organic synthesis.
+
+Despite advances in the field of electrosynthesis,
+the overall
+development of asymmetric versions remains limited, since its inception. It is only in recent years, thanks to continuous
+advances in technology and electrocatalytic equipment, that asymmetric
+electrochemical catalysis has seen gradual progress and shown promise
+in a range of applications, including green synthesis and sustainable
+chemistry.
+
+In the field of asymmetric electrocatalytic oxidation
+reactions,
+Amundson and Balko were the first to describe an electrochemically
+catalyzed Sharpless asymmetric dihydroxylation, using K 3 Fe­(CN) 6 as a redox mediator to replace traditional chemical
+oxidants with electrochemical oxidation. A divided electrochemical cell was used to prevent the cathodic
+reduction of ferricyanide and osmium metal deposition. However, challenges
+such as the high toxicity of OsO 4 , limited substrate scope,
+and insufficient enantioselectivity remained unresolved. In 1996,
+Torii made significant advances in the Sharpless asymmetric dihydroxylation
+reaction by replacing K 3 Fe­(CN) 6 with I 2 as the redox mediator with potassium osmate salts ( Scheme ). These optimizations not only reduced toxicity but also expanded
+the substrate scope and simplified the electrochemical setup, marking
+a crucial step toward the green, sustainable, and practical development
+of asymmetric oxidation reactions.
+
+Olefin epoxidation using chiral salen complexes
+has been widely
+studied, but most methods require stoichiometric oxidants, limiting
+their green chemistry potential. In 2001, Tanaka’s group developed
+an electrocatalytic asymmetric epoxidation system in a biphasic setup,
+combining aqueous sodium chloride and dichloromethane. Chloride ions are oxidized at the anode to form
+hypochlorite (ClO - ), which activates the manganese
+catalyst to its oxide form. This active species then transfers oxygen
+to the olefin, producing an asymmetric epoxide. This approach eliminates
+the need for stoichiometric oxidants, thereby improving the ecocompatibility
+of the reaction and offering a novel application for electrochemical
+catalysis in asymmetric synthesis ( Scheme ).
+
+Anodic oxidation reactions have historically
+progressed slowly,
+but in recent years, the integration of traditional chemical catalysis
+with electrochemical asymmetric metal catalysis has gained significant
+attention, driven by advancements in electrocatalysis and organic
+synthesis. Electrochemical techniques have enhanced traditional asymmetric
+metal catalysis, improving reaction efficiency, selectivity, and sustainability.
+As research in this interdisciplinary field advances, its popularity
+continues to grow, opening new avenues for the green and efficient
+development of asymmetric catalytic reactions.
+
+A new family
+of chiral bisoxazolines (BOX) derived from serine
+possessing auxiliary coordination sites was developed and applied
+in the copper catalyzed asymmetric electrochemical difunctionalization
+of alkenes. The advantage of this reaction
+lies in the fact that copper participates in two consecutive electrochemical
+oxidative cycles, enabling a relay catalytic mechanism. In the first
+cycle, the copper catalyst generates radicals, while in the second,
+it facilitates asymmetric cyanation through metal insertion and reductive
+elimination, ultimately leading to the synthesis of chiral cyano-functionalized
+products.
+
+In 2022, Shi’s group reported a cobalt-catalyzed
+enantioselective
+C-H dehydroalkoxylation and amination enabled by a chiral salicyloxazoline
+(Salox) ligand. The method exhibits broad
+substrate scope and high enantioselectivity. However, its reliance
+on stoichiometric silver carbonate as the oxidant limits sustainability.
+To address this, the group developed an electrochemical variant, achieving
+C-H dehydroalkylation under chemical oxidant-free conditions
+( Scheme ).
+
+Mechanistic studies based on the work described
+by the group of
+Ackermann led to the conclusion that
+the cobalt catalyst operates through a III/IV/II redox cycle. It is
+activated by electrochemical oxidation to generate a Co­(III), which
+is then subjected to C-H activation and further electrochemical
+oxidation leads to the target products. At the same time, Ackermann
+and co-workers demonstrated the versatility of such cobalt-based electrooxidative
+catalysis, beyond oxygenation reactions. C-H and N-H annulations from carboxylic amides successfully
+yielded enantioenriched spirolactams, dihydroisoquinolinones, and
+axially chiral compounds. This dehydrogenative activation process
+allowed also for the formation of various phosphorus-stereogenic molecules,
+by desymmetrization, using simple ligands derived from BINOL or amino
+alcohols.
+
+In the field of asymmetric electrocatalytic reduction
+reaction,
+Reisman’s group reported a nickel-catalyzed enantioselective
+reductive cross-coupling of alkenyl and benzyl halides using manganese
+as a stoichiometric reductant and a chiral BOX ligand. Despite high enantioselectivities and a broad
+substrate scope, the method suffered from poor reproducibility due
+to inconsistent metal reactivity and stirring issues, alongside substantial
+metal waste. To overcome these limitations, an electrochemical variant
+was developed in 2019, replacing Mn(0) with a reticulated vitreous
+carbon (RVC) cathode and a sacrificial zinc anode. The addition of NaI as a supporting electrolyte both improved
+conductivity and activated electrophiles via halide exchange, significantly
+enhancing reaction efficiency and stereocontrol ( Scheme ).
+
+In 2020, Mei’s group developed an efficient
+enantioselective
+electrochemical reductive coupling for the synthesis of BINOL derivatives,
+achieving high yields and enantioselectivities. In contrast, the same transformation using only manganese
+as a reductant, without electrochemical input, resulted in significantly
+lower yields. This highlights the enhanced reactivity, selectivity,
+and controllability of the electrochemical process. The method also
+offers high atom economy and aligns well with principles of sustainability.
+
+These electrocatalytic nickel-catalyzed asymmetric cross-couplings
+allowed avoiding the use of external reducing agent; nevertheless;
+they all required the presence of a sacrificial anode, limiting their
+sustainability. To overcome these drawbacks, the Nevado group developed
+a nickel-catalyzed asymmetric electrochemical cross-coupling between
+aryl aziridines and alkenyl bromides, using triethylamine as a terminal
+reductant eliminating the need for a sacrificial anode ( Scheme ). This approach offers excellent enantioselectivity (up to
+96:4 er), broad substrate scope, and high functional group tolerance
+under mild conditions. Mechanistic studies revealed that the reaction
+proceeds via nucleophilic halogenation-induced ring opening of aziridines
+to form radical intermediates, followed by nickel-catalyzed electron
+transfer and reductive elimination. This work introduces a sustainable
+and efficient strategy for the synthesis of chiral amines and sets
+the stage for further developments in asymmetric electrochemical reductive
+couplings.
+
+The Lu group recently introduced a paired electrolysis
+strategy
+combining anodic C­(sp 3 )-H activation with cathodic
+reduction and chiral Lewis acid catalysis for the enantioselective
+alkylation of sulfonimides. This method
+enables efficient cross-coupling between benzyl and sulfonimide radicals,
+achieving high yields (up to 88%) and excellent enantioselectivities
+(up to 96% ee) across diverse substrates. Mechanistic studies confirmed
+that anodic oxidation selectively generates benzyl radicals, while
+cathodic reduction forms sulfonimide radicals. These intermediates
+undergo asymmetric coupling under chiral Lewis acid cocatalysis.
+
+Progress toward more sustainable methods for preparing chiral compounds
+naturally also involves the use of new technologies. In particular,
+flow processes have been effectively transferred from bulk to fine
+chemistry. Numerous examples have been
+reported in the literature, clearly demonstrating the usefulness of
+a compact bed reactor containing immobilized chiral catalysts for
+optimizing separation, combined with advantageous automation, easy
+or no purification, and possible long-term and/or varied use of the
+catalyst batch. For example, mass-transfer between heterogeneous catalysts
+and H 2 has been improved in the enantioselective hydrogenative
+enyne cyclization promoted by the use of supported chiral Rh-catalysts.
+These complexes were immobilized by ionic interactions on silica composites
+functionalized by heteropolyacids and amines. Optimization of continuous
+flow conditions allowed achieving high values of TOF, TON and enantioselectivity,
+without any leaching of metal traces. Organocatalysts have also been immobilized and packed in reactors
+to achieve the continuous formation of valuable enantioenriched compounds
+demonstrating very high stability. This was recently illustrated by
+the use of chiral isothiourea supported on Merrifield resin for the
+enantioselective synthesis of a range of heterocyclic products from
+Michael addition-cyclization reactions. This study describes the optimization of reaction conditions, the
+application of the methodology to a wide range of substrates, and
+large scale testing, all carried out with the same batch of catalyst.
+In this field too, innovations in microreactor technology have enabled
+new developments thanks to the precise control of reaction conditions
+in these devices. Xu et al. recently tackled the challenge of electrocatalytic
+asymmetric oxidative transformations, for which the conditions in
+batch reactors are not optimal in terms of the quantities of electrolytes
+and other additives required. Running
+the reaction in microfluidic electrochemical reactors at a constant
+current enabled the production of various enantioenriched products
+through various oxidation strategies (one of which is shown in Scheme ). This facilitates
+the scale-up of the process while overcoming the accumulation of sensitive
+intermediates and all the aforementioned limitations.
+
+The shift toward sustainability also involves
+the use of mechanochemistry,
+carried out with minimal or without solvent, and asymmetric catalysis
+is no exception to this rule. The first trials appeared very quickly
+during the development of asymmetric organocatalysis and demonstrated
+the value of this method for achieving faster reactions with better-adjusted
+reagent stoichiometries. Numerous transformations
+have since been explored, whether based on covalent interactions or
+noncovalent activation strategies, leading to enantiomerically enriched
+target products, generally more rapidly than in solution. Asymmetric transformations catalyzed by metals
+in ball mills have also been reported successfully, provided that
+the reaction conditions are optimized to ensure, for example, the
+proper initial formation of the chiral complex, which is slower than
+in solution. The presence and optimization of new reaction parameters,
+such as grinding frequency, also influence selectivities. As an example,
+Bolm and his group performed a Michael-type Friedel-Crafts
+alkylation of indoles, catalyzed by a Cu­(I)-bis­(oxazoline) complex
+in a mixer bill, which yielded the target products in high yield and
+good enantioselectivity values, after fine-tuning the reaction conditions
+( Scheme ).
+
+The ee values obtained are not always as high
+as the maximum values
+obtained in solution when these require low temperatures, but alternating
+between ball-milling and cooling breaks makes it possible to compensate
+for these differences to a certain extent. Developments, particularly
+using twin-screw extrusion or resonant
+acoustic mixing currently not developed
+for asymmetric procedures, as far as we know, are also expected in
+this context.
+
+Asymmetric photocatalysis and electrocatalysis
+are rapidly evolving
+toward more sustainable paradigms, but several challenges remain.
+A key priority is the development of catalytic species based on earth-abundant
+metals or organic chromophores in order to reduce dependence on precious
+and rare elements. Achieving precise stereocontrol in ultrafast photochemical
+and electrochemical processes is also a major challenge, requiring
+new chiral environments capable of guiding high-energy reactive species.
+Future progress will rely on reducing the use of sacrificial oxidants
+and reductants, and advancing electrocatalytic methods through robust
+and reproducible designs. Advances in flow systems, microfluidics,
+and mechanochemistry are expected to improve efficiency, scalability,
+and catalyst lifespan, though challenges remain in mass transfer,
+stability, and reactor standardization. Continued innovation at the
+interface of catalysis, renewable energy, and reaction engineering
+is key to making asymmetric catalysis a cornerstone of greener synthesis.
+
+MULTICATALYSIS
+Multicatalytic processes,
+i.e., processes involving two or more
+catalysts working in concert in the same pot, can be divided into
+two categories. Relay catalysis refers to multicatalytic processes
+where catalytic cycles do not share any catalytic intermediates, i.e.,
+each individual step is promoted by no more than a single catalyst. On the other hand, cooperative catalysis, also
+called synergistic catalysis, refers
+to multicatalytic systems in which catalysts operate in synergy by
+sharing catalytic intermediates, thus
+enabling the activation of both partners of a bimolecular reaction.
+Multicatalytic processes are perfectly in line with sustainability
+issues for obvious reasons as they benefit from every positive aspect
+of a catalytic transformation but they also have the potential to
+lead to increased molecular complexity in a one pot fashion. In that sense, a multicatalytic approach can
+significantly reduce time, waste and cost of synthetic process. When one chiral catalyst is engaged in a multicatalytic
+system, the transformation can be enantioselective and when two or
+more chiral catalysts are present, it can even be stereodivergent
+depending on the combination that is selected.
+
+A multicatalytic
+approach can significantly reduce time, waste and cost of synthetic
+processes
+
+Relay catalysis offers the opportunity to
+design multicatalytic
+cascades with one or more chiral catalysts for a rapid and stereocontrolled
+access to complex organic scaffolds. This approach can dramatically
+improve chemical synthesis and has the potential to transform the
+manufacturing of potent molecules in industry.
+
+A team from Merck
+process and research development recently reported
+a striking example to support this statement. Indeed, they designed
+a biocatalytic cascade involving five engineered enzymes (including
+two immobilized ones) and four auxiliary enzymes to stereoselectively
+assemble Islatravir, a potent molecule for HIV treatment, from simple
+achiral building blocks in 51% overall yield. In terms of sustainability, this stereoselective sequence
+proceeds with high step- and atom-economy and takes place under mild
+conditions in a single aqueous solution without the isolation of intermediates
+( Scheme ).
+
+Borrowing hydrogen (BH) catalysis is a type
+of relay catalysis
+that can mimic some biocatalytic reactions to enable the transformation
+of cheap and readily available alcohols into high-value molecules
+via the reversible formation of a reactive carbonyl intermediate mediated
+by a metal catalyst. Because BH catalysis
+typically avoids wasteful and unnecessary stoichiometric redox-state
+manipulations, it usually leads to eco-compatible processes with high
+atom-economy and low chemical waste. Multicatalytic systems incorporating
+a BH catalyst offer the opportunity to engage the carbonyl intermediate
+into stereoselective transformations to afford valuable enantioenriched
+molecules directly from commodity alcohols. In that respect, Quintard
+and Rodriguez combined BH catalysis with organocatalysis to transform
+allylic alcohols into complex building blocks featuring two contiguous
+stereocenters, one of which being quaternary. To promote the BH catalytic cycle, they selected the Knölker
+complex, a simple achiral iron catalyst
+that converts allylic alcohols into sensitive unsaturated aldehydes.
+These aldehydes are now prone to iminium activation with the Hayashi
+catalyst, a common proline-derived organocatalyst,
+to trigger the stereoselective addition of a β-ketoester. Then,
+final hydrogenation of the obtained aldehyde affords the desired product
+and closes the BH catalytic cycle ( Scheme ).
+
+In a similar fashion, Wang and co-workers recently
+reported a dual
+catalytic process involving a chiral borrowing hydrogen catalyst together
+with a chiral copper catalyst acting as a Lewis acid. The combination of these two chiral catalysts
+enabled the stereodivergent hydroalkylation of racemic allylic alcohols
+with prochiral nucleophiles leading to valuable nitrogen-containing
+heterocycles having two distal stereocenters. Each of the four stereoisomers
+is accessible with this method, it just depends on the combination
+of the catalysts that is used.
+
+Cooperative catalysis, also called
+synergistic catalysis, refers to multicatalytic
+systems in which catalysts
+operate in concert by sharing catalytic intermediates, thus enabling
+the activation of both partners of a bimolecular reaction. Cooperative
+catalysis is a powerful strategy to develop novel and previously unattainable
+chemical transformations because of the simultaneous dual activation
+of two reactions partners, a feature that can significantly decrease
+the activation barrier of a given transformation. Along this line,
+cooperative catalysis allows for example the enantioselective hydrogenation
+of imines to amines, an industrially relevant process, with an environmentally
+benign iron catalyst working in concert with a chiral phosphoric acid. Such type of hydrogenation is traditionally
+performed with monocatalytic systems involving expensive and nonsustainable
+chiral complexes based on a precious transition metal such as Ir,
+Rh or Ru. In comparison, complexes based
+on earth abundant iron are less performant for hydrogenation and much fewer chiral ligand scaffolds are
+available to perform it in an enantioselective fashion. However, since
+cooperative catalysis enables the activation of both partners, it
+opens the doors for novel strategies. In this respect, Beller and
+co-workers relied on the Knölker complex to activate dihydrogen while a chiral phosphoric acid is
+used to activate the imine partner toward the iron-hydride, thus enabling
+enantioselective hydrogenation without a chiral ligand on the metal
+( Scheme ).
+
+Another type of cooperative catalysis that looks
+very promising
+for sustainable synthesis is the merger of photocatalysis and enantioselective
+catalysis. In these multicatalytic systems,
+a photocatalyst acts like an antenna to harvest light energy and convert
+it into chemical energy via the generation of short-lived open-shell
+species. Meanwhile, a chiral catalyst orchestrates stereoselective
+processes with these species to afford enantioenriched molecules.
+Recent work from the group of Phipps on enantioselective Minisci reactions
+with redox active esters illustrates the great potential of such dual
+enantioselective catalytic systems ( Scheme ). , Indeed, they managed
+to transform a variety of pyridines, quinolines and diazines, which
+are among the most important nitrogen containing heterocycles for
+synthetic bioactive compounds, into
+highly valuable benzylic amine motifs under very mild conditions (room
+temperature, neutral conditions). An excited iridium-based photocatalyst
+(Ir- PC ) reduces activated esters derived from amino acids
+to generate α-amino radicals via a radical decarboxylation.
+In the meantime, a chiral phosphoric acid ( CPA ) protonates
+a nitrogen-containing heterocycle to promote a regioselective addition
+of the radical followed by an enantiodetermining deprotonation. The
+reaction usually proceeds with excellent regio- and enantioselectivities,
+thus enabling selective late-stage peripheral editing of potent pharmaceuticals. Of note, other research groups could later
+advantageously replace the iridium photocatalyst used in the original
+system with an organic dye or a combination
+of triphenylphosphine and iodine.
+
+Because light energy is injected in dual photocatalytic
+systems,
+activation barriers can be drastically reduced so it opens tremendous
+opportunities for sustainable enantioselective catalysis. For example,
+one could consider replacing a noble metal such as palladium by a
+more sustainable but less performant one such as copper or nickel for
+novel enantioselective cross couplings and such type of processes
+can even be run in flow. Because the
+generation of radicals in a controlled manner is greatly facilitated
+by photoredox catalysis, one can think about novel enantioselective
+C-H functionalizations operating via hydrogen
+atom transfer (HAT) pathways to access molecular complexity from renewable
+ressources. Finally, photocatalysis
+also allows for contra-thermodynamics processes such as deracemization or forbidden cycloadditions, transformations that can result in high-value enantioenriched
+compounds starting from simple and readily available substrates.
+
+STEP-ECONOMY AND MOLECULAR DIVERSITY
+Recent trends in chemistry require organic chemists to design new
+strategies for a more efficient organic synthesis. A primary objective
+is to develop approaches that enable a rapid access to increasingly
+complex molecules. Today, total synthesis is envisaged with the aim
+of preparing natural products on a gram scale in a minimum number
+of steps, so that the quantities supplied facilitate the study of
+their properties. On the other hand,
+the direct site-selective modification of a complex molecule, such
+as a natural product or a drug, is an invaluable method to provide
+a streamlined access to libraries of compounds, that will be too time-consuming
+or even impossible to prepare using a classical organic chemistry.
+Such transformations can be likened to a scalpel aimed at modifying
+the properties of molecules in a customized manner and reaching a
+new molecular space. They include the peripheral editions of a compound
+through late-stage functionalization, or its skeletal modification via rearrangements or atom insertion,
+deletion or swapping.
+
+Natural
+products still challenge the creativity of organic chemists
+because the field of total synthesis has evolved to be included in
+translational research programs. In this context, the main objective
+is now to produce a natural product on a scale that allows its properties
+to be studied. This requires the design of streamlined synthetic schemes,
+and catalytic asymmetric synthesis appears essential to this end.
+The total synthesis of (+)-Lucidumone recently published by the group
+of de la Torre perfectly highlights such trends in modern asymmetric
+total synthesis ( Scheme ). The retrosynthetic analysis
+led the authors to propose an inverse-electron-demand Diels-Alder
+cycloaddition between a 2-pyrone and an enol ether as the key step
+of the sequence. Thus, the search for an enantioselective synthesis
+of (+)-Lucidumone required developing this step in an asymmetric version,
+which was made possible by the discovery of a versatile copper-catalyzed
+process. The catalytic enantioselective
+cycloaddition delivers the expected bridged lactone with high levels
+of diastereo- and enantiocontrol. Then, the lactone was converted
+in 9 steps to the enantiopure natural product with an overall yield
+of 27% that enables the isolation of the enantiopure natural product
+on a gram quantity.
+
+The pressing need for synthetic efficiency including
+step- and atom-economy
+has translated to the emergence of new challenges in asymmetric catalysis.
+
+A typical example is represented by catalytic C-H functionalization
+reactions, which today lead the organic chemists to consider nonactivated
+C-H bonds as functional groups. This paradigm shift affords new retrosynthetic analyses for a more
+efficient synthesis, and for which the design of asymmetric versions
+requires the development of new chiral catalysts. Needless to mention,
+the engineering of new bioinspired catalysts provides unique opportunities
+to this end, given the ability of natural enzymes to catalyze highly
+selective C-H oxidation reactions.
+
+A first class of transition metal-catalyzed C-H functionalization
+reactions proceeds via an inner sphere mechanism. These so-called
+“C-H activation” reactions have challenged the
+creativity of chemists who have designed new families of ligands to
+control the formation of stereogenic centers. This approach was recently applied to the control of the
+more challenging helicoidal chirality for the enantioselective synthesis
+of carbo­[ n ]­helicenes and the development of OLEDs
+( Scheme ). Thus, the group of Baudoin described a catalytic
+system based on a Pd(0) complex and a binaphthyl-derived phosphine-carboxylate
+ligand L* . This bifunctional ligand plays a key role
+in each elementary step of the asymmetric transformation, which includes
+the oxidative addition of the Pd(0) complex into the C-Br bond,
+the subsequent concerted-metalated deprotonation of the C-H
+bond by the carboxylate moiety, and the final reductive elimination
+to deliver the helicene. Particularly, this ligand proved more efficient
+than a simple binaphthylphosphine combined with an external carboxylate
+cocatalyst, to convert achiral ( Z )-1,2-diarylethylenes
+to enantioenriched helicenes via a palladium-catalyzed intramolecular
+C-H arylation reaction. The complexity of the phosphine-carboxylate
+ligands raises the issue of their multistep synthesis, however, these
+are noteworthy ligands as they proved as efficient for the equally
+challenging control of planar chirality in the formation of cyclophanes
+through an intermolecular C-H arylation reaction.
+
+Metal-catalyzed C-H functionalization
+reactions can also
+proceed according to an outer sphere mechanism with the formation
+of highly reactive metal-bound oxo, carbene or nitrene species that
+directly insert into a C­(sp 3 )-H bond. These transformations,
+which are reminiscent to those catalyzed by cytochromes in Nature,
+have a complementary scope to that of C-H activation processes. It is noteworthy that, contrary to the latter,
+they do not rely on the use of a directing group and their selectivity
+can be controlled through the design of relevant catalysts. The use
+of dirhodium tetracarboxylates, to this end, proved remarkably efficient. According to the carboxylic acid ligand, they
+can adopt various geometries. Among those, the C 4 -symmetrical complexes offer unique opportunities in asymmetric
+catalysis with their chiral hydrophobic pocket delineated by the ligands
+that enables the establishment of noncovalent interactions between
+the substrate and the reagent. The group of Davies demonstrated that
+this chemistry was perfectly suited to access a new molecular space
+in medicinal chemistry ( Scheme ). Thus, the catalytic enantioselective insertion of
+rhodium-bound carbenes generated from diazo compounds into the tertiary
+C­(sp 3 )-H bond of strained bicyclo[1.1.1]­pentanes
+affords a direct access to optically pure derivatives. This approach competes favorably with previous
+synthetic strategies in terms of step-economy, affording in one step
+bioisosteric analogs of phenylglycines with improved pharmacokinetic
+properties.
+
+In the context of catalytic nitrene C-H
+insertion reactions,
+the C 4 -symmetrical hydrophobic pocket
+of the dirhodium complexes is appropriate to tune the selectivity
+of the reaction according to the nature of the reagent ( Scheme ). Whereas the
+BDE-driven enantioselective amination of benzylic C-H bonds
+(BDE 85 kcal·mol -1 ) can be performed efficiently
+with a benzylic sulfamate, the use of
+a trisubstituted aromatic sulfamate enables the asymmetric conversion
+of an unactivated homobenzylic C-H bond (BDE > 95 kcal·mol -1 ). Such a catalyst-controlled
+strategy is invaluable to create a divergent molecular diversity from
+a single molecule.
+
+Highly selective C-H functionalization
+reactions can finally
+be designed by application of radical chemistry, a field that recently
+emerged with the advent of photocatalysis (see previous chapter). Combined with transition metal catalysis, this
+strategy provides new opportunities in asymmetric synthesis for the
+late-stage functionalization of bioactive compounds. This was demonstrated
+by the group of Kramer who reported the use of a chiral copper complex
+combined with an iridium photocatalyst as an efficient system for
+the enantioselective amination of benzylic C­(sp 3 )-H
+bonds ( Scheme ). The reaction proceeds through the formation
+of a benzylic radical via a hydrogen atom transfer mediated by the tert -butoxy radical generated from di- tert -butylperoxide in the presence of the photocatalyst. The radical
+then reacts with a chiral copper-amido species to deliver the expected
+benzylic amine. Various drug-like molecules can be selectively functionalized
+under these conditions, a transformation whose value is greatly enhanced
+by the possibility of using 15 N-labeled reagents for the
+synthesis of radiolabeled compounds.
+
+The last five years have witnessed the emergence
+of a new concept
+in synthesis, i.e., the so-called “molecular editing”
+that can be considered as a chemical site-directed mutagenesis. In a single step, it is possible to modify
+the core of complex products according to several elementary operations
+that include rearrangements (ring expansion or contraction), mutations
+(deletion or insertion of a single atom) or transmutations (replacement
+of one atom by another one). Needless
+to mention, these transformations raise new challenging issues in
+asymmetric catalysis that remain to be addressed. In this context,
+Bi and co-workers very recently reported a first breakthrough with
+the dirhodium­(II)-catalyzed enantioselective homologation of indoles
+( Scheme ). The reaction proceeds through the initial nucleophilic
+attack of the indole on the chiral rhodium-bound carbene generated
+from a specific trifluoromethylhydrazone. This is the enantiodetermining
+step of the process that is followed by the formation of a cyclopropane
+and its subsequent NaH-mediated rearrangement to the 3,4-dihydroquinoline
+derivative. This last step occurs with retention of configuration
+to deliver an optically pure CF 3 -containing compound of
+utmost interest in medicinal chemistry. Interestingly, this process
+can also be applied to the homologation of pyrroles. Moreover, the
+clever design of new rhodium-bound carbyne species generated from
+a leaving group-containing diazo compound enabled the development
+of one of the first atroposelective single-carbon insertion into indoles
+for the formation of atropochiral quinolines.
+
+The search for innovation in synthesis still
+challenges the creativity
+of organic chemists who manage to address issues of increasing complexity.
+New reagents and catalysts as well as relevant conditions are developed
+to this end with the aim to report efficient selective processes.
+However, these major achievements are often accomplished without taking
+sustainability criteria into account. This includes high catalyst
+loading to reach good conversion, the design of nonreadily available
+complex ligand, or the use of irrelevant solvents. The rise of C-H
+bond activation associated with the use of 1,2-dichloroethane is a
+textbook case in this context, which required to look for alternative
+solvents to develop a sustainable chemistry.
+
+CONCLUSION
+In conclusion, asymmetric
+catalysis is a central science to sustainable
+organic synthesis because of the ever-increasing need for chiral enantioenriched
+molecules that are essential to our society. As described in this
+Outlook, various innovative strategies have recently been implemented
+to develop enantioselective reactions incorporating more benign or
+earth abundant catalysts together with milder and greener reaction
+conditions. In addition, the scope of substrates amenable to enantioselective
+transformations has also considerably expanded over the last decades.
+Now, it encompasses a range of readily available unactivated substrates
+derived from biomass and renewable resource, thus enabling synthetic
+chemists to explore an always-broader chiral chemical space.
+
+We have shown in this Outlook which new strategies have been developed
+recently, but we do not aim to specify which ones are the most promising
+to pursue. Synthesis chemists continue to demonstrate creativity in
+many different areas but they are nowadays fully aware of the need
+to embrace sustainability. This was not necessarily required in the
+past when developing high value-added products, but those days are
+over. A current challenge for asymmetric catalysis is the identification
+of metrics to assess the sustainability of a given process, in particular
+when sophisticated catalytic systems are involved. While process mass
+intensity or its derived E-factor were traditionally selected by the
+industry, , the focus has recently shifted
+toward life cycle assessment that enables an holistic sustainability
+evaluation. , However, this approach is data
+intensive and is currently hindered by the limited availability of
+production data for fine chemicals.
+
+Obviously, asymmetric catalysis
+must face other challenges than
+sustainability. Indeed, creativity still must be at the forefront
+in order to tackle new challenges in this area such as the selective
+synthesis of stereogenic atoms other than carbon as well as axially-,
+helically- or planar-chiral structures. In addition, asymmetric catalysis
+could also be involved in solving a fundamental but yet elusive question
+that is the origin of biological homochirality on Earth. To face all these challenges, synthetic chemists
+will probably rely more and more on novel enabling technologies such
+as high-throughput experimentation and the use of artificial intelligence.
+
+ACKNOWLEDGMENTS
+The authors are indebted to the Université
+Paris-Saclay, the CNRS, and the Agence Nationale de la Recherche (program
+no. ANR-21-CE07-0016-01, program no. ANR-22-CE07-0A40-01, and program
+no. ANR-23-CE07-0042-02) for their financial support.
+
+SECTION
+All authors
+have given approval to the final version of the manuscript.
+
+SECTION
+The authors
+declare no competing financial interest.
+
+SECTION
+This Outlook is dedicated
+to Professor Henri B. Kagan for his pioneering and outstanding contribution
+in the area of asymmetric catalysis.

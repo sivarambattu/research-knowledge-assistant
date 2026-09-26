@@ -1,0 +1,710 @@
+ABSTRACT
+Visible light photocatalysis has reshaped synthetic organic
+chemistry
+by enabling mild and selective radical processes. However, its widespread
+adoption is still constrained by the reliance on homogeneous photocatalysts,
+typically precious-metal complexes or organic dyes, which complicate
+recovery, recyclability, scalability, and integration into telescoped
+continuous flow processes. Heterogeneous photocatalysts (hPCs) offer
+a sustainable alternative, and among emerging candidates, π-conjugated
+polymers (π-CPs) have recently attracted attention as tunable,
+metal-free semiconductors capable of efficient visible light harvesting.
+This perspective highlights poly­(arylene-ethynylene)­s (PAEs), a distinctive
+subclass of π-CPs whose modular, conjugated backbones enable
+control over morphology, band structure, and excited-state behavior.
+Historically developed for optoelectronic applications, PAEs are now
+gaining traction as photocatalysts in synthetic organic chemistry,
+including in continuous flow reactors. Yet, the absence of systematic
+structure-reactivity relationships limits rational catalyst
+design and restricts broader deployment. Here, we examine emerging
+trends that link PAEs structure to photocatalytic function and articulate
+guiding principles for designing next-generation polymeric photocatalysts.
+By integrating concepts from materials science and synthetic methodology,
+this perspective aims to establish PAEs as robust, recyclable, and
+versatile platforms for sustainable photocatalysis.
+
+INTRODUCTION
+Over the past few decades,
+visible light photocatalysis has become
+a cornerstone of modern organic synthesis, enabling mild and selective
+processes that unlock radical reactivity, challenging bond constructions,
+and previously inaccessible reaction pathways. While homogeneous molecular photocatalysts (PCs) have driven many
+of these advances, their broader implementation
+is constrained by limited catalyst recovery, photostability, and compatibility
+with sustainable continuous or multistep processing. These limitations have spurred increasing interest in heterogeneous
+organic semiconductor photocatalysts (hPCs), which combine molecular-level tunability with the inherent recyclability
+of solid-state materials, including straightforward integration in
+continuous flow systems.
+
+Among emerging
+hPC platforms, conjugated polymers (π-CPs)
+have attracted attention due to their modular synthesis, broad visible
+light absorption, and structural robustness under photocatalytic conditions. Within this class, poly­(arylene-ethynylene)­s
+(PAEs)constructed from aromatic units linked by ethynylene
+spacersoccupy a distinctive position. PAEs are readily accessible from commercially available building
+blocks via well-established cross-coupling strategies, enabling their
+tuning for a wide range of photocatalytic applications. Although their
+semiconducting properties have been recognized for more than two decades,
+PAEs have historically been applied in molecular electronics and photonic
+materials. Only recently, driven by the
+resurgence of visible light photocatalysis, PAEs have emerged as heterogeneous
+photocatalysts for organic transformations. Key to their reactivity
+is the efficient π-electron delocalization upon irradiation,
+which generates long-lived excited states capable of productive single
+electron and energy transfer events (SET and EnT, respectively, Scheme ). ,
+
+Despite this promise, the development of PAE-based
+photocatalysts
+has largely proceeded through empirical exploration with limited articulation
+of general structure-reactivity relationships. This has hindered
+rational catalyst design and constrained their broader adoption in
+synthetic organic chemistry. We contend, however, that the accessibility
+and structural regularity of PAEs make them particularly well suited
+as model systems for probing structure-reactivity relationships
+in heterogeneous photocatalysis.
+
+In parallel, while continuous
+flow photocatalysis has been widely
+recognized as a strategy to overcome photon- and mass-transfer limitations
+inherent to batch photochemical reactions, the use of PAEs in flow systems remains comparatively underdeveloped.
+
+In this perspective, we analyze recent advances in PAE-based heterogeneous
+visible light photocatalysis with an emphasis on identifying unifying
+structure-reactivity principles and highlighting opportunities
+enabled by continuous flow operation. Our goal is to establish a conceptual
+and forward-looking framework for the rational design and implementation
+of PAEsand organic semiconductor photocatalysts more broadlyin
+synthetic photocatalysis, spanning material design, reaction development,
+and flow-based processing. Finally, we discuss future directions of
+research and identify key advances needed to fully exploit the potential
+of PAEs as heterogeneous photocatalysts in synthetic organic chemistry.
+
+BACKGROUND ON PAES PHOTOCATALYSIS
+To
+illustrate the defining structural and photophysical characteristics
+of PAEs, poly­( para -phenylene ethynylene) ( 1 )the simplest member of this family, composed exclusively
+of benzene ringsis considered as a model system ( Scheme a). In its ground-state, 1 is a rigid, rod-like polymer that adopts a conformation
+of successively twisted phenylacetylene repeat units. It is insoluble in common organic solvents and displays
+strong visible light absorption, with an absorption tail extending
+beyond 800 nm. Despite high thermal stability (>300 °C), polymer 1 exhibits a very low rotational barrier (<1 kcal·mol -1 ), enabling facile backbone
+planarization under mild activation. Accordingly, visible light irradiation
+promotes rotation of π-orbitals between adjacent units, generating
+a planarized, conjugated backbone and triggering π-electron
+delocalization over approximately 3-10 repeat units. The resulting excited-state ( 1* ) is commonly described as a cumulene-like (or quinoid ) structure displaying separated positive and negative charges, where
+reactions can take place. As we will see later, the charge separation
+and migration strongly influence the excited-state lifetimes of PAEs
+and therefore their reactivity. As for the simplest PAE 1 , the triplet excited-state lifetime ( τ) reaches ca. 200 μs, sufficiently
+long to sustain productive photocatalytic processes.
+
+In general, the excited-state electronic structure
+of PAEs is commonly
+described using simplified energy diagrams based on the semiconductor
+band-theory formalism ( Scheme a, lower left). In the ground-state
+(i.e., the twisted backbone), electrons occupy the valence band (VB);
+upon photoexcitation with energy exceeding the band gap ( E G ), electrons are promoted to the conduction band (CB),
+generating excitons (or electron-hole pairs, i.e., excited-states).
+As noted above, the extended conjugation of PAEs facilitates π-electron
+delocalization, enabling spatial separation and migration of the electron-hole
+pair (i.e., the quinoid form). Because
+the charge transport is dominated by photoexcited electrons that move
+toward the material surface, PAEs are classified as n-type semiconductors.
+
+Photoexcited
+PAEs accumulate electrons at their surface and are intrinsically predisposed
+toward single-electron reduction chemistry. This electronic bias rationalizes the widespread use of molecular
+oxygen as a reaction partner in PAE-based heterogeneous photocatalysis,
+where O 2 functions as the excited-electron quencher. As
+a result, aerobic oxidations, including the conversion of sulfides
+to sulfoxides, amines to imines, and arylboronic acids to phenols,
+constitute the most extensively reported transformations ( Scheme b). These reactions
+may proceed through complementary mechanistic pathways, encompassing
+SET processes that generate superoxide (O 2 •- ) and EnT pathways involving singlet oxygen ( 1 O 2 ). The catalytic cycle depicted in Scheme b for amine oxidation
+is likewise applicable to sulfide and arylboronic acid oxidations,
+although the latter requires a sacrificial tertiary amine (R 3 N).
+
+STRUCTURE–REACTIVITY RELATIONSHIP OF
+PAES
+Understanding
+how structure governs photocatalytic activity is
+essential for moving beyond the empirical optimization of PAEs toward
+rational catalyst design. In these materials, subtle variations at
+both the molecular level and the macromolecular level can profoundly
+influence light absorption, charge separation, and interfacial reactivity.
+Drawing on selected literature, the following section examines how
+these structural parameters collectively modulate the photophysical
+and catalytic behavior of solid-state PAEs, with the goal of establishing
+clear structure-activity relationships. Specifically, we address the
+following questions: What role does the CC linkage play in
+governing the reactivity of the PAEs? How do substituents on the aromatic
+rings modulate the PAE reactivity? How do macromolecular characteristicssuch
+as surface area, porosity, and particle sizeimpact the overall
+photocatalytic activity of PAEs ( Figure )?
+
+Structure-reactivity relationship study
+of PAEs at the molecular
+and macromolecular scales.
+
+The CC triple bond is an inherent structural feature of
+PAEs, but its specific role in determining their reactivity is crucial.
+A study led by Lan and Bai addressed this aspect by comparing the
+photocatalytic activity of triazine-derived PAEs incorporating different
+linkers: single (C-C, 2 ), double (CC, 3 ), and triple bonds (CC, 4 ), in benchmark
+oxidation reactions of thioanisole 5 and benzylamine 7 . Across all cases, CC
+triple bond-containing PAE 4 consistently afforded the
+highest yields of the oxidized products99% of sulfoxide 6 and imine 8 when used as a hPC. Comprehensive
+analytical studies were performed on materials 2 - 4 , revealing distinct differences in their optical properties.
+In the absorption spectra, PAE 4 exhibited a markedly
+enhanced absorption profile in the visible region ( abs λ tail ( 4 ) > 800 nm) relative to 3 ( abs λ tail ( 3 ) = 750 nm)
+and 2 ( abs λ tail ( 2 ) =
+680 nm). These spectral differences correlated with the band gaps,
+which decreased progressively from 2.05 eV for 2 to 1.92
+eV for 3 , and from 1.86 eV for 4 . The measurement
+of redox potentials demonstrated that all materials could reduce dioxygen
+( E red [O 2 /O 2 •- ] = -0.59 V vs SCE) via SET at the CB (excited electrons), with hPC 4 displaying the highest reductive power ( E [ 4e- ] = -1.30 V vs SCE). However, the redox potentials
+at the VB (holes) were thermodynamically insufficient to promote single
+electron oxidations on thioanisole ( E ox [PhSMe/PhS •+ Me] = +1.59 V vs SCE), discrediting the photoredox pathway proposed by the authors.
+Instead, we concluded that an EnT pathway via 1 O 2 might be the main mechanism. Finally, photoluminescence and time-resolved
+fluorescence spectroscopy revealed that 4 possessed the
+longest singlet excited-state lifetime (34 ns), slightly exceeding
+those of 3 (30 ns) and 2 (23 ns). Although
+these lifetimes cannot be directly correlated with the predominant
+EnT pathway, they nonetheless reflect enhanced exciton stability in 4 , accounting for its better catalytic activity ( Scheme ).
+
+Taken together, these results demonstrate that
+incorporation of
+π-linkers into the polymer backbone markedly enhances the photocatalytic
+efficiency in oxidative transformations. This improvement stems from
+the increased conjugation, as revealed by spectroscopic analyses,
+which broadens absorption into the visible region and enables more
+efficient light harvesting. Although the differences between CC
+and CC π-linkers are relatively subtle here, the absorption
+profiles and band gap measurements indicate that CC linkers
+provide improved absorption characteristics thanks to their linear
+geometry, which reduces steric hindrance, strengthens the orbital
+overlap, and enhances conjugation. This results in more effective
+electron delocalization upon irradiation and prolonged excited-state
+lifetimes, ultimately giving better photocatalytic efficiency. The
+CC motif also increases the single electron reducing power
+of the polymers, as reflected in their redox potentials. Collectively,
+these attributes confer improved catalytic performance to PAEs, consistent
+with additional studies (not shown here) that underscored the pivotal
+role of alkyne linkers in conjugated polymers (Practical Highlight
+1).
+
+High conjugation is a key driver of the light harvesting capabilities
+of PAEs. A critical design element in conjugated PAE systems is the
+positioning of the CC triple bonds on the aromatic core. While
+most reported PAEs incorporate meta -trisubstituted
+aromatic linkers (e.g., 1,3,5-triethynylbenzene), resulting in nonfully
+conjugated backbones, our group has demonstrated that fully conjugated
+linkers can significantly enhance photocatalytic performances ( Scheme ).
+
+To evaluate this effect, three poly­(phenylene-ethynylene)­s
+(PPEs)
+were synthesized: the fully conjugated linear PPE ( 1 ),
+the 1,3-branched ( 9 ), and the 1,3,5-trisubstituted one
+( 10 ). In the model benzylamine oxidation reaction, the
+expected imine product 8 was obtained in comparable yields
+using 1 and 9 (67% and 66%, respectively)
+and in slightly lower yield with 10 (60%). Notably, under
+continuous flow conditions, photocatalyst 1 delivered
+a quantitative yield (100%), whereas 9 and 10 afforded only 72%. Photophysical studies revealed a lower band gap
+for 1 (2.60 eV) and 9 (2.54 eV) relative
+to 10 (2.79 eV), consistent with their absorption profiles.
+Interestingly, material 10 exhibited a higher oxidative
+power ( E [ 10h + ] = +1.86 V vs SCE) compared with 9 ( E [ 9h + ] = +1.76 V vs SCE) and 1 ( E [ 1h + ] = +1.67 V vs SCE). Also, PAEs 1 and 10 displayed a higher reductive power (-0.93 V vs SCE) in comparison
+with 9 ( E [ 9e - ] = -0.78 V vs SCE). Additionally, the
+changes in aromatic substitutions afforded very different surface
+areas for the three materials (calculated with the Brunauer-Emmett-Teller
+method, BET). As such, 1,4- and 1,3-disubstituted materials 1 and 9 displayed no porosity ( S BET < 50 m 2 g -1 ), while
+1,3,5-trisubstituted polymer 10 was highly porous ( S BET ( 10 ) = 1031 m 2 g -1 ). Mechanistic investigations indicated that both
+photoredox and energy transfer pathways were operative under these
+conditions.
+
+Therefore, these investigations demonstrated that
+linear 1,4-diethynylbenzene
+precursors are better suited for heterogeneous photocatalysis in general,
+thanks to the better conjugation of the polymer. It also highlighted
+that modifying the position of the CC triple bond on the aromatic
+rings had a non-negligible influence on the redox potentials and that
+higher redox potentials and higher porosity do not necessarily mean
+higher reactivity. Additionally, the differences in reactivity between
+batch and flow systems revealed that traditional batch conditions
+can be sometimes limited for distinguishing subtle differences in
+photocatalysts’ performance. In contrast, flow systems, due
+to their enhanced surface-area-to-volume ratio and more homogeneous
+irradiation, enable accelerated reaction kinetics and more accurate
+comparison of catalyst efficiencies. In this case, the reaction time
+decreased from 19 h in batch to 9 min in flow, allowing for clear
+differentiation among the three photocatalysts, which appeared nearly
+equivalent under batch conditions (Practical Highlight 2).
+
+Conjugated
+polymers require planar architectures to enable efficient charge transport.
+Such planarity may arise either from rotational relaxation upon excitation
+or from an intrinsically planar ground-state structure. A study conducted
+by Zhang, Ruan, Qian, and Rueping highlighted this effect by incorporating
+various 9-fluorenone derivatives with different branching patterns
+into pyrene-derived PAEs (C2-branched 11 ; C3-branched 12 , Scheme a). Interestingly, branching patterns
+strongly influenced the ground-state planarity of the polymers. DFT
+calculations showed that polymer 11 was fully planar,
+whereas polymer 12 adopted a curved geometry. Also, 11 displayed a slightly lower band gap (1.78 eV) than 12 (1.87 eV), rationalized from minor differences in their
+absorption profiles. Submitting 11 and 12 in the SET-mediated photocatalytic aerobic oxidation of N -aryl tetrahydroisoquinolines (such as 13 )
+demonstrated the superior catalytic activity of 11 , which
+afforded a 96% yield of product 14 (instead of 26% for 12 ). In addition to its improved planarity, the measurement
+of redox potentials also provided insights into the better reactivity
+of 11 . While hole redox potential measurements (1.05
+and 1.30 V vs SCE for 11 and 12 , respectively)
+demonstrated that both materials could thermodynamically oxidize N -aryl tetrahydroisoquinolines ( E ox = +0.89 V vs SCE), the CB potentials
+(-0.73 V vs SCE for 11 and -0.57 V vs SCE
+for 12 ) highlighted that 11 was thermodynamically
+capable to reduce dioxygen, whereas 12 lies near the
+reduction threshold ( E red [O 2 /O 2 •- ] = -0.59 V vs SCE).
+As such, this difference likely accounts for the lower activity of 12 in this transformation.
+
+Thus, this study showed that slight molecular
+changes around the
+CC triple bond can have a strong impact on reactivity due
+to planarity effects. In particular, variations in the planarity exert
+a direct influence on the redox properties of these materials. As
+observed earlier, more planar architectures exhibit enhanced reducing
+power, whereas increased torsion correlates with greater oxidative
+capability. Because PAEs operate as n-type semiconductors, the reductive
+strength of the CB is more consequential than the oxidative ability
+of the VB, accounting for the superior catalytic activity of 11 in SET processes.
+
+In the same vein, Zhao, Geng, and
+Tan recently demonstrated that
+modifying the backbone of pyrene-containing PAEs using linkers with
+varying degrees of ring strain or rigidity could effectively alter
+the mode of reactivity. For this, a series
+of pyrene-containing PAEs interconnected with different linkers1,4-diethynylbenzene
+( 15 ), 4,4′-diethynylbiphenyl ( 16 ),
+and 3,4′-diethynylbiphenyl ( 17 )were synthesized
+( Scheme b).
+
+DFT calculations revealed that while compound 15 was
+fully planar, compounds 16 and 17 exhibited
+torsion angles of 37° and 43°, respectively. The absorption
+profiles as well as the band gap were almost similar for all three
+materials, enabling the study of the influence of the torsion angle
+as a sole changing parameter. For this, the three materials were first
+engaged in the photocatalytic oxidation of phenylboronic acid 18 to phenol 19 , known to occur through a SET
+mechanism under these conditions (triethylamine being used as a sacrificial
+single electron reductant). As anticipated, planar catalyst 15 delivered the highest yield of phenol 19 (99%),
+whereas 16 and 17 provided only moderate
+yields (43% and 36%, respectively). Interestingly, when applied to
+the oxidative [4 + 2]-photocycloaddition between N -phenylmaleimide ( 20 ) and N , N -dimethylaniline ( 21 ), known to proceed via
+an EnT mechanism here, the trend was reversed: photocatalyst 16 delivered the best performance, affording cycloadduct 22 in 99% yield.
+
+The redox potentials of materials 15 - 17 were determined, revealing that
+all three hPCs are thermodynamically
+capable of oxidizing triethylamine ( E ox [Et 3 N/Et 3 N +• ] = +0.90 V vs
+SCE) and reducing dioxygen. Consistent
+with prior observations, the planar derivatives exhibited greater
+single electron reducing power relative to that of the twisted analogues,
+but this sole interpretation is insufficient to rationalize the pronounced
+divergence observed in their photochemical reactivity. To probe the
+origin of these differences, the singlet exciton binding energiesnamely
+the energy required to separate the electron-hole pair into
+free charge carriersof 15 , 16 , and 17 were measured to be 30, 45, and 88 meV, respectively, demonstrating
+that the planar system 15 achieved more efficient charge
+separation than either 16 or 17 . Fluorescence
+quenching experiments in the presence of O 2 revealed a
+substantial reduction in the excited-state lifetime of 15 , whereas the lifetimes of 16 and 17 remained
+largely unchanged. Taken together, these data supported the conclusion
+that 15 underwent productive photochemistry primarily
+from its singlet excited-state via a SET pathway, facilitated by its
+superior charge-separation capacity, a rare case in semiconductor
+photocatalysis. In contrast, the twisted derivatives exhibited longer
+triplet-state lifetimes (13, 23, and 40 μs for 15 , 16 , and 17 , respectively), consistent
+with a more efficient EnT engagement. DFT calculations corroborated
+this interpretation by indicating that the twisted architectures possessed
+an increased propensity for intersystem crossing (ISC), thereby accounting
+for their enhanced performance in the [4 + 2]-photocycloaddition.
+
+Collectively, these studies underscored the critical influence
+of the aromatic ring planarity on the photophysical and photochemical
+behavior of PAEs. Enhanced planarity strengthens π conjugation,
+increases visible light absorption, and promotes charge separation.
+Undeniably, planar systems exhibit a higher single electron reducing
+power but diminished oxidizing ability relative to their twisted counterparts.
+Because PAEs behave as n-semiconductors, the reductive capability
+of their CB dominates the oxidative strength of their VB in photoredox
+pathways. Moreover, distortions can facilitate ISC and preferentially
+channel reactivity through triplet-state EnT mechanisms. Overall,
+these findings further highlight that the excited-state behavior of
+PAEs can be systematically tuned through modulation of the planarity
+of the aromatic substituents ( Scheme , Practical Highlight 3).
+
+A critical
+aspect to consider in the design of PAEs is the electronic influence
+of their substituents. As discussed above, charge separation in PAEs
+is a key determinant of the photocatalytic reactivity. While much
+of the focus has been placed on enhancing conjugation to promote charge
+separation, this is not the only strategy available. The incorporation
+of electron-donating or electron-withdrawing monomers can generate
+donor-acceptor architectures with tailored electronic properties
+that facilitate exciton dissociation. So far, a few studies investigated this aspect through the prism
+of organic synthesis. Unfortunately, these studies only display the
+influence of electron density on resulting redox potentials, neglecting
+the kinetic parameters, which might prevent the full understanding
+of the structure-reactivity relationship in this section.
+
+In 2015, the group of Zhang investigated this aspect by examining
+the reactivity of single-atom-modified PAEs incorporating benzochalcogendiazole
+acceptors bearing oxygen ( 23 ), sulfur ( 24 ), or selenium ( 25 ) atoms ( Scheme a). UV-vis
+spectroscopy revealed that 23 and 24 exhibited
+similar absorption profiles, with maxima around 800 nm, while 25 extended into the near-infrared region (>1000 nm). This
+trend was reflected in their band gaps: 2.70 and 2.77 eV for 23 and 24 , respectively, and a narrower gap of
+2.41 eV for 25 . Redox potential measurements indicated
+that the oxygen-containing 23 had the highest single
+electron reducing power (-1.22 V vs SCE), followed by 24 (-1.08 V vs SCE) and 25 (-1.06
+V vs SCE), consistent with the increasing electron-accepting nature
+of the chalcogen atoms. Intriguingly, 24 exhibited the
+highest oxidative power (+1.69 V vs SCE), but the reason for this
+remains unclear. The authors conducted EPR spectroscopy, which showed
+a more intense signal for 24 , suggesting a longer-lived
+exciton, although no direct lifetime measurements were reported. Then,
+they tested those materials in the benchmark benzylamine 7 oxidation reaction occurring through both SET and EnT mechanisms
+and found that sulfur-containing 24 outperformed its
+analogues, delivering a 74% conversion of amine 7 (no
+yield was provided). Although some photophysical parameters remain
+unmeasured, the superior performance of 24 may result
+from a more persistent excited state in the presence of a sulfur atom.
+
+In a similar vein, the same group investigated
+the donor-acceptor
+effects by systematically varying the ratio of donor to acceptor in
+PAEs made of triethynylbenzene as donor units and phenyl or benzobisthiadiazole
+(BBT) as acceptor units. As such, they
+prepared different PAEs containing 0% ( 26 ), 10% ( 27 ), 50% ( 28 ), and 100% ( 29 ) of
+BBT relative to the phenyl substituentBBT being considered
+as a stronger acceptor compared to phenyl ( Scheme b). As expected, increasing the proportion
+of BBT in the polymer backbone led to larger red-shifts and smaller
+band gaps. This trend was consistent with a stronger donor-acceptor
+character: when the acceptor content increased, the energy gap between
+the valence and conduction bands narrowed. The redox properties followed
+the same logic. Polymers richer in BBT showed lower oxidative and
+reductive potentials (in absolute terms), again reflecting the influence
+of the donor-acceptor effect on the energy levels. These polymers
+were then tested in the oxidative [4 + 2]-photocycloaddition between N -phenylmaleimide ( 20 ) and N , N -dimethylaniline ( 21 ), which was
+found to occur through concomitant SET and EnT pathways. Interestingly,
+the material containing 10% BBT ( 27 ) provided the highest
+reactivity, affording cycloadduct 22 in 82% yield. Increasing
+the acceptor content further proved detrimental: polymers 28 and 29 gave only 43% and 29% yield, respectively, and
+the BBT-free material ( 26 ) delivered only traces of the
+product. Although the exact origin of this reactivity pattern is not
+yet fully understood, the authors suggested that polymer 27 strikes the best compromise between band gap and redox potential,
+features that are both critical for effective visible light photocatalysis.
+
+Altogether, these studies underscore the critical role of donor-acceptor
+tuning in modulating the photophysical and photocatalytic properties
+of PAEs. While increasing acceptor content generally lowers the band
+gaps and redox potentials, excessive acceptor incorporation can lead
+to insufficient oxidative and reducing power, ultimately diminishing
+reactivity. Thus, achieving high photocatalytic performance requires
+a fine balance between light absorption, exciton dissociation, and
+redox potentialsideally within a band gap below 3 eV to ensure
+visible light activation (Practical Highlight 4).
+
+Because heterogeneous photocatalysis relies on interfacial
+reactivity between a solid-state photocatalyst and a liquid reaction
+medium, macromolecular features, particularly surface-related phenomena,
+are critical for predicting the reactivity of PAEs. High porosity
+in PAEs is often assumed to enhance reactivity by increasing the surface
+contact with reagents, and many studies have therefore focused on
+designing highly porous conjugated polymers with large specific surface
+areas. However, as shown earlier, a greater
+porosity does not necessarily translate into improved reactivity.
+In heterogeneous synthetic photocatalysis, performance depends also
+on pore accessibility since pores must be large enough to allow reagent
+diffusion. A study reported by Patra
+and co-workers further supports this observation ( Scheme a). They synthesized a series of porous PAEs ( 30 - 32 ) incorporating a boron dipyrromethene (BODIPY) core with
+varying substituents ( R ) to vary the surface area
+and pores size. The resulting materials displayed thereby a broad
+range of surface areas and pore volumes: 30 ( R = n -octyl, S BET = 322 m 2 g -1 , pore diameter = 3.2 nm), 31 ( R = 4- tert -butylphenyl, S BET = 571 m 2 .g -1 , 1.4 nm), and 32 ( R = phenyl, S BET = 1010 m 2 g -1 , 0.7 nm). Despite these significant differences, all three photocatalysts
+displayed nearly identical reactivity in the oxidation of thioanisole 5 , with conversion rates ranging from 91% to 96% (no yields
+were given), supporting the notion that porosity is not a reliable
+indicator of reactivity.
+
+As noted above, PAEs generate electron-hole
+pairs upon irradiation,
+followed by charge migration to the surface, where chemical transformations
+occur. However, charge delocalization in PAEs spans only ∼10
+monomer unitscorresponding to ca. 0.5 nm when PPE 1 is considered as a model. Maximizing photocatalytic efficiency therefore
+requires maximizing the fraction of polymer chains located within
+this active surface region. Conventional PAE syntheses, however, do not permit such precise control over
+polymer chain length. To address this limitation, Vilela and co-workers
+prepared nanometric PAE layers by performing silica-nanoparticle-templated
+Sonogashira polymerizations of 1,3,5-triethynylbenzene ( 33 ) and dibromobenzothiadiazole ( 34 ). This strategy produced silica nanoparticles uniformly coated
+with a thin PAE shell. Subsequent removal of the silica core using
+aqueous ammonium hydrogen difluoride yielded hollow spherical PAE
+nanoparticles with diameters of 10-30 nm. Varying the amount
+of silica template (mg mL -1 relative to the polymerization
+medium) afforded distinct hollow spheres ( 35 - 38 ). Surface analyses revealed that higher template loadings
+(higher silica concentration) produced materials with larger surface
+areas and pore volumes, while the pores diameters remained essentially
+constant at ∼1.4 nm ( Scheme b). The photocatalysts were assessed in the singlet
+oxygen-mediated [4 + 2]-photocycloaddition of α-terpinene ( 39 ) to ascaridole ( 40 ) under flow. Polymer 38 , which possessed the largest surface area and pore volume,
+delivered the highest performance with 96% conversion of 39 , and the conversion decreased with decreasing surface area. Although
+the correlation was not strictly proportional, these results demonstrated
+that thin-layer PAEs with higher-surface areas and pore volumes outperformed
+nontemplated PAEs with lower-surface areas such as 35 .
+
+Thus, the effect of the surface area on PAE reactivity must
+be
+considered with caution. While high porosity is often associated with
+improved reactivity in heterogeneous photocatalysis, this relationship
+is not unequivocal. The pore size and volume, in conjunction with
+the particle dimensions, must be carefully optimized to facilitate
+the efficient mass transport of reactants to the catalytic sites.
+In this line, because charge transport in PAEs is typically confined
+to approximately ten monomer units, nanometric-layer architectures
+maximize the proportion of accessible active sites, thereby enhancing
+reactivity (Practical Highlight 5).
+
+PAES AS A PHOTOCATALYST FOR CONTINUOUS FLOW SYNTHESIS OF ORGANIC COMPOUNDS
+The combination of photocatalysis and continuous flow processing
+provides a highly efficient environment for light-driven chemistry, and the advantages become even more pronounced
+when solid-state photocatalysts are employed. Flow reactors provide well-defined geometries that ensure uniform
+and efficient irradiation, thereby mitigating photon attenuation and
+the uneven light distribution that often limits batch photochemical
+processes. In addition, the superior heat and mass transfer characteristics
+of flow minimize temperature and concentration gradients, suppressing
+side reactions and maintaining homogeneous reaction conditions. These
+features collectively contribute to more reliable kinetics and enhance
+reproducibility in photocatalytic transformations. Moreover, the small
+reaction volumes and continuous throughput afford intrinsic safety
+benefits, particularly when dealing with high-energy intermediates
+or reactive radical species commonly accessed under photocatalytic
+conditions. Embedding solid-state photocatalysts into this controlled
+flow environment further strengthens these advantages: the heterogeneous
+catalyst bed provides a stable and reproducible photon-catalyst
+interface, avoids issues of dissolution or leaching, and enables clean
+product streams without the need for catalyst separation. Solid-state
+materials typically exhibit high photostability under extended illumination,
+allowing long operational lifetimes and facilitating straightforward
+scale translation. Together, the synergy between flow photochemistry
+and heterogeneous catalytic architectures delivers a robust, safe,
+and sustainable platform for advancing the practical scope of photocatalytic
+synthesis.
+
+Despite the increasing interest in photoactive polymers
+for photocatalysis,
+applications of PAE-based materials under continuous flow conditions
+remain remarkably limited, with only a handful of examples reported
+to date. The first demonstration by Vilela and co-workers, mentioned
+above, employed the hollow-sphere PAE nanoparticle 38 as a heterogeneous photosensitizer within a flow photoreactor. In their study, the polymeric catalyst was dispersed
+with the substrate (α-terpinene 39 , 0.1 M solution),
+mixed with a continuous supply of oxygen (2 equiv), and passed through
+an irradiated microstructured channel, enabling efficient generation
+of singlet oxygen and achieving high substrate conversion (96%) with
+short residence times (38 s, Scheme a). Although comparisons with a molecular photosensitizer
+(TPP: tetraphenylporphyrin) revealed higher productivity for the homogeneous
+analogue (1 mmol min -1 instead of 0.1 mmol min -1 with PAE 38 ) attributed to its intrinsically
+greater singlet oxygen quantum yield, the PAE material offered compelling
+practical advantages. In particular, it could be recovered by simple
+filtration, exhibited excellent resistance to photodegradation and
+oxidative conditions, and maintained high selectivity over multiple
+reuse cycles with only modest performance decline. Further comparison
+with a small-molecule analogue corresponding to the repeating unit
+of the polymer confirmed that the chromophore segment within the PAE
+structure was responsible for the observed photoactivity, while also
+revealing that the polymeric form displayed significantly greater
+photostability.
+
+The second example was reported in 2017 by Zhang
+and co-workers,
+who unveiled the photocatalytic activity of PAE-coated glass fibers
+integrated into a fixed-bed continuous flow photoreactor ( Scheme b). Commercial glass fibers (∼10 μm diameter)
+were used as the support, and a polybenzothiadiazole coating (structurally
+analogous to 38 ) was formed directly on the surface by
+the Sonogashira cross-coupling polymerization of 1,3,5-triethynylbenzene
+( 33 ) and 4,7-dibromo-2,1,3-benzothiadiazole ( 34 ). This procedure yielded a uniform coating of PAE (∼80 nm),
+providing a surface area of 136 m 2 g -1 and a pore diameter of 1.5 nm.
+
+The resulting photocatalyst 41 exhibited strong visible
+light absorption ( abs λ tail > 700 nm),
+a band gap of 2.48 eV, and redox potentials of -1.06 V vs SCE
+(CB) and +1.42 V vs SCE (VB). Photocatalyst 41 was first
+applied to the photoreductive dehalogenation of α-bromoacetophenones
+( 42 ) under white light irradiation. For this transformation,
+200 mg of 41 was packed into a glass column reactor.
+Recirculation of the substrate solution at 0.5 mL min -1 afforded the corresponding acetophenones ( 43 ) in excellent
+yields after 2 h (91-95%). The hPC was then evaluated in the
+enantioselective α-alkylation of aliphatic aldehydes under similar
+conditions. The coupling reaction between aldehydes ( 44 ) with bromoalkanes ( 45 ) in the presence of the MacMillan
+imidazolidinone catalyst ( 46 ) and 1,6-lutidine proceeded
+to conversion up to 99% and 95% ee upon continuous recirculation between
+5 and 15 h. In addition to favorable redox potentials to reduce alkyl
+bromides ( E red [ 42 ] ∼
+-0.49 V vs SCE), the nanoscale
+thickness of the catalyst layer enhanced light penetration, which
+was confirmed by control experiments employing a monolithic catalyst
+that showed diminished activity. The system also demonstrated excellent
+mechanical and chemical robustness: five consecutive runs showed no
+significant loss in the photocatalytic performance, supporting the
+stability of the glass-fiber coating approach. Finally, this work
+represents the first application of PAE in a catalytic asymmetric
+reaction under flow conditions.
+
+The third and most recent example
+was reported by our group in
+2025. As mentioned earlier, this work
+demonstrated the photocatalytic activity of the simplest PAE, poly­( para -phenylene-ethynylene) 1 , for the aerobic
+oxidation of amines under both batch and continuous flow conditions
+( Scheme c). For the
+flow setup, photocatalyst 1 (50 mg) was premixed with
+commercial glass beads (5.5 g). Electrostatic interactions between 1 and the beads ensured efficient incorporation into the packed-bed
+reactor and preserved the bed homogeneity over extended operation.
+Amines (0.1 M, 0.1 mL min -1 ) were delivered together
+with a stream of oxygen (1.5 mL min -1 ) into a photoreactor
+that was irradiated with white light. A residence time of only 9 min
+was sufficient to convert a broad range of amines, including more
+than 25 substrates and several natural products (such as compound 47 arising from (±)-salsolidine), into the corresponding
+imines in good to excellent yields (45-100%). The high oxidation
+potential of 1 (+1.67 V vs SCE) enabled the smooth oxidation
+of challenging substrates such as n -hexylamine ( E ox = +1.48 V vs SCE, forming compound 48 ). Also, the flow mode consistently
+outperformed batch reactions, likely due to improved mixing of the
+triphasic reaction medium and superior irradiation of the catalytic
+bed. Certain substrates, such as n -hexylamine and
+tetrahydroisoquinoline, were successfully oxidized into compounds 48 and 49 only under flow conditions, underscoring
+the decisive role of reactor design in enabling transformations inaccessible
+in batch. Importantly, the single-pass flow system sustained uninterrupted
+operation for over 24 h with no detectable loss of catalytic activity,
+highlighting both the stability of the heterogeneous photocatalyst
+and the inherent capacity of the flow setup to enable automatic catalyst
+reutilization.
+
+The continuous production of imines enabled a
+telescoped two-step
+sequence to access α-acylaminoamidesprivileged peptidomimetic
+scaffolds via an Ugi three-component
+reaction with isonitriles and carboxylic acids. Because the Ugi step required high imine concentrations
+for acceptable yields, the photocatalytic module was intensified by
+connecting two packed-bed reactors in series (18 min total residence
+time), allowing the use of more concentrated amine solutions (0.5
+M) and generating imines at 0.24 M. The crude imine stream was then
+pumped into a heated coil reactor at 50 °C (50 min residence
+time) together with cyclohexyl isocyanide 50 and a carboxylic
+acid, affording α-acylaminoamides 51 - 53 in moderate to good overall yields (43-74%). Of
+particular interest, compound 52 isolated as a
+mixture of two diastereomershas been reported to exhibit antibiotic
+activity against E. coli . Despite moderate
+overall yields, productivity metrics highlighted the clear advantage
+of flow, with 52 produced at 158 mg h -1 under continuous conditions compared to only 2.7 mg h -1 using the analogous batch protocol.
+
+Altogether, these early examples demonstrate that the integration
+of solid-state photocatalysts into continuous flow systems provides
+a powerful and practical foundation for modern photocatalysis. The
+precise control over photon delivery, mass transport, and thermal
+management inherent to flow systems complements the robustness and
+longevity of heterogeneous materials, enabling highly reproducible,
+scalable, and safe photochemical processes. As illustrated by recent
+advances, these combined technologies not only enhance the efficiency
+of established transformations but also unlock reactivity profiles
+that remain inaccessible in batch.
+
+CONCLUSIONS AND FUTURE OUTLOOK
+Over
+the past few years, the photochemistry of PAE materials has
+opened new opportunities for sustainable synthetic photocatalysis.
+By surveying key literature precedents, we have outlined the features
+that render PAEs effective in organic synthesis, with particular attention
+given to the molecular and macromolecular attributes that enhance
+their photocatalytic performance. A dedicated emphasis on continuous
+flow systems further illustrates how this enabling technology maximizes
+the efficiency, stability, and synthetic reach of PAE-based photocatalysts.
+
+Looking forward, several directions are expected to shape the future
+development of PAE-based photocatalysis: From “black-box” to mechanistic predictability.
+
+From “black-box” to mechanistic predictability.
+
+A central limitation of current PAE photocatalysis is
+its largely
+empirical nature. Future progress will require rigorous integration
+of thermodynamic descriptors with kinetic analysis, supported by quantitative benchmarks such as emission quantum
+yields and time-resolved spectroscopic measurements. Crucially, these photophysical parameters must be correlated
+with macromolecular featuresincluding surface area, porosity,
+and particle sizeto enable accurate prediction of PAE behavior
+in organic synthesis and to establish a truly design-driven framework. Collectively, overcoming the prevailing “black-box”
+approach will require interdisciplinary efforts that integrate synthetic
+polymer chemistry, advanced spectroscopy, materials characterization,
+and reaction engineering to translate structure-property relationships
+into a predictive photocatalyst design. Rational molecular and macromolecular design.
+
+Rational molecular and macromolecular design.
+
+Advances in the PAE performance are expected to arise
+from deliberate
+molecular engineering aimed at improving the thermodynamic and kinetic
+profiles. In particular, incorporation of donor-acceptor motifs,
+heteroatom-doped backbones, or electronically polarized linkers could
+expand accessible redox windows beyond current limits (≈±
+2 V vs SCE), enabling more demanding oxidative and reductive transformations
+and moving beyond predominantly oxygen-mediated chemistry. Reassessing photophysical models: molecular vs semiconductor
+behavior.
+
+Reassessing photophysical models: molecular vs semiconductor
+behavior.
+
+Although PAEs are often described using the semiconductor
+band
+theory, the finite extent of charge delocalization in many systems
+raises the possibility that molecular and semiconductor behaviors
+may coexist. In such cases, classical excited-state quenching pathways
+may compete with or even dominate over bandlike charge transport.
+Recognizing and exploiting this dual or multimodal behavioralready
+suggested in related materials such as metal-organic frameworks
+(MOFs) could fundamentally reshape
+design principles for PAE photocatalysts. Enabling asymmetric and cooperative photocatalysis.
+
+Enabling asymmetric and cooperative photocatalysis.
+
+An especially compelling opportunity lies in the incorporation
+of chiral motifs or ligands within PAE frameworks to enable asymmetric
+photocatalysis under heterogeneous conditions. By embedding chiral
+environments directly into the polymer backbone or side chains, PAEs
+could support cooperative photoinduced activation and enantioselective
+substrate control within a single solid material. Such an approach
+would address a long-standing challenge in photocatalysis as truly
+asymmetric transformations remain exceedingly rare in heterogeneous
+systems. If realized, chiral PAEs could
+bridge homogeneous asymmetric photocatalysis and recyclable solid-state
+catalysis, opening fundamental new avenues for enantioselective synthesis. Toward predictive, multiscale, and data-driven catalyst
+design.
+
+Toward predictive, multiscale, and data-driven catalyst
+design.
+
+The convergence of density functional theory, advanced
+spectroscopy,
+and data-driven modeling offers a powerful opportunity to move PAE
+photocatalysis from empirical optimization toward a genuinely predictive
+catalyst design. Beyond idealized oligomer models, future efforts should integrate ground-state DFT and time-dependent
+DFT with mesoscale descriptions to capture the effects of backbone
+conformation, finite conjugation length, and interchain interactions
+on excited-state energetics. When combined
+with experimental benchmarks, such multiscale approaches could enable
+quantitative prediction of redox potentials, triplet energies, charge
+localization, and interfacial electron-transfer pathways. In parallel,
+the development of structure-photophysics-reactivity
+maps derived from curated experimental data sets and machine learning
+tools may establish generalizable design rules for organic semiconductor
+photocatalysts and guide the targeted synthesis of next-generation
+PAEs. Leveraging reactor engineering as a reactivity tool.
+
+Leveraging reactor engineering as a reactivity tool.
+
+The compatibility of PAEs with continuous flow operation
+offers
+more than scalability; it provides a platform for discovering fundamentally
+new reactivity. By precisely controlling photon flux, residence time,
+and mass transport, flow systems can access reaction pathways and
+selectivity that are unattainable in batches, offering deeper mechanistic
+insight. Integrating advanced catalyst design with innovative reactor
+engineering promises not only to expand the synthetic scope of PAEs
+but also to establish heterogeneous flow photochemistry as a transformative
+approach for sustainable and precise chemical synthesis.

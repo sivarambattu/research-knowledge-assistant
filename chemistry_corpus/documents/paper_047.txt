@@ -1,0 +1,210 @@
+ABSTRACT
+Summary Precise morphology control in metal-organic frameworks (MOFs) is crucial for optimizing photocatalytic performance in solar water splitting. We report a one-pot solvothermal strategy to engineer the morphology of bromine-doped bismuth terephthalate (BiBDC) MOFs by tuning the Br:Bi molar ratio, yielding evolution from rod-like to mace-like and flower-like architectures. The mace-like BiBDC-0.5 structure, obtained at a Br:Bi ratio of 0.5, exhibits enhanced surface area, preferential crystal orientation, and abundant exposed active sites. This unique morphology suppresses charge recombination and promotes efficient electron-hole separation, enabling a high visible light oxygen evolution rate of 15.2 μmol h -1 , outperforming undoped and heavily doped counterparts, with excellent stability over 10 h. This work demonstrates that halide doping and morphology engineering are effective strategies to optimize bismuth-based MOFs, providing a scalable, template-free route for fabricating high-performance photocatalysts for solar-driven water oxygen evolution. Subject areasa: catalysis, electrochemistry, materials chemistry, materials synthesis
+
+Graphical abstract
+
+Highlights • Template‑free halide doping tailors MOF morphology and electronic properties • Halide ratio regulates MOF structure, morphology and charge dynamics. • The strategy optimizes MOF photocatalytic performance via structural regulation
+
+Catalysis; Electrochemistry; Materials chemistry; Materials synthesis
+
+INTRODUCTION
+The accelerating trajectory of global industrialization has intensified depletion of finite fossil resources and aggravated environmental contamination, creating an urgent need for sustainable energy-conversion and pollution-remediation strategies. 1 , 2 , 3 , 4 , 5 Photocatalysis-by enabling direct conversion of solar energy into chemical work while simultaneously addressing environmental pollutants-remains a particularly promising route. 6 , 7 , 8 Within this context, metal-organic frameworks (MOFs) have attracted sustained interest as modular, 9 tunable platforms 10 , 11 , 12 : their coordination chemistry and adjustable porosity permit deliberate tuning of light-harvesting, active-site distribution, and charge-transport pathways. 13 , 14 , 15
+
+To improve MOF-based photocatalysts, 16 , 17 , 18 researchers adopt a suite of complementary modification strategies including elemental doping, 19 , 20 , 21 ligand functionalization, 22 , 23 heterojunction construction, 24 , 25 post-synthetic modification, 26 , 27 collectively these approaches target band-structure engineering, 28 , 29 broader light absorption, 30 and enhanced charge separation. 31 Nevertheless, control over MOF microstructure is still decisive because morphology directly governs active-site accessibility, mass transport, and interfacial charge dynamics. 32 , 33 , 34 , 35 Conventional morphology-control routes frequently rely on removable templates, 36 surfactants, or stringent conditions-measures that complicate reproducibility and scale-up while adding processing and environmental costs. Recent reports have highlighted related advances in MOF-derived functional architectures and scalable, solvent/one-pot strategies that motivate practical, up-scalable catalyst designs. 37
+
+Herein, motivated by the foregoing limitations, we introduce a facile halide doping strategy that concurrently addresses morphology control and electronic modulation in a representative MOF system. By systematically varying the molar ratio of halide ions to metal precursors, we achieved reproducible and tunable morphological transitions-for example, from rod-like to mace-like and ultimately to flower-like architectures-without requiring sacrificial templates or elaborate post-synthetic processing. We further establish explicit correlations between these morphology transitions and key functional metrics, including specific surface area, pore architecture, and photogenerated charge-carrier dynamics, thereby elucidating how microstructural evolution mediates photocatalytic behavior. This integrated approach offers improved reproducibility and favorable prospects for scale-up, providing a practical pathway for tailoring MOF microstructures to enhance solar-driven catalytic performance.
+
+RESULTS AND DISCUSSION
+Figure 1 A presents a schematic illustration of BiBDC morphology as a function of Br-doped level. Figures 1 B-1G display SEM and TEM images of undoped BiBDC and BiBDC prepared with NaBr:Bi(NO 3 ) 3 ·5H 2 O molar ratios of 0.25, 0.5, 0.75, and 1.0, respectively (specific dosages see Supporting Information Table S1 ). In the absence of Br-doped, BiBDC crystallizes into short, thick rod like particles ( Figure 1 B). At a Br:Bi ratio of 0.25, these rods elongate markedly, displaying a higher aspect ratio ( Figure 1 C). When the ratio reaches 0.5, Figure 1 D shows the macroscopic structure image of BiBDC-0.5, and it can be seen that the overall structure remains a slender rod-like one; Figure 1 E is the microscopic magnified image of BiBDC-0.5, from which it is observed that numerous serrated small protrusions grow laterally on the originally smooth surface, and these small protrusions make the original rod-like structure look like a mace. Further raising the doping level to 0.75 ( Figure 1 F) and 1.0 ( Figure 1 G) leads to extensive proliferation and aggregation of these protrusions, transforming the rods into spherical, flower like clusters.
+
+Macro/micro morphologies and phase characterization of BiBDC and Br-doped BiBDC photocatalysts with different doping ratios
+
+(A) Schematic illustration depicting the morphological evolution of BiBDC with increasing Br-doping ratios.
+
+(B) SEM images of pure BiBDC photocatalysts. Scale bars, 250 nm.
+
+(C) SEM images of BiBDC-0.25 photocatalysts. Scale bars, 250 nm.
+
+(D and E) SEM and TEM images of BiBDC-0.5 photocatalysts. Scale bars, 250 μm in (D) and 50 nm in (E).
+
+(F) SEM images of BiBDC-0.75 photocatalysts. Scale bars, 2 μm.
+
+(G) SEM images of BiBDC-1 photocatalysts. Scale bars, 2 μm.
+
+(H) Wide-angle XRD patterns of BiBDC and Br-doped BiBDC photocatalysts.
+
+To verify the distribution of bromine within the BiBDC framework, quantitative EDS analysis was performed. As shown in Figure S1 , the results confirm that Br is uniformly distributed across all doped samples, with no discernible aggregation or phase separation. Furthermore, the wide-angle XRD profiles in Figure 1 H demonstrate that, despite these pronounced morphological transformations, the fundamental crystal structure of BiBDC remains intact. These findings suggest that Br incorporation critically controls the surface growth kinetics of BiBDC, driving the observed evolution from rod-like to club-like and flower-like architectures.
+
+To further elucidate the Br-doping induced morphological transformations and associated lattice structural variations of BiBDC, high-resolution transmission electron microscopy (HRTEM), energy-dispersive X-ray spectroscopy (EDS), and low-angle X-ray diffraction (XRD) characterizations were conducted on pristine and Br-doped BiBDC samples, with the results presented in Figure 2 . Figures 2 A-2C show the TEM and corresponding HRTEM images of pristine BiBDC, BiBDC-0.5 and BiBDC-0.75, where distinct lattice fringes with interplanar spacings of 1.64, 1.55, and 1.26 nm are clearly observed, characteristic of pristine BiBDC, BiBDC-0.5, and BiBDC-0.75, respectively. EDS elemental mapping analysis ( Figure 2 D) further reveals the homogeneous distribution of Bi, O, and Br elements in BiBDC-0.5, confirming the uniform incorporation of Br into the BiBDC framework via doping. The low-angle XRD patterns of the full BiBDC series are displayed in Figure 2 E, the diffraction peak of pristine BiBDC within the 10° range is consistent with literature-reported data, verifying the successful synthesis of the BiBDC MOF. 38 , 39
+
+Morphological and structural characterization of pristine and Br-doped BiBDC samples
+
+(A-C) TEM images of pristine BiBDC, BiBDC-0.5, and BiBDC-0.75 photocatalysts, respectively. Scale bars, 50 nm.
+
+(D) EDS elemental maps of the BiBDC-0.5 sample. Scale bars, 100 nm.
+
+(E) Low-angle XRD patterns of the BiBDC series with varying Br doping contents (x = 0, 0.25, 0.5, 0.75, and 1).
+
+Notably, a prominent structural evolution of the 5.3° characteristic diffraction peak of pristine BiBDC is observed with increasing Br doping content: the peak intensity weakens slightly in BiBDC-0.25 with low doping levels. As the doping content rises to BiBDC-0.5, the 5.3° peak attenuates further and a new characteristic peak emerges at 6.9°. With subsequent increase in Br content, the 5.3° peak completely disappears in BiBDC-0.75, accompanied by a distinct enhancement of the 6.9° peak. Ultimately, the 6.9° peak becomes the dominant characteristic peak for BiBDC-1 with the highest Br doping content. These XRD results collectively indicate that Br doping triggers remarkable lattice structural alterations in the BiBDC MOF framework.
+
+A conclusion further corroborated by the HRTEM lattice fringe analysis: the 1.64 nm lattice fringe of pristine BiBDC corresponds well to its 5.3° XRD diffraction peak. Upon Br doping, BiBDC-0.5 exhibits dual structural features-surface protrusions with a reduced lattice spacing of 1.24 nm (corresponding to the emerging 6.9° XRD peak) and a contracted backbone rod with a spacing of 1.64 nm reduces to 1.55 nm (reflecting partial lattice distortion). With further Br incorporation to BiBDC-0.75, the backbone rod’s lattice fringe shrinks to 1.26 nm (matching the dominant 6.9° XRD peak), and the 5.3° peak vanishes entirely, signaling a full transition to a Br-modified phase. This progressive evolution-from lattice contraction to complete phase replacement-confirms that Br doping induces concentration-dependent structural rearrangement.
+
+To further validate this structural interpretation, high-resolution EDS line-scan analysis of BiBDC-0.5 directly reveals a pronounced Br concentration gradient across its microstructure ( Figure S2 ). The rod-like core (40-80 nm range) exhibits a lower Br signal, corresponding to its mildly contracted lattice spacing of 1.55 nm. In contrast, Br is notably enriched at the edges of the surface protrusions (20-35 nm and 80-97 nm ranges), where the severe lattice distortion results in a significantly reduced spacing of 1.24 nm. This localized Br enrichment and the associated lattice contraction are responsible for the emergence of the new XRD peak near 6.9°.
+
+X-ray photoelectron spectroscopy (XPS) measurements were conducted to analyze the surface chemical composition ( Figure 3 A) confirms the presence of Bi 4f, Br 3d, O 1s, and C 1s peaks, indicating successful incorporation of bromine into the bismuth-based MOF. The absence of extraneous peaks in the XPS spectrum suggests high sample purity, indicating no significant contamination from other elements. The high-resolution Bi 4f spectrum ( Figure 3 B) reveals two distinct peaks at 159.6 eV and 164.9 eV, corresponding to Bi 4f 7/2 and Bi 4f 5/2 , respectively, which confirms that bismuth exists in the +3-oxidation state within the MOF structure. The O 1s spectrum ( Figure 3 C) shows peaks at 530.6 eV, attributed to lattice oxygen bound to Bi (likely from Bi-O coordination), and 531.0 eV, associated with oxygen in the C=O bond of the terephthalic acid linker. The clear separation of these peaks reflects the presence of distinct oxygen environments, supporting the structural integrity of the framework.
+
+XPS spectra of BiBDC-0.5
+
+(A) Survey pattern of the samples and high-resolution scans.
+
+(B) The Bi 4f region.
+
+(C) The O 1s region.
+
+(D) The Br 3d region.
+
+(E) The C 1s region.
+
+In the Br 3d region ( Figure 3 D), peaks at 68.4 eV and 69.8 eV correspond to Br 3d 5/2 and Br 3d 3/2 , respectively. 39 , 40 A position consistent with Br atoms coordinated to Bi 3+ , confirming successful bromine doping in a coordinated chemical environment. This chemical state of Br is further supported by the absence of a peak shift in repeated XPS scans, ruling out surface-adsorbed Br impurities. Compared to undoped BiBDC, the introduction of coordinated Br modifies the local electron density around Bi sites (evidenced by the Bi 4f downshift above), which is expected to introduce defect states or tune the electronic structure, potentially enhancing photocatalytic reactivity.
+
+The C 1s spectrum ( Figure 3 E) features a peak at 288.4 eV, attributed to the C=O bond in the carboxylate (-COOH) group of the linker, and another at 286.7 eV, likely arising from C-O bonds formed by hydroxyl groups. 40 These observations confirm that the organic linker remains chemically intact and maintains its inter-action with the metal center.
+
+Fourier transform infrared (FT-IR) spectra ( Figure 4 A) were collected to investigate the effect of Br doping on the chemical bonding and framework structure of BiBDC, with direct comparative analysis against pristine BiBDC to elucidate the role and chemical environment of the dopant. The primary characteristic absorption peaks of Br-doped samples across all doping ratios remain nearly unchanged in position relative to pristine BiBDC, confirming that Br doping does not disrupt the overall MOF framework and preserves its chemical integrity critical for catalytic performance. Notably, a slight decrease in the intensity ratio of asymmetric to symmetric C=O stretches suggests subtle perturbation of the carboxylate coordination environment, likely arising from Br atoms competing for coordination sites on Bi 3+ centers. 41 Furthermore, the broad Bi-O stretching vibration band at ∼500-700 cm -1 exhibits a minor red-shift in Br-doped samples, reflecting altered local electronic environments of Bi-O bonds consistent with partial substitution of oxygen by Br in the Bi coordination sphere, while the absence of new peaks in this region rules out isolated Br-containing impurities such as BiBr 3 . Across different Br doping ratios, the magnitude of the Bi-O peak red-shift and the change in C=O intensity ratio correlate positively with Br content, reinforcing that framework perturbation scales with doping level. 42 These observations collectively demonstrate that Br is incorporated into the BiBDC framework as a coordinated dopant rather than an extraneous phase, subtly modifying the local coordination environment of Bi 3+ centers without disrupting the overall MOF structure, which supports the hypothesis that Br doped tunes the electronic structure of BiBDC to influence its photocatalytic activity.
+
+Chemical structure, surface area, and charge carrier dynamics of the BiBDC series
+
+(A) FT-IR spectra of the BiBDC series.
+
+(B) N 2 adsorption-desorption isotherms of the samples.
+
+(C) BET specific surface areas for the different BiBDC samples.
+
+(D) TPRs of the samples.
+
+(E) Nyquist plots from EIS measurements for the samples.
+
+(F) EPR spectra for the BiBDC series.
+
+(G) Transient PL decay curves of the samples.
+
+(H) TRPL measurements on the BiBDC series.
+
+The nitrogen adsorption-desorption isotherms ( Figure 4 B) and Brunauer-Emmett-Teller (BET) surface area analysis ( Figure 4 C) highlight the impact of Br-doped on the porosity and specific surface area of BiBDC. All samples exhibit typical type IV isotherms with pronounced hysteresis loops at higher relative pressures (P/P 0 ), indicating the presence of mesoporous structures. Absorption increases with Br-doped up to BiBDC-0.5, followed by a slight decrease at higher doping levels (e.g., BiBDC-0.75 and BiBDC-1). BET analysis corroborates this trend: pristine BiBDC exhibits the lowest surface area (∼12 m 2 g -1 ), while moderate Br-doped (BiBDC-0.5) results in the highest surface area (∼24 m 2 g -1 ). This increase is attributed to structural modifications induced by Br-doped, which enhance porosity and improve the accessibility of active sites. 42 However, at higher doping levels (e.g., BiBDC-1), the surface area decreases, likely due to partial pore clogging or structural changes into a flower-like morphology caused by excessive Br-doped. 41
+
+To further complete the pore structure characterization, we acquired pore size distribution curves for all key Br-doped BiBDC samples ( Figure S3 ), confirming that all samples consist exclusively of mesopores (2-50 nm) with no detectable micropores. BiBDC-0.5 shows the strongest dV/dD peak at 3-8 nm, indicating the most abundant mesopores derived from its mace-like morphology that enhances active site accessibility. In comparison, pristine BiBDC with a compact rod-like structure possesses sparse mesopores. BiBDC-0.25 exhibits moderate mesoporosity consistent with its intermediate rod-to-mace morphology. BiBDC-0.75 presents reduced mesopores due to partial pore shrinkage, and BiBDC-1 suffers mesopore clogging caused by flower-like aggregation. A clear correlation is established between morphological evolution (rod → short-rod → mace → semi-flower → flower) and mesopore abundance, where the rich mesopores in BiBDC-0.5 maximize active site exposure and mass transport efficiency, thus accounting for its highest BET surface area and optimal photocatalytic performance.
+
+Photoelectrochemical characterization provides further insights into carrier dynamics. Electrochemical impedance spectroscopy (EIS) and transient photocurrent response (TPR) analyses were performed to evaluate the electrochemical performance of BiBDC samples. In the TPR plot shown in Figure 4 D, BiBDC-0.5 generates a significant photocurrent with a density of approximately 0.06 μA cm -2 , which is double that of pristine BiBDC (∼0.03 μA cm -2 ). This enhanced photocurrent suggests that the mace-like structure reduces resistance, promotes charge separation and migration, and improves the photoelectrochemical performance. Additionally, the Nyquist plot from the EIS spectrum ( Figure 4 E) shows that BiBDC-0.5 exhibits the smallest semicircle radius, indicating the lowest resistive impedance among the samples, which facilitates efficient photogenerated electron migration.
+
+Electron paramagnetic resonance (EPR) spectra shown in Figure 4 F reveals Lorentzian signals at a g-value of 2.0034 for all samples, corresponding to unpaired π-electrons in the BiBDC conjugated system. Notably, BiBDC-0.5 exhibits the strongest signal intensity, indicating enhanced exciton separation and a higher concentration of unpaired electrons, likely due to its unique mace-like structure.
+
+The transient fluorescence photoluminescence (PL) spectra ( Figure 4 G) show that BiBDC-0.5 has the weakest fluorescence intensity among all samples. This suggests that its mace-like structure effectively suppresses the recombination of photogenerated electron-hole pairs, reducing the probability of fluorescence generation. In addition, to directly probe the effect of morphology on charge separation, we carried out time-resolved photoluminescence (TRPL) measurements on the BiBDC series ( Figure 4 H). BiBDC-0.5 shows a markedly longer intensity-weighted average lifetime (τ int ) than the other samples ( Table S2 ), indicating that non-radiative recombination is most strongly suppressed at this composition and that charge carriers have an extended lifetime to reach surface active sites. The extended TRPL lifetimes correlate with enhanced TPR and lower charge-transfer resistance in EIS, providing convergent evidence that the mace-like morphology improves charge separation and thereby contributes to the enhanced O 2 evolution activity.
+
+The relative conduction-band (CB) positions of BiBDC, BiBDC-0.5, and BiBDC-1 were determined by Mott-Schottky analysis ( Figures 5 A-5C). The flat-band potentials (E fb ) measured against a saturated calomel electrode (SCE) are -0.87 eV (BiBDC), -0.90 eV (BiBDC-0.5), and -0.98 eV (BiBDC-1). After conversion via Equation 1 , the corresponding CB potentials in the RHE scale are -0.21, -0.25, and -0.33 eV, respectively. 43
+
+Optical, electronic, and photocatalytic performance characterization of BiBDC and Br-doped BiBDC photocatalysts
+
+(A-C) Mott-Schottky plots of BiBDC and Br-doped BiBDC photocatalysts.
+
+(D and E) UV/Vis DRS, and corresponding Tauc plots of BiBDC and Br-doped BiBDC photocatalysts.
+
+(F) Band-edge structure diagrams of BiBDC, BiBDC-0.5, and BiBDC-1 photocatalysts.
+
+(G) Photocatalytic O 2 evolution rates of BiBDC and Br-doped BiBDC photocatalysts. Data are represented as mean ± SD ( n = 3 independent experiments). p < 0.01 by one-way ANOVA.
+
+(H) The oxygen evolution rate during long-term consecutive oxidation cycles.
+
+(I) XRD pattern of BiBDC-0.5 photocatalysts before and after photocatalytic O 2 evolution tests.
+
+The optical absorption properties of the BiBDC series were investigated using UV-Vis diffuse reflectance spectroscopy (DRS). As shown in Figure 5 D, the DRS spectra reveal a non-monotonic trend with increasing bromine doping. The absorption edge first exhibits a distinct redshift from pristine BiBDC to BiBDC-0.5, indicating a significant narrowing of the band gap. However, further doping to form BiBDC-1 causes a blueshift, resulting in a wider band gap. This trend is quantitatively confirmed by Tauc plot analysis ( Figure 5 E), which shows the minimum band gap energy of 2.74 eV for BiBDC-0.5, compared to 3.58 eV for BiBDC-1, and an intermediate value for pristine BiBDC. Consequently, BiBDC-0.5 demonstrates the most pronounced light-harvesting ability across the visible spectrum.
+
+To understand this phenomenon, the band edge alignment was constructed by combining the conduction band (CB) potentials, determined via Mott-Schottky analysis, with the optical band gaps from the DRS data. 40 The valence band (VB) was calculated using Equation 2 , and the resulting schematic ( Figure 5 F) reveals that while BiBDC-1 possesses a highly positive VB suitable for water oxidation, its large band gap (3.58 eV) severely limits visible-light absorption. Conversely, BiBDC-0.5 achieves an optimal balance: it has the narrowest band gap for superior light harvesting, while its CB remains sufficiently negative and its VB sufficiently positive to facilitate both efficient charge separation and strong thermodynamic driving force for the oxygen evolution reaction. This synergistic effect explains why BiBDC-0.5, rather than BiBDC-1, exhibits the highest photocatalytic activity.
+
+The photocatalytic performance of the BiBDC catalysts was assessed through the oxygen evolution half-reaction using 0.01 M Fe(NO 3 ) 3 ·9H 2 O as the electron sacrificial agent. All tests were conducted in triplicate for statistical validity ( Figure 5 G), and the results show that BiBDC-0.5 exhibits the highest oxygen evolution rate of 15.2 ± 0.5 μmol h -1 , which is significantly higher than that of pristine BiBDC (3.4 ± 0.2 μmol h -1 ), BiBDC-0.25 (3.5 ± 0.25 μmol h -1 ), BiBDC-0.75 (4.8 ± 0.25 μmol h -1 ), and BiBDC-1 (3.0 ± 0.2 μmol h -1 ). Control experiments without the BiBDC catalyst or in complete darkness produced negligible O 2 , confirming that the observed O 2 evolution originates from a genuine light-driven photocatalytic process. Furthermore, the O 2 evolution activity of our catalysts has been systematically compared with those of reported MOF and non-MOF photocatalysts ( Table S3 ). Our BiBDC-0.5 exhibits an O 2 production rate surpassing most reported MOF-based photocatalysts under comparable reaction conditions. 44 , 45 , 46 , 47 This result demonstrates that the mace-like BiBDC structure enhances the oxygen evolution capability of BiBDC. In contrast, further Br-doped (BiBDC-1) led to a decline in oxygen production performance, highlighting the detrimental effect of excessive Br incorporation. In addition, scale-up experiments demonstrate the excellent reproducibility and scalability of our one-pot method. When the synthesis was proportionally increased to 2×, 5×, and 10× scales, the resulting BiBDC-0.5 samples maintained high photocatalytic oxygen evolution rates of 14.9, 13.9, and 14.3 μmol h -1 , respectively, compared to 15.2 μmol h -1 for the standard (1×) sample ( Figure S4 ). The activity remained largely preserved, with a decrease of less than 9% even at the 10× scale, confirming the practical potential of this template-free route for larger-scale catalyst production.
+
+The photocatalytic oxygen evolution stability of the samples was further assessed, as shown in Figure 5 H. Under continuous illumination for 10 h, BiBDC-0.5 achieved a cumulative oxygen production of 67.5 μmol. In contrast, the flower-like BiBDC-1 completely lost its oxygen evolution activity after only 6 h of illumination, while the rod-shaped pristine BiBDC exhibited markedly lower catalytic performance than BiBDC-0.5 throughout the test. These results confirm that the mace-like BiBDC-0.5 possesses superior photocatalytic oxygen evolution activity relative to the other as-synthesized samples with distinct morphologies.
+
+Furthermore, the structural and compositional properties of BiBDC-0.5 after the reaction were characterized via XPS, XRD, and TEM ( Figure S5 ). XPS analysis revealed no discernible peak shift for Bi 4f, whereas one characteristic peak of Br 3d shifted from 69.4 eV to 68.6 eV. XRD patterns displayed no obvious deviations in diffraction peak positions but a slight reduction in peak intensity. Notably, ICP-MS data indicated a significant decrease in bromine content with approximately 72% bromine loss in the post-reaction sample. Meanwhile, the TEM image of the used BiBDC-0.5 showed decreased contrast, which further corroborates partial bromine leaching during the catalytic reaction. This partial bromine leaching is responsible for the activity decay observed in the latter stage of the long-term stability test, which clarifies the key factor leading to the slight reduction in catalytic performance of BiBDC-0.5 over prolonged illumination.
+
+Long-term chemical stability and dopant leaching: the most significant caveat is the partial leaching of bromine ions during the photocatalytic process. ICP-MS and XPS analyses of the post-reaction BiBDC-0.5 sample revealed an approximately 72% loss of bromine content. This leaching is identified as the primary factor leading to the observed decay in oxygen evolution activity during prolonged illumination. Future research should focus on enhancing the structural robust-ness of the dopant-framework interaction, perhaps through surface encapsulation or secondary ligand stabilization.
+
+Dependency on sacrificial agents: the photocatalytic performance was evaluated using 0.01 M Fe(NO 3 ) 3 ·9H 2 O as an electron sacrificial agent. While this allowed for the focused study of the oxygen evolution half-reaction, it does not fully represent the complexities of overall water splitting where the simultaneous management of both reduction and oxidation kinetics is required.
+
+Scope of application: this study focused on the BiBDC system. Although the template-free solvothermal route shows promise for scalability, the generalizability of this halide-mediated structure engineering strategy to other MOF families or different catalytic reactions requires further validation.
+
+In conclusion, we developed a facile solvothermal strategy to synthesize Br-doped BiBDC photocatalysts, where precise Br-doped induced a remarkable morphological evolution from rod-like to mace-shaped and flower-like architectures. This structural transformation not only enhanced the specific surface area and active site accessibility but also modulated the electronic structure to narrow the optical band gap and facilitate efficient photogenerated charge separation. The optimal BiBDC-0.5 exhibited a superior oxygen evolution rate of 15.2 μmol h -1 with robust long-term stability, outperforming undoped and over-doped counterparts. Such performance originates from the modulation of halide doping on the structural and electronic properties of BiBDC, as substantiated by the clear correlation between morphology, charge dynamics, and catalytic activity. This work provides critical insights into designing MOF-based photocatalysts via dopant-mediated structure engineering, paving the way for advanced applications in solar energy conversion and environmental remediation.
+
+RESOURCE AVAILABILITY
+Requests for further information should be directed to the lead contact, Zhishan Luo ( zsluo@ptu.edu.cn ).
+
+This study did not generate new materials.
+
+All data can be obtained from the lead contact , provided the request is reasonable.
+
+This study does not report original code.
+
+Any additional information required to reanalyze the data reported in this study is available from the lead contact upon request.
+
+ACKNOWLEDGMENTS
+The authors thank the National Natural Science Foundation of China (22472080, 22102030), the Natural Science Foundation of Fujian, China (2025J09051, 2023J05196, 2023J011003, 2022J011165), the Startup Fund for Advanced Talents of Putian University (2022052), the Open Project Program of the State Key Laboratory of Photocatalysis on Energy and Environment (SKLPEE- KF202315 ), and the Putian University Graduate Research Innovation Project (YJS2024003). The Collaboration & Innovation Platform Project of National Independent Innovation Demonstration Zone (Fuzhou, Xiamen, and Quanzhou) (3502ZCQXT2023004), Science and Technology Plan Project of Putian (2023GJGZ001) for financial support.
+
+AUTHOR CONTRIBUTIONS
+J.C.: conceptualization, methodology, investigation, and writing - original draft; H.C.: conceptualization, methodology, and validation; J.W.: writing - review and editing; L.X.: software, resources, and writing - review and editing; J.H.: software and resources; M.L.: resources and writing - review and editing; Z.L.: resources, writing - review and editing, supervision, project administration, and funding acquisition.
+
+DECLARATION OF INTERESTS
+The authors declare no competing interests.
+
+STAR★METHODS
+There are no experimental models (animals, human participants, plants, microbe strains, cell lines, primary cell cultures) used in the study.
+
+Synthesis of Bismuth Terephthalate Hybrid (BiBDC). Bi(NO 3 ) 3 ·5H 2 O (0.645 g, 1.33 mmol) was dissolved in 20 mL of N,N-dimethylformamide (DMF) using ultrasonic treatment. Separately, 1,4-benzenedicarboxylic acid (0.332 g, 2 mmol) was dissolved in 15 mL of DMF under magnetic stirring until completely dissolved. Then, under vigorous stirring, the Bi(NO 3 ) 3 solution was slowly added dropwise to the terephthalic acid solution at a rate of 2 mL/min. The resulting mixture was subsequently transferred to a 100 mL Teflon-lined stainless-steel autoclave and reacted at 120°C for 24 h, followed by slow cooling to room temperature. The obtained precipitate (BiBDC) was collected by vacuum filtration, washed repeatedly with ethanol and deionized water, and finally dried at 60°C overnight for subsequent characterization.
+
+Synthesis of Br-Doped BiBDC. 1,4-benzenedicarboxylic acid (0.332 g, 2 mmol) was dissolved in 15 mL of DMF under continuous stirring until completely dissolved. Then, sodium bromide (NaBr) was added to this solution according to the desired NaBr:Bi(NO 3 ) 3 ·5H 2 O molar ratios (0.25, 0.5, 0.75, and 1, specific dosages see Supporting Information Table S1 ). Meanwhile, Bi(NO 3 ) 3 ·5H 2 O (0.645 g, 1.33 mmol) was dissolved in 20 mL of DMF using ultrasonic treatment. Next, under vigorous magnetic stirring, the Bi(NO 3 ) 3 ·5H 2 O solution was slowly added dropwise to the mixed solution containing 1,4-benzenedicarboxylic acid and bromide ions. Finally, the resulting mixture was transferred to a 100 mL Teflon-lined stainless-steel autoclave, and the subsequent processing steps were identical to those used for the synthesis of BiBDC. The obtained precipitate was designated as BiBDC-x (where x = 0.25, 0.5, 0.75, and 1).
+
+The structural characterization of the samples was performed using an X-ray diffractometer (XRD, Model 6100, Shimadzu, Japan). The XRD analysis conditions were as follows: a CuKα radiation source (λ = 1.54056 Å) was employed, with a scanning range from 5° to 80°, a scanning speed of 2°/min, and a step size of 0.02°/s. For low-angle XRD measurements, a D8 ADVANCE X-ray diffractometer (Bruker, Germany) was used with a scanning range from 5° to 10°.
+
+Further observation of the sample surface morphology was carried out using a scanning electron microscope (SEM, SU8010, Hitachi, Japan). Transmission electron microscopy (TEM) images-including high-resolution TEM (HR-TEM), high-angle annular dark-field (HAADF) images, and energy-dispersive spectroscopy (EDS) maps-were obtained using a Thermo Fisher Scientific TEM (Tecnai G2 F20, FEI, USA). The characterization of the sample functional groups was conducted via Fourier-transform infrared spectroscopy (FT-IR, Tensor27, Bruker, Germany), while the study of chemical bonding states was carried out using X-ray photoelectron spectroscopy (XPS, Esca lab 250 xi, Thermo Fisher Scientific, USA).
+
+In addition, a UV-visible spectrophotometer (UV2550, Shimadzu, Japan) was used to measure the diffuse reflectance spectra (DRS) of the samples. The specific surface area and pore distribution were analyzed using an automatic physical adsorption instrument (BET, ASPS2460, Micromeritics, USA). Based on the obtained N 2 adsorption isotherm data, the specific surface area of the composite catalyst was calculated using the Brunauer-Emmett-Teller (BET) equation, and the pore size distribution was determined using the Barrett-Joyner-Halenda (BJH) model.
+
+The photoelectrochemical measurements were conducted using a self-assembled system comprising a light source (a 300 W xenon lamp), an electrochemical workstation (CHI-700D), and an electrochemical cell. The photoelectrochemical performance was tested in a treated quartz electrochemical cell employing a three-electrode configuration: the working electrode was an ITO glass slide coated with the photocatalytic material (Detailed procedures for the preparation of the working electrode are provided in Supporting Information Section S1), the reference electrode was a saturated calomel electrode (SCE) electrode, the counter electrode was a platinum (1 cm 2 ), and the electrolyte was a 0.5 mol L-1 Na 2 SO 4 solution. The photocurrent was measured using a current-time (I-t) mode, with a bias voltage set at 0 V.
+
+The time-resolved photoluminescence (TRPL) characterization of the samples was performed using a fluorescence spectrometer (FLS1000, Edinburgh Instruments, UK) equipped with a picosecond (ps) pulsed laser source. The TRPL analysis conditions were as follows: a 375 nm pulsed laser (pulse width: ∼50 ps, power: 10 mW) was employed as the excitation source to trigger the photoluminescence of the samples; the emission signal was monitored at the characteristic emission wavelength of BiBDC (450 nm) with a time resolution of 0.1 ns. For the time-scale detection range, measurements were conducted from 1 ns to 10 μs to cover the typical carrier lifetime of Bi-based MOF photocatalysts. All tests were carried out at room temperature under ambient air, with samples prepared by uniformly dispersing the powder on a clean quartz substrate to ensure consistent light absorption and signal collection.
+
+Inductively coupled plasma mass spectrometry (ICP-MS) was conducted on an iCAP Qc spectrometer (Thermo Scientific, USA) to quantify the mass percentages of Bi and Br in Br-doped BiBDC samples. The analysis conditions were: radio frequency (RF) power of 1550 W, argon carrier gas flow rate of 0.8 L/min, auxiliary gas flow rate of 0.5 L/min, and cooling gas flow rate of 14 L/min. Target elements were detected at m/z = 209 (Bi), 79/81 (Br), with indium (m/z = 115) as internal standard for signal drift correction.
+
+An integrated all-glass online reaction system was used in this study to evaluate the photocatalytic oxygen production process. The experimental procedure was as follows: 50 mg of the photocatalyst and 0.4 g of Fe(NO 3 ) 3 ·9H 2 O (0.01M) were mixed in 100 mL of deionized water and dispersed thoroughly. The reaction mixture was then degassed using a vacuum apparatus to remove residual air. Subsequently, the system was irradiated with a 300 W xenon lamp equipped with a 420 nm cutoff filter (to ensure visible-light irradiation, λ> 420 nm); after 55 min, a preliminary sample was taken, and 5 min later the gas was analyzed using a gas chromatograph (Shimadzu, GC-2014).
+
+In addition, to investigate the stability of the photocatalytic activity of the catalyst, long-term oxygen production tests were performed. The pre-treatment was consistent with the procedure described above. After a one-hour single oxygen production test, the reaction was continued and repeated for a total duration of ten hours to evaluate the stability of the catalyst’s photocatalytic performance.
+
+The working electrodes were fabricated using a drop-coating method. Briefly, 10 mg of the photocatalyst was dispersed in 1.6 mL of anhydrous DMF via ultrasonication for 40 min. ITO conductive glass substrates were sequentially cleaned with acetone, ethanol, and deionized water, followed by drying under a nitrogen stream. A 0.5 cm × 0.5 cm active area was defined on the ITO glass using adhesive tape. Subsequently, 30 μL of the catalyst dispersion was uniformly drop-coated onto the defined area and air-dried for 4 h. After removing the tape, non-conductive epoxy (or nail polish) was applied around the active area to eliminate edge effects. The electrodes were finally cured at 40°C for 1 h before photoelectrochemical measurements.
+
+For the oxygen evolution tests, Fe(NO 3 ) 3 ·9H 2 O was employed as the sacrificial electron scavenger. The concentration was maintained at 0.01 mol/L (prepared by dissolving 0.4 g of Fe(NO 3 ) 3 ·9H 2 O in 100 mL of deionized water).
+
+All photocatalytic oxygen evolution tests were conducted in triplicate for statistical validity. The exact value of n is 3, where n represents independent experimental replicates. Data are presented with the center defined as the mean value, and the dispersion is measured and represented by the standard deviation (s.d.).
+
+To evaluate the statistical significance of the differences in photocatalytic performance among the synthesized samples, a one-way analysis of variance (ANOVA) was performed, with statistical significance defined at a threshold of p < 0.01. All statistical details of the experiments, including the exact n values, precision measures, and statistical tests applied, can be found in the results section and the corresponding figure legends (specifically Figure 5 G).
+
+Several specific quantification models and equations were utilized to process the raw characterization data:
+
+Surface Area and Porosity: The specific surface area of the composite catalysts was calculated using the Brunauer-Emmett-Teller (BET) equation based on the N 2 adsorption isotherm data. The pore size distribution was quantified using the Barrett-Joyner-Halenda (BJH) model.
+
+Band Structure Calculations: Flat-band potentials (E fb ) measured against a saturated calomel electrode (SCE) were quantitatively converted to the reversible hydrogen electrode (RHE) scale using the equation: E CB = E SCE + 0.2412 V + 0.0592 × pH. The valence band (VB) potentials were subsequently calculated using the equation: E VB = E CB + E g .
+
+Photocatalytic Activity: The amount of evolved oxygen gas was quantified analytically utilizing a gas chromatograph.
+
+Data Analysis and Visualization: Origin software (OriginLab Corporation) was used for general data plotting, curve fitting, and analysis.
+
+FOOTNOTES
+Supplemental information can be found online at https://doi.org/10.1016/j.isci.2026.115995 .
+
+CONTRIBUTOR INFORMATION
+Zhishan Luo, Email: zsluo@ptu.edu.cn.
+
+Jianhui Huang, Email: owenhuang95@163.com.
+
+ASSOCIATED DATA
+All data can be obtained from the lead contact , provided the request is reasonable.
+
+This study does not report original code.
+
+Any additional information required to reanalyze the data reported in this study is available from the lead contact upon request.

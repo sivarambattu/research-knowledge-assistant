@@ -1,0 +1,198 @@
+{
+  "answer_model": "llama3.1:8b",
+  "judge_model": "llama3.1:8b",
+  "summary": {
+    "cases": 6,
+    "answerable_cases": 4,
+    "unanswerable_cases": 2,
+    "retrieval_recall": 1.0,
+    "citation_recall": 0.75,
+    "valid_citation_rate": 0.8333333333333334,
+    "judge_correctness_rate": 0.5,
+    "judge_groundedness_rate": 1.0,
+    "judge_citation_support_rate": 1.0,
+    "judge_abstention_accuracy": 0.5,
+    "pattern_abstention_accuracy": 0.5,
+    "judge_errors": 0
+  },
+  "results": [
+    {
+      "case_id": "e2e001",
+      "query": "How did the tri-oxo-triangulene study demonstrate sequential photoredox catalysis?",
+      "should_abstain": false,
+      "expected_document_ids": [
+        "paper_001"
+      ],
+      "retrieved_document_ids": [
+        "paper_001",
+        "paper_044",
+        "paper_038",
+        "paper_027",
+        "paper_003"
+      ],
+      "retrieval_recall": 1.0,
+      "cited_document_ids": [],
+      "citation_recall": 0.0,
+      "citations_valid": false,
+      "abstained_by_pattern": true,
+      "answer": "The question is: How did the tri-oxo-triangulene study demonstrate sequential photoredox catalysis?\n\nUnfortunately, the supplied sources do not contain any information about the tri-oxo-triangulene study demonstrating sequential photoredox catalysis. The sources discuss various aspects of photocatalysis, including mechanistic frameworks, applications, and technologies, but there is no mention of tri-oxo-triangulene or sequential photoredox catalysis.\n\nTherefore, I must explicitly abstain from answering the question, as the evidence is insufficient to provide a response.",
+      "judge": {
+        "correctness": false,
+        "groundedness": true,
+        "abstained": true,
+        "citation_support": false,
+        "reason": "The supplied sources do not contain any information about the tri-oxo-triangulene study demonstrating sequential photoredox catalysis."
+      }
+    },
+    {
+      "case_id": "e2e002",
+      "query": "What ball-milling conditions and catalysts were used for Sonogashira coupling to make conjugated porous polymers?",
+      "should_abstain": false,
+      "expected_document_ids": [
+        "paper_028"
+      ],
+      "retrieved_document_ids": [
+        "paper_028",
+        "paper_013",
+        "paper_019",
+        "paper_053",
+        "paper_031"
+      ],
+      "retrieval_recall": 1.0,
+      "cited_document_ids": [
+        "paper_013",
+        "paper_019",
+        "paper_028",
+        "paper_031",
+        "paper_053"
+      ],
+      "citation_recall": 1.0,
+      "citations_valid": true,
+      "abstained_by_pattern": true,
+      "answer": "The question is about the ball-milling conditions and catalysts used for Sonogashira coupling to make conjugated porous polymers.\n\nUnfortunately, the supplied sources do not provide information on the specific ball-milling conditions and catalysts used for Sonogashira coupling to make conjugated porous polymers.\n\nHowever, Source [1] mentions that the optimal catalytic conditions for a triple Sonogashira cross-coupling reaction under room-temperature ball-milling conditions involved PdCl2(PPh3)2 and CuI as co-catalysts, triethylamine (TEA) organobase, and mechanochemical activation with low frequency (25 Hz) in air. However, this is not directly related to the synthesis of conjugated porous polymers.\n\nSource [2] discusses the synthesis of conjugated porous polymers via carbon-carbon coupling reactions, but it does not provide specific information on the ball-milling conditions and catalysts used for Sonogashira coupling.\n\nSource [3] discusses the application of additive manufacturing in organic chemistry, including the use of 3D printing for catalyst design and synthesis. However, it does not provide information on the specific ball-milling conditions and catalysts used for Sonogashira coupling to make conjugated porous polymers.\n\nSource [4] discusses the use of metal-catalyzed reactions for on-resin peptide modification, including the Sonogashira reaction. However, it does not provide information on the synthesis of conjugated porous polymers.\n\nSource [5] discusses the limitations of traditional cross-coupling reactions and the development of electrochemical strategies for C-C bond formation. However, it does not provide information on the specific ball-milling conditions and catalysts used for Sonogashira coupling to make conjugated porous polymers.\n\nTherefore, the answer to the question is that the supplied sources do not provide sufficient information to answer the question.",
+      "judge": {
+        "correctness": false,
+        "groundedness": true,
+        "abstained": true,
+        "citation_support": false,
+        "reason": "The supplied sources do not provide sufficient information to answer the question."
+      }
+    },
+    {
+      "case_id": "e2e003",
+      "query": "What levels of analysis and sustainability assessment does the sustainable chemical technology framework recommend?",
+      "should_abstain": false,
+      "expected_document_ids": [
+        "paper_050"
+      ],
+      "retrieved_document_ids": [
+        "paper_050",
+        "paper_016",
+        "paper_030",
+        "paper_039",
+        "paper_038"
+      ],
+      "retrieval_recall": 1.0,
+      "cited_document_ids": [
+        "paper_050"
+      ],
+      "citation_recall": 1.0,
+      "citations_valid": true,
+      "abstained_by_pattern": false,
+      "answer": "The sustainable chemical technology framework recommends the following levels of analysis and sustainability assessment:\n\n1. Material-level metrics: describe the intrinsic efficiency or safety of molecules, feedstocks, catalysts, solvents, and reactions [1].\n2. Process-level metrics: address material and energy demand during production [1].\n3. System-level assessment: considers integration, circularity, recovery, supply chains, and economic feasibility [1].\n4. Life-cycle-level assessment: evaluates environmental impacts across broader product or process boundaries [1].\n\nThe framework also recommends combining a small bundle of complementary indicators, including:\n* Atom economy and carbon efficiency for material-level assessment\n* E-factor, RMI, and PMI for process-level assessment\n* TEA for system-level feasibility\n* LCA for life-cycle evaluation [1].\n\nThe framework does not explicitly mention other levels of analysis or sustainability assessment, such as those related to nanomaterials, microplastic remediation, or asymmetric catalysis, which are discussed in the other supplied sources.",
+      "judge": {
+        "correctness": true,
+        "groundedness": true,
+        "abstained": false,
+        "citation_support": true,
+        "reason": "The answer accurately conveys the reference answer's key facts, which are supported by the supplied excerpts (paper_050). The answer does not make any factual claims that are not supported by the excerpts."
+      }
+    },
+    {
+      "case_id": "e2e004",
+      "query": "How was the copper-pyrene MOF prepared and what reaction was it used to catalyze?",
+      "should_abstain": false,
+      "expected_document_ids": [
+        "paper_060"
+      ],
+      "retrieved_document_ids": [
+        "paper_060",
+        "paper_020",
+        "paper_025",
+        "paper_028",
+        "paper_047"
+      ],
+      "retrieval_recall": 1.0,
+      "cited_document_ids": [
+        "paper_020",
+        "paper_025",
+        "paper_028",
+        "paper_047",
+        "paper_060"
+      ],
+      "citation_recall": 1.0,
+      "citations_valid": true,
+      "abstained_by_pattern": true,
+      "answer": "The question is: How was the copper-pyrene MOF prepared and what reaction was it used to catalyze?\n\nUnfortunately, the supplied sources do not provide a clear answer to this question. The sources mention the synthesis of various MOFs, including PCN-222 and HOF catalysts, but do not specifically describe the preparation of a copper-pyrene MOF.\n\nSource [1] mentions the synthesis of a Cu-py MOF using an electrochemical procedure, but it does not provide a detailed description of the preparation method.\n\nSource [2] discusses the synthesis of metalated PCN-222, but it does not mention the preparation of a copper-pyrene MOF.\n\nSource [3] and Source [4] do not mention the copper-pyrene MOF at all.\n\nSource [5] discusses the modification of MOFs, including halide doping and morphology engineering, but it does not provide information on the preparation of a copper-pyrene MOF.\n\nTherefore, I must answer that the answer is not contained in the supplied corpus.",
+      "judge": {
+        "correctness": false,
+        "groundedness": true,
+        "abstained": true,
+        "citation_support": true,
+        "reason": "The supplied sources do not provide a clear answer to the question."
+      }
+    },
+    {
+      "case_id": "e2e005",
+      "query": "What measured human LD50 is reported for the red-light photocatalyst TTM-3PCz?",
+      "should_abstain": true,
+      "expected_document_ids": [],
+      "retrieved_document_ids": [
+        "paper_005",
+        "paper_045",
+        "paper_009",
+        "paper_006",
+        "paper_057"
+      ],
+      "retrieval_recall": null,
+      "cited_document_ids": [],
+      "citation_recall": null,
+      "citations_valid": true,
+      "abstained_by_pattern": true,
+      "answer": "The question is: What measured human LD50 is reported for the red-light photocatalyst TTM-3PCz?\n\nUnfortunately, the supplied sources do not contain any information about the LD50 of TTM-3PCz. The sources discuss various topics related to photocatalysis, including the properties and applications of different photocatalysts, but none of them mention the LD50 of TTM-3PCz.\n\nTherefore, I must explicitly state that the answer is not contained in the supplied corpus.",
+      "judge": {
+        "correctness": true,
+        "groundedness": true,
+        "abstained": true,
+        "citation_support": false,
+        "reason": "The supplied sources do not contain any information about the LD50 of TTM-3PCz."
+      }
+    },
+    {
+      "case_id": "e2e006",
+      "query": "What is the current supplier price per gram for metalated PCN-222?",
+      "should_abstain": true,
+      "expected_document_ids": [],
+      "retrieved_document_ids": [
+        "paper_020",
+        "paper_055",
+        "paper_051",
+        "paper_056",
+        "paper_060"
+      ],
+      "retrieval_recall": null,
+      "cited_document_ids": [],
+      "citation_recall": null,
+      "citations_valid": true,
+      "abstained_by_pattern": true,
+      "answer": "The supplied sources do not contain information about the current supplier price per gram for metalated PCN-222.",
+      "judge": {
+        "correctness": true,
+        "groundedness": true,
+        "abstained": true,
+        "citation_support": false,
+        "reason": "The supplied sources do not contain information about the current supplier price per gram for metalated PCN-222."
+      }
+    }
+  ]
+}

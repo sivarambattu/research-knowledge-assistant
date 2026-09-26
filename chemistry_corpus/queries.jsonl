@@ -1,0 +1,35 @@
+{"query_id":"q001","type":"answerable","query":"How did the study use tri-oxo-triangulene to run different photoredox reactions sequentially in one pot?","relevant":["paper_001"]}
+{"query_id":"q002","type":"answerable","query":"In the arene-migration example, what role does riboflavin tetraacetate play under blue-light irradiation in water?","relevant":["paper_002"]}
+{"query_id":"q003","type":"answerable","query":"Why is molecular oxygen used in visible-light photocatalytic C-H coupling, and what bond-forming classes does the review cover?","relevant":["paper_003"]}
+{"query_id":"q004","type":"answerable","query":"How does the stable radical TTM-3PCz use red light to activate substrates for organic transformations?","relevant":["paper_005"]}
+{"query_id":"q005","type":"answerable","query":"What are the advantages of carrying out monofluoroalkylation from alpha-monofluorocarboxylic acids in continuous flow?","relevant":["paper_007"]}
+{"query_id":"q006","type":"answerable","query":"How were sulfone-containing hypercrosslinked polymers tuned to improve photocatalytic hydrogen evolution from water?","relevant":["paper_008"]}
+{"query_id":"q007","type":"answerable","query":"How does selenium substitution make xanthylium salts suitable for low-energy red-light photoredox catalysis?","relevant":["paper_009"]}
+{"query_id":"q008","type":"answerable","query":"How does energy-transfer catalysis redirect radical phosphonylation to make strained phosphorus-containing cyclopropanes?","relevant":["paper_010"]}
+{"query_id":"q009","type":"answerable","query":"What radical-mediated mono- and difunctionalization pathways are reviewed for styrene derivatives, including Wang reactions?","relevant":["paper_011"]}
+{"query_id":"q010","type":"answerable","query":"Which technologies are integrated with homogeneous catalysis in continuous-flow synthesis, and what challenges can this address?","relevant":["paper_014"]}
+{"query_id":"q011","type":"answerable","query":"How does microwave-assisted synthesis streamline metal incorporation into PCN-222 frameworks?","relevant":["paper_020"]}
+{"query_id":"q012","type":"answerable","query":"What active motif in MIL-101(Fe) supports photocatalytic conversion of nitrogen to ammonia?","relevant":["paper_021"]}
+{"query_id":"q013","type":"multi_document","query":"How can N-heterocyclic carbene catalysis be paired with photoredox catalysis to construct carbonyl compounds?","relevant":["paper_022","paper_033"]}
+{"query_id":"q014","type":"answerable","query":"Why can domino reactions help synthesize densely functionalized heterocycles with fewer steps and purification operations?","relevant":["paper_023"]}
+{"query_id":"q015","type":"answerable","query":"How does the gold-catalyzed cyclization and aryne cascade control whether propargylic amides form oxazoles or polyacenes?","relevant":["paper_026"]}
+{"query_id":"q016","type":"answerable","query":"What milling conditions and co-catalysts gave high-yield Sonogashira coupling for conjugated porous polymer synthesis?","relevant":["paper_028"]}
+{"query_id":"q017","type":"answerable","query":"Which electrochemical defunctionalized cross-coupling strategies are surveyed for constructing C-C and C-heteroatom bonds?","relevant":["paper_031"]}
+{"query_id":"q018","type":"answerable","query":"Which olefin-metathesis variants are catalyzed by Grubbs-type ruthenium complexes, including polymerization?","relevant":["paper_032"]}
+{"query_id":"q019","type":"answerable","query":"What advantages do enzymatic cascades offer, and how can they be combined with photocatalysis or electrochemistry?","relevant":["paper_034"]}
+{"query_id":"q020","type":"answerable","query":"What enabling technologies are reshaping synthesis and reaction optimization, including self-driving laboratories?","relevant":["paper_038"]}
+{"query_id":"q021","type":"answerable","query":"What role do conjugated polymers play as recoverable heterogeneous photocatalysts in visible-light synthesis?","relevant":["paper_043"]}
+{"query_id":"q022","type":"answerable","query":"What wavelength range does the review define as near-infrared, and what advantages can it offer over visible-light photochemistry?","relevant":["paper_044"]}
+{"query_id":"q023","type":"answerable","query":"How does bromide doping alter BiBDC MOF morphology, and which morphology showed the strongest photocatalytic oxygen evolution?","relevant":["paper_047"]}
+{"query_id":"q024","type":"answerable","query":"What four levels of analysis does the sustainable chemical technology framework use, and what assessment approach does it recommend?","relevant":["paper_050"]}
+{"query_id":"q025","type":"answerable","query":"How are isoquinolines made in the reported copper-catalyzed one-pot oxidative alpha-amination?","relevant":["paper_051"]}
+{"query_id":"q026","type":"answerable","query":"How does heterogeneous energy-transfer metallaphotocatalysis enable site-selective thioglycosylation of unprotected thiosugars?","relevant":["paper_052"]}
+{"query_id":"q027","type":"answerable","query":"How are quantum confinement and structure related to the photocatalytic behavior of silver quantum dots?","relevant":["paper_054"]}
+{"query_id":"q028","type":"answerable","query":"Which treatment pathways are compared for indigo carmine remediation, and what degradation behavior do they describe?","relevant":["paper_055"]}
+{"query_id":"q029","type":"answerable","query":"How might mineral electrochemistry drive organic synthesis in early-Earth or icy-moon environments?","relevant":["paper_056"]}
+{"query_id":"q030","type":"answerable","query":"How is a copper-pyrene MOF synthesized electrochemically, and what photoelectrocatalytic reaction is it used for?","relevant":["paper_060"]}
+{"query_id":"q031","type":"unanswerable","query":"What measured human LD50 is reported for the red-light photocatalyst TTM-3PCz?","relevant":[]}
+{"query_id":"q032","type":"unanswerable","query":"What is the 2026 supplier price per gram for metalated PCN-222?","relevant":[]}
+{"query_id":"q033","type":"unanswerable","query":"What is the worldwide annual commercial production capacity of bromine-doped BiBDC MOFs?","relevant":[]}
+{"query_id":"q034","type":"unanswerable","query":"What is the measured cradle-to-gate carbon footprint, in kg CO2e per kg product, for each electrochemical cross-coupling method reviewed?","relevant":[]}
+{"query_id":"q035","type":"unanswerable","query":"Which company currently manufactures the largest commercial quantity of the copper-pyrene MOF?","relevant":[]}

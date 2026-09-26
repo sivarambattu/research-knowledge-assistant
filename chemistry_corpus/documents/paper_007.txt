@@ -1,0 +1,179 @@
+SMALL MOLECULE REACTIONS IN FLOW
+The chemical literature
+is rich with examples of the synthesis
+of small molecules using flow chemistry, and this special issue is
+no exception. Providing an excellent overview, Ackermann and co-workers
+discuss the literature on continuous-flow electro- and photocatalyzed
+C-H functionalization in their timely Perspective (DOI: 10.1021/jacsau.5c01706 ). In parallel, Lim, Richards, Su and co-workers present their perspective
+of the field of continuous flow photocatalysis, covering system architectures,
+the mode of photocatalyst deployment, and their views on future directions
+in the field (DOI: 10.1021/jacsau.5c01612 ). In an excellent example of original work in flow photocatalysis,
+Luisi, Colella and co-workers report the monofluoroalkylation of an
+array of Giese acceptors using visible-light-mediated photoredox catalysis
+in continuous flow. Using a transition-metal-free organic photocatalyst,
+structurally diverse secondary and tertiary monofluoroalkyl radicals
+are accessed from α-monofluorocarboxylic acids, and the mild
+conditions employed are shown to enable the late-stage functionalization
+of biologically relevant molecules (DOI: 10.1021/jacsau.4c00902 ). Shreeve, Pang, Hu and co-workers report a water-based cascade
+reaction to synthesize a new nitrogen-rich energetic compound, 6-amino-7,8-dihydrotetrazolo­[5,1- f ]­[1,2,4]­triazin-8-ol. Using microchannel continuous-flow
+technology, their water-based method yielded the product in high purity
+and yield, in just a few hours (DOI: 10.1021/jacsau.5c01089 ). Ye, Li and co-workers present a method for the synthesis of twisted
+benzo-extended [ n ]­phenacenes using a one-pot, three-component
+Suzuki-Miyaura coupling reaction, followed by an electrochemical
+flow Scholl reaction (DOI: 10.1021/jacsau.5c00653 ). Su, Fan, Zhong, Pan and co-workers described the development and
+use of a stable iron complex with acetonitrile as a labile ligand
+and the [Fe 3+ Cl 4 ] - cluster
+as the catalytic site. This material behaves as a regenerable photochemical
+redox catalyst, producing Fe 2+ and · Cl
+radicals for use in reactions such as styrene dichlorination (DOI: 10.1021/jacsau.5c01535 ). Closing out the small molecule work, Liu et al. present a classic
+example of catalysis in flow in heterogeneous, gas phase reactions.
+In their work, Zn-modified iron-based catalysts were prepared and
+used in CO 2 hydrogenation, where they exhibited excellent
+selectivity to C4+ linear alpha olefins (DOI: 10.1021/jacsau.5c01605 ).
+
+MULTISTEP SYNTHESES
+Building on the numerous examples
+of successful synthesis of small
+molecules, researchers have spent the past decade developing multistep
+syntheses using flow reactors. Wan and Chen demonstrate the power
+of multistep synthesis in flow through their total synthesis of (+)-biotin.
+They developed a fully coupled continuous-flow regime that enabled
+the 13-step asymmetric total synthesis of the target molecule, achieving
+a 43% overall yield (DOI: 10.1021/jacsau.5c01570 ). Of note, their process deploys a new chiral auxiliary-controlled
+desymmetrization to construct (3a S ,6a R )-lactone in a closed-loop cycle that is able to continuously recycle
+the chiral auxiliary. Sasaya, Ishitani and Kobayashi demonstrate the
+utility of flow chemistry in their synthesis of the fungicide tetraconazole
+(DOI: 10.1021/jacsau.5c01462 ). Using a packed-bed flow reactor
+containing a new heterogeneous base catalyst, they achieved high selectivity
+in a dehydrative aldol condensation that typically yielded lower selectivity
+under batch conditions. Their use of an in-line 200 MHz 1 H NMR spectrometer showed that the flow-induced selectivity was associated
+with an accelerated interconversion equilibrium between key intermediates,
+enabling a direct elimination pathway. A modular, three-step approach
+for the synthesis of γ- and N -substituted γ-lactams
+from primary amines and carboxylic acids is reported by Noel et al.
+(DOI: 10.1021/jacsau.5c00884 ). Their approach employs deoxygenative
+activation of secondary amides using triflic anhydride, a photochemical
+silane-mediated radical alkylation, and finally, intramolecular cyclization.
+Rapid reaction times and scalable operation are enabled by the additive-free,
+continuous-flow photochemical conditions deployed. Bringing together
+concepts in multistep flow synthesis, He, Gao and colleagues contributed
+a Perspective article describing the challenges of multistep organic
+synthesis in flow, including reaction compatibility, step-connection,
+material transfer, and flow stability (DOI: 10.1021/jacsau.5c01611 ). The team discusses this wide array of challenges in the context
+of their prior flow syntheses of several molecules of interest, including
+tiadinil, methiadinil and emamectin benzoate.
+
+POLYMERS AND MATERIALS
+In addition to the synthesis
+of small molecules, flow chemistry
+has been used to synthesize polymers, and polymeric catalysts and
+reactors are widely used in the field. Haddleton, Junkers and co-workers
+report the photoinduced copper-mediated reversible deactivation radical
+polymerization of acrylate monomers using an automated continuous
+flow platform that enables rapid kinetic screening via inline NMR
+measurements (DOI: 10.1021/jacsau.6c00015 ). Low energy visible light produces polyacrylates using catalytic
+amounts of commercially available dyes, yielding full monomer conversion
+in only 20 min. Kumar, Junkers and co-workers present the miniemulsion
+polymerization of methyl methacrylate in continuous flow, deploying
+a spinning disk reactor to create a metastable emulsion and agitated
+continuous flow reactors to achieve high throughput (DOI: 10.1021/jacsau.5c01613 ). Sarkar and Harth report the synthesis of block copolymers in flow,
+first preparing a semitelechelic poly­(ethylene) in a first flow reactor
+through living coordination-insertion polymerization, followed
+by ROP in a second flow system to prepare the second poly­(δ-valerolactone)
+block (DOI: 10.1021/jacsau.5c01094 ). Weyl and Laroche describe the use of poly­(arylene-ethynylene)­s,
+a subclass of π-conjugated polymers, as heterogeneous photocatalysts
+(DOI: 10.1021/jacsau.5c01641 ). Studied in both batch and flow
+conditions, the authors discuss the opportunities for use of these
+catalysts in flow conditions in their Perspective article.
+
+Polymers
+can also be used as substrates in flow reactions. As an
+example, we consider that polymer circularity and methodologies for
+conversion of spent polymers to alternate products have been topics
+of intense research in recent years. Jiang, Cai and co-workers present
+Pd/Cu catalysts that electrocatalytically convert PET-derived ethylene
+glycol into glycolic acid in a membrane-free flow cell electrolyzer
+(DOI: 10.1021/jacsau.5c01615 ).
+
+Expanding beyond polymers,
+a wide array of other materials have
+been synthesized using flow conditions. Several examples covering
+the synthesis of catalysts are included in this special issue. Wang,
+Zhang and co-workers report the continuous-flow solution plasma synthesis
+of oxygen vacancy-rich Au 1 /CeO 2 -Fe single-atom
+catalysts and explore their use in the water-gas-shift reaction (DOI: 10.1021/jacsau.6c00158 ). Chen and workers describe a slurry electrolysis strategy for scaling-up
+production of Cu nanocatalysts with multigram hourly productivity
+in laboratory flow electrolyzers (DOI: 10.1021/jacsau.5c00897 ). They demonstrate good controllability of particle size down to
+single atoms by regulating the nucleation and particle growth process
+via pulsed electrochemistry, while extending the approach to include
+Ag catalysts and Cu/Ag alloys. Carrier-free enzyme immobilization
+is a powerful method for creating high-density catalytic architectures
+in flow biocatalysis. Niemeyer et al. included a Perspective that
+discusses the evolution of the field, covering cross-linked enzyme
+aggregates and crystals to biologically derived inclusion bodies,
+all-enzyme hydrogels (AEHs), and genetically encoded protein crystals
+(DOI: 10.1021/jacsau.5c01595 ).
+
+In the final paper focusing
+on materials synthesis in flow, Monbaliu
+and co-workers contributed a Perspective covering the evolution of
+cadmium chalcogenide quantum dots, with a particular focus on their
+synthesis, contrasting organic and aqueous batch approaches and aqueous
+continuous flow strategies (DOI: 10.1021/jacsau.5c01449 ). They also highlight opportunities around the integration of automated
+machine learning and artificial intelligence approaches with continuous
+flow, which is expected to accelerate the discovery, optimization,
+and production of functional quantum dots in future technologies.
+
+REACTORS
+An array of papers appears in the issue that
+address the important
+role of the flow reactor in continuous flow synthesis. A methodology
+for the functionalization of perfluoroalkoxy coil reactors with different
+fluorinated photocatalysts is demonstrated by Baldwin, Swager and
+co-workers (DOI: 10.1021/jacsau.5c00804 ). Using either a perylene diimide or poly­(p-phenylene ethynylene)
+polymer photocatalyst contained within the reactor using fluorophilic
+interactions, they evaluated the efficiency of the reactors in continuous
+flow experiments through the [2 + 2] photocycloaddition of 9-vinylcarbazole
+(VCZ) using blue and green light (440 and 525 nm). Chen, Liu and collaborators
+report the use of hybridizing micro packed-bed and micro tubing reactors
+for telescoped multistep flow synthesis (DOI: 10.1021/jacsau.5c00771 ). The telescoped approach integrates sequential reactions into a
+seamless sequence without intermediate isolation, enabling the eight
+step syntheses of the insecticides cyproflanilide and broflanilide.
+Gu, Veettil and coauthors report a method for Ag recovery from end-of-life
+silicon solar cells that uses electrolyte jet scanning to enable selective,
+rapid Ag recovery while preserving the structural and functional integrity
+of the photovoltaic substrate (DOI: 10.1021/jacsau.5c01469 ). The continuous interfacial renewal of the approach overcomes mass-transport
+limitations to yield kinetics faster than those of static jet or bulk
+electrolysis systems. Pastre, Browne and co-workers reported nickel-catalyzed
+Suzuki-Miyaura cross-coupling of aryl chlorides with minimal
+solvent using heated, mechanochemical conditions (DOI: 10.1021/jacsau.5c00934 ). Their work includes larger scale experiments using a twin-screw
+extruder, with continuous production at scales up to 400 mmol and
+65 g isolated product. Shalom, Volokh and co-workers contributed a
+Perspective that discusses the transition from traditional batch powder
+photocatalysis to scalable continuous-flow photocatalysis using polymeric
+carbon nitride (CN) panels (DOI: 10.1021/jacsau.6c00014 ).
+
+Finally, Baumann et al. close out the issue with a Perspective
+article discussing the impact of academic/industrial collaboration
+in the development of flow technologies (DOI: 10.1021/jacsau.5c01617 ). Taking a case study approach, the authors discuss examples of
+thermal, electrochemical and photochemical reactions using a wide
+variety of reactors, including both chemical and biological catalysts.
+Technological elements enabling efficient flow synthesis, such as
+process analytical technologies, automation and data-driven development
+are discussed.
+
+Since the early days of the journal, JACS Au has
+published contributions on flow chemistry (DOI: 10.1021/jacsau.2c00375 ). We are pleased to extend our coverage of this important topic
+via this special issue. We trust that readers interested in flow chemistry
+will find a variety of papers in this issue that may pique their interest.
+I thank all the authors and reviewers who have contributed to this
+issue, and encourage readers to watch for future special issues on
+other current and emerging topics.
+
+SECTION
+Views expressed
+in this editorial are those of the author and not necessarily the
+views of the ACS.
+
+SECTION
+Published as part of JACS Au special issue “Continuous Flow Chemistry”.

@@ -1,0 +1,487 @@
+ABSTRACT
+Porphyrinic metal-organic frameworks (PMOFs) have
+the capacity
+to incorporate metalloporphyrins (MPs) into their structure. While
+this ability opens the door to many potential applications, the synthesis
+of metal-incorporated PMOFs typically involves multistep protocols,
+which have so far limited their exploration and scope. Providing a
+swift and universal synthesis route is an essential part of developing
+these porous materials for catalytic applications. Herein, Zr-PCN-222
+and a broad series of its metalated derivatives (Pd, Zn, Ni, Cu, and
+Pb) were prepared by adopting a facile and rapid method based on a
+three-step microwave-assisted procedure. A variety of diffraction
+and spectroscopic techniques were used to characterize the PMOF compounds
+and confirm the incorporation of MP moieties into the frameworks,
+while their photocatalytic performance was systematically assessed
+in light-driven hydrogen evolution reaction (HER) experiments. We
+demonstrate that the highest performing Zr-PCN-222­(Pd) analogue exhibits
+HER activity under both UV- and visible-light illumination with activity
+levels comparable to those of previously reported benchmarks prepared
+using more tedious preparation protocols. Our results pave the way
+toward the exploration of a range of metal-incorporated PMOFs in applications
+where efficient charge separation and distinct optoelectronic properties
+are advantageous.
+
+INTRODUCTION
+Metal-organic frameworks
+(MOFs) are a multifunctional group
+of porous compounds composed of metal clusters/ions linked to polydentate
+organic linkers, resulting in a well-defined, crystalline structure. - Due to their chemical versatility, high surface areas, rigid skeletons,
+and tunable porosity, they have aroused widespread interest during
+the past decades, which makes them highly promising for a wide range
+of applications, including (photo)­catalysis, gas storage, separation,
+sensing, and energy conversion. -
+
+Highly symmetrical porphyrin ligands are naturally well known
+as
+large heterocyclic molecules. They typically contain four pyrrole
+subunits that can coordinate with metal ions (Fe, Zn, Cu, Ni, Mn,
+or other transition metals) to form metalloporphyrins (MPs). Porphyrinic MOFs (PMOFs) are a substantial subclass
+of MOFs built by incorporating MPs into their backbones to form a
+porous, crystalline network. By leveraging
+the useful redox-active and light emission/absorption properties of
+MPs, PMOFs have gained attention in energy harvesting, photocatalysis,
+and sensing.
+
+The photocatalytic
+hydrogen evolution reaction (HER) involves a
+process where hydrogen (H 2 ) is generated from H 2 O by employing a photocatalyst activated upon absorption of UV or
+visible light photons. , This process is seen as an extremely
+sustainable way of green H 2 production, which has influenced
+research on sustainability and solar fuel technologies over the past
+decades. , Among PMOFs, zirconium-based PMOFs (Zr-PMOFs)
+exhibit great thermal and chemical durability in comparison with other
+MOFs which often decompose under harsh reaction conditions, particularly
+in water and acidic or basic media. Porous
+coordination network (PCN), namely, PCN-222, is a part of the Zr-PMOFs
+family , and is built of meso-tetrakis­(4-carboxyphenyl)­porphyrin
+(TCPP) building units allowing for relatively large pores (3.7 nm) and adjustable pore environments. The presence
+of abundant coordination sites within the TCPP moieties of PCN-222
+further provides an efficient synthetic platform for active catalytic
+site incorporation and manipulation. - Apart from having this
+role, the conjugated structure of TCPP is able to harness light efficiently
+within the photocatalytic process due to respective Soret and Q-absorption
+bands and shows a considerably longer lifetime of electron-hole
+photorecombination. , This unique property of porphyrinic
+units (acting as photosensitizers) leads to the generation of excited
+electrons and their transfer to a coordinated metal center (acting
+as catalytic sites), giving rise to efficient photocatalytic H 2 generation. ,
+
+Several studies have been
+executed to explore the photocatalytic
+performance of PMOFs , - with a few works reporting their light-driven HER activity. The additional use of the porphyritic moiety
+to incorporate HER-active cocatalysts seems especially attractive
+for this application. Such metalated PMOFs allow us to explore the
+concept of single-atom catalysis, enable high structural control over
+the location and loading of the cocatalyst sites, and result in the
+proximity of light-absorbing and catalytic units, which is important
+to facilitate charge separation. The first demonstration of photocatalytic
+H 2 production under visible-light irradiation using PCN-222
+was, however, only realized in 2021 by incorporating different ratios
+of TCPP and TCPP­(Pt) into the framework. Follow-up works focused on the development of more complex composites
+and heterojunctions; - however, only little effort was dedicated to the optimization of
+the preparation protocols toward metalated PMOFs and their derivatives.
+As such, a series of Pt-loaded PCN-222­(Pt) was prepared using commercially
+available but expensive premetalized TCPP­(Pt) as a precursor. In further works, single-atom-loaded PCN-222-NH 2 (Pd) was fabricated using TCPP­(Pd) as a starting material, and a series of metalated CdS@PCN-222 composites
+was synthesized from corresponding MPs. Most recently, different transition-metal ions have been incorporated
+into PCN-222 by presynthesizing a range of TCPP­(M) complexes. One problematic issue with this approach is
+that the scope of commercially available TCPP­(M) MPs is rather limited,
+while typical procedures for PCN-222 metalation involve a long period
+of preparation including the fabrication of TPP-COOMe, its metalation,
+and hydrolysis to produce TCPP­(M). Often, these protocols demand the
+use of high temperatures and deleterious solvents while usually suffering
+from low product yields. , ,
+
+The focus of our work lies in the implementation of a rapid,
+microwave-based
+synthesis approach that makes metalated PMOFs readily available and
+facilitates their exploration, which we showcase here using the example
+of heterogeneous photocatalysis. Keeping these viewpoints in mind,
+in this contribution, we adopt a facile synthetic method where a three-step
+microwave-assisted procedure is used to generate a range of metalated
+PCN-222. We demonstrate the use of this
+PCN-222­(M) series (where M = Pd, Zn, Ni, Cu, and Pb) in light-driven
+H 2 generation and show that the PCN-222­(Pd) member displays
+significant HER activity under both UV- and visible-light illumination,
+with an activity level similar to that of previously reported benchmark
+PMOFs. The results demonstrate that metal incorporation significantly
+influences photocatalytic performance, while postcatalytic characterization
+reveals that framework stability represents a critical factor governing
+long-term activity.
+
+This universal approach can be used for
+the synthesis of numerous
+metalated PMOFs and opens the door to diverse applications specifically
+in (photo)­catalysis, gas sorption, biomedicine, and energy storage
+materials. Previous studies have demonstrated the potential of metalated
+porphyrinic MOFs for photocatalytic hydrogen evolution. The objective
+of the present work is not to introduce a fundamentally new MOF topology
+but rather to provide a comparative assessment of different metal
+incorporations within the PCN-222 platform using a unified synthetic
+and photocatalytic framework. Consequently,
+in contrast to earlier attributed research works on porphyrinic MOFs
+for HER, this work provides a systematic
+comparison of multiple metalated PCN-222 materials (Pd, Ni, Zn, Cu,
+and Pb) synthesized under identical conditions. Particular emphasis
+is placed on correlating metal incorporation efficiency, photocatalytic
+activity, and reproducibility, which are important parameters for
+evaluating the practical applicability of these materials, while also
+highlighting the role of postcatalytic structural stability under
+photocatalytic conditions.
+
+RESULTS AND DISCUSSION
+The preparation of metal-free
+PCN-222 and its metalated derivatives was accomplished based on a
+modified procedure reported previously. The synthesis pathways and activation process are discussed thoroughly
+in the Electronic Supporting Information (ESI, Section S2 ). Briefly, the synthesis proceeds
+in three rapid microwave-assisted steps ( Scheme a) in which the first and second steps yield
+Zr nodes (secondary building units (SBUs)) and MPs, respectively,
+by adding ZrOCl 2 to 2-fluorobenzoic acid (2FBA) (ratio
+1:25) and pouring MCl 2 to TCCP (ratio 5:1), both in N , N -dimethylformamide (DMF). The respective
+solutions only require 5 min of heating at 140 and 175 °C, respectively,
+to complete the reaction. The third step, which forms PCN-222­(M),
+is conducted by mixing the as-gained suspensions of the first and
+the second steps followed by the addition of trifluoroacetic acid
+(TFA) in DMF; the resulting suspension is heated at 150 °C for
+30 min to yield the desired PCN-222­(M).
+
+a Reprinted with some
+modifications
+with permission from ref . Copyright 2012, Wiley.
+
+Reprinted with some
+modifications
+with permission from ref . Copyright 2012, Wiley.
+
+The powder X-ray
+diffraction (PXRD) patterns of the as-synthesized PCN-222 and its
+metalated derivatives ( Figure ) are consistent with those of PCN-222 reported in the literature, which confirms the success of the synthesis
+and metalation and demonstrates the high crystallinity of the PCN-222­(M)
+series. Characteristic diffraction reflections at 2θ = 2.5°,
+4.9°, 6.98°, and 9.78° are correlated to the (100),
+(200), (201), and (400) crystal planes. Reflections located at 7.3°
+and 9.8° represent a hexagonal architecture characteristic of
+the PCN-222 compound. The observed variations
+in reflection intensities and peak shapes arise from differences in
+metal scattering factors, minor changes in crystallite size/preferred
+orientation, and subtle framework flexibility
+upon metal incorporation, which are common
+for porphyrinic MOFs and do not indicate phase transformation. - No additional diffraction reflections or amorphous features are
+detected, and the diagnostic hexagonal reflections are retained in
+all samples, confirming high crystallinity and phase purity. -
+
+PXRD
+of as-synthesized PCN-222­(M) (M = H 2 , Pd, Zn, Ni,
+Cu, and Pb).
+
+Total reflection X-ray fluorescence (TXRF) measurements
+corroborate
+the incorporation of M centers into the PCN-222 structure. Table S1 summarizes the expected and real Zr:M
+ratios and reveals a high degree of metal incorporation in the case
+of Ni, Cu, and Pd corresponding to 31%, 19%, and 100% of the maximum
+expected loading of each of the metals, respectively. In contrast,
+only marginal amounts of Zn (0.36%) and Pb (0.6%) were inserted. Scheme a and b shows digital photographs of the resulting PCN-222­(M) series
+and the nonmetalated PCN-222 benchmark revealing color changes and
+suggesting successful incorporation of metal cations inside the porphyrin
+moiety.
+
+Figure a shows
+the Fourier transform infrared (FTIR) spectra of PCN-222­(M) compounds
+along with the TCPP ligand ( Figure S1 )
+used as a precursor. The N-H stretching vibrations situated
+at ca. 3320 cm -1 (in the range of 3000-3500
+cm -1 , Figure S2a ) correspond
+to its free pyrrole moieties which disappear after metalation ( Figure b and Figure S2b ). The stretching bands at around 1700
+cm -1 can be assigned to the free carboxyl groups
+of TCPP ( Figure S2c ), whereas corresponding
+Zr-coordinated carboxylate bands in PCN-222­(M) are detected in the
+range of 1400-1600 cm -1 ( Figure S2d ). The Zr-O stretching peak at ca. 475 cm -1 signifies that Zr 4+ was successfully linked
+to the -COOH functional group of TCPP while forming the framework.
+With respect to the M-N bond in the porphyrin core, a new sharp
+peak at ca. 1000 cm -1 in all PCN-222­(M) appears
+corresponding to the M-N stretching vibration mode of the MPs
+backbone ( Figure c
+and d). These
+observations confirm the synthesis and isostructural nature of all
+PCN-222­(M) (for more clarifications, refer to Figure S2 ), whereas the exact
+position of the M-N vibration depends strongly on the type
+of incorporated metal, in line with the
+literature.
+
+(a) FTIR spectra of as-synthesized PCN-222­(M) (M = H 2 , Pd, Zn, Ni, Cu, and Pb), (b) the stretching vibrations of free
+N-H of PCN-222 and its disappearance after metalation in PCN-222­(M)
+(M = Pd, Ni, Cu, and Pb), and (c) and (d) IR vibrations of the TCPP
+linker and PCN-222­(H 2 ) and the appearance of the M-N
+bond upon metalation, respectively.
+
+Upon metalation, the D 2h symmetry in
+PCN-222 changes to D 4h in PCN-222 (Pd,
+Ni) as can be seen from the Diffuse Reflectance Spectroscopy (DRS)
+spectra plotted in Figure . It indicates the alteration of PCN-222 possessing four Q-bands
+(515, 538, 590, and 646 nm; arising from a 2u (π)-e g *­(π) transitions) into two Q-bands at around 525 and
+550 nm for PCN-222­(Pd, Ni) by metalation. , The Soret (B) band of PCN-222 centered at 422 nm (electronic transitions
+of a 1u (π)-e g *­(π)) changes
+negligibly and red-shifts slightly (5-10 nm) in PCN-222­(M). , In contrast, but also in line with the literature, the DRS spectra
+of PCN-222­(Pb) revealed that the four Q-bands of the neat PCN-222
+stay largely intact.
+
+DRS absorbance spectra
+of PCN-222­(M) (M = H 2 , Pd, Ni,
+and Pb).
+
+Photocatalytic
+HER studies were performed by dispersing the catalyst powders in acetonitrile/water
+mixtures and using triethylamine (TEOA) as an electron scavenger (details
+in ESI, Section S3 ). The HER rates of PCN-222
+(M) are summarized in Figure . PCN-222­(Zn, Ni, Pb) showed low but measurable H 2 production after 3 h of light irradiation with a narrow-band UV
+source (365 nm), yielding 2.5, 0.5, and 2.9 μmol g -1 of H 2 , respectively ( Figure a). While this low level of activity for
+PCN-222­(Zn) and PCN-222­(Pb) can be linked to the low incorporation
+degree of these metals, the performance of PCN-222­(Ni), where the
+metalation was successful, is likely an indicator of its intrinsically
+low activity. In contrast, nonmetalated PCN-222 and PCN-222­(Cu) generated
+no measurable H 2 ( Table S2 ),
+which can be related to the fast recombination of photogenerated electron-hole
+pairs in the parent PCN-222 , and the inability of
+Cu to cocatalyze HER under these conditions, respectively.
+
+HER activities
+of (a) as-fabricated PCN-222­(M) (M = Zn, Ni, Pb)
+and (b) PCN-222­(Pd) under UV- and visible-light illumination: left Y -axes show cumulative amounts of the generated H 2 ; right Y -axes show the respective HER rate; highlighted
+area in (b) emphasizes that the HER rate of PCN-222­(Pd) obtained after
+the first illumination hour under UV- and visible-light is very close;
+for photocatalytic HER, the reactors were illuminated from the side
+by a narrow-band LED source centered at 365 nm (UV light, 271 mW/cm 2 ) or 445 nm (visible light, 506 mW/cm 2 ) (c) Recyclability
+experiments with the most active PCN-222­(Pd) analogue; recyclability
+experiments with the most active PCN-222­(Pd) analogue performed under
+365 nm light (for detailed description, refer to Scheme S1 and Section S3 ).
+
+In comparison to the rest of the compounds, PCN-222­(Pd)
+displayed
+by far the highest HER rate generating 120.5 μmol g -1 of H 2 after 3 h of illumination suggesting that the photoelectrons
+excited on the porphyrin moiety are able to effectively migrate to
+the Pd site and take part in the proton reduction reaction generating
+dihydrogen. This activity also goes in line with the high degree of
+Pd incorporation, highlighting the intrinsic affinity of the TCPP
+moiety to coordinate Pd 2+ (d 8 ) in a square planar
+geometry. The H 2 generation rates of all studied PCN-222­(Pd)
+photocatalysts are provided in Figure b and further summarized in Table S3 . While no substantial photocatalytic activities employing
+narrow-band visible light illumination (445 nm) were witnessed with
+neat PCN-222 or other metalated PCN-222­(M) derivatives, PCN-222­(Pd)
+also yielded a substantial HER rate (24.1 μmol g -1 ) which was only 3-5 times lower compared to the rate obtained
+under UV illumination ( Figure b). Calculated apparent quantum yield (AQY) values under visible-
+and UV-light illumination amount to 0.004 and 0.04%, respectively,
+which emphasize the potential of using metalated PMOFs in photocatalytic
+conversions driven by natural sunlight.
+
+It is worth noting that
+TEOA was used as a sacrificial electron
+donor to scavenge photogenerated holes and suppress charge recombination.
+Under the applied conditions, TEOA does not produce measurable hydrogen
+in the absence of a photocatalyst ( Table S3 ), ensuring that the observed H 2 evolution originates
+from photocatalytic processes involving the PCN-222-based materials
+rather than from photochemical decomposition of the sacrificial donor.
+
+Steady-state photoluminescence (PL) spectroscopy
+was applied to
+further rationalize the activity trend of PCN-222 (M). Figure shows that metalation of PCN-222
+always leads to strong quenching of its main emissive peaks, whereas
+PCN-222­(Pb,Zn) only shows minor effects likely due to the low incorporation
+degree of the metals. Considering that both PCN-222­(Pb) and PCN-222­(Zn)
+still show HER activity, PL suggests rather efficient charge separation
+enabled at the Pb- and Zn-containing porphyrinic moieties.
+
+Steady-state
+photoluminescence spectra of the neat PCN-222 and
+its metalated analogs obtained at 410 nm excitation.
+
+In contrast to this, PCN-222 (Pd,Ni) both show
+very strong quenching
+behavior, resulting in 15-30 times lower recombination processes
+within their respective frameworks. This property yields an outstanding
+HER performance for the Pd analogue; however, contrary to expectations
+based on PL and successful metal incorporation, PCN-222­(Ni) is still
+quite inactive ( Figure a), which we associate with the inability of Ni 2+ to efficiently
+catalyze HER in its single-atom form. In line with this, recent literature
+indicates that PCN-222­(Ni) is active toward CO 2 reduction
+rather than HER.
+
+A plausible photocatalytic
+pathway involves the excitation of the
+porphyrinic linker, followed by intersystem crossing and electron
+transfer to the metal centers, which act as catalytic sites for proton
+reduction. While this mechanism is supported by photoluminescence
+quenching and catalytic trends, it should be considered as a plausible
+interpretation based on indirect evidence. Photoluminescence measurements probe singlet excited states and
+are therefore not directly representative of the triplet states typically
+involved in photocatalytic processes. In this work, PL quenching is used as an indirect indicator of excited-state
+interactions between the linker and metal centers rather than as direct
+evidence of photocatalytic activity. Despite the limitations of PL
+spectroscopy for mechanistic assignment, a qualitative comparison
+of the PL and photocatalytic results remains informative. Both PCN-222­(Pd)
+and PCN-222­(Ni) exhibit substantial PL quenching, suggesting efficient
+excited-state interactions. However, their markedly different HER
+activities indicate that photocatalytic performance is not governed
+solely by charge separation efficiency. Instead, the intrinsic catalytic
+properties of the incorporated metal centers play a decisive role
+in determining the hydrogen evolution activity.
+
+We further benchmarked
+the performance of the best-performing PCN-222­(Pd)
+against physical mixtures of PCN-222 and Pd- or Pt-containing precursors
+(details in Table S3 ). First, photodeposited
+Pd/PCN-222 did not produce any H 2 , which suggests that
+the location of the Pd atom is important in the extraction and consumption
+of the photogenerated charges. In comparison to Pd nanoparticles deposited
+on the surface of PCN-222 particles, single Pd atoms incorporated
+inside light-absorbing porphyrinic moieties seem to be able to effectively
+use the photogenerated charge and complete the HER. Second, despite
+Pt being known as one of the most active HER cocatalysts, Pt/PCN-222 displays much lower photocatalytic
+HER rates (13-fold) compared to our PCN-222­(Pd), which further demonstrates
+the potential of PMOFs containing suitable catalytic centers in driving
+photocatalysis efficiently.
+
+We next assessed both the reproducibility
+of the synthesis and
+the photocatalytic performance by examining the PCN-222­(Pd) member
+of the family. Several batches of PCN-222­(Pd) were prepared on a single
+day, and the resulting products were analyzed with PXRD ( Figure S3 ). The diffraction patterns match well
+with that of the first PCN-222­(Pd) described above, manifesting the
+general reliability of the synthetic process. All three batches were
+further tested toward their HER performance, and all were shown to
+be highly active with activity values deviating by 20% from the average
+( Table S4 ). While this result generally
+points to the reproducibility of the catalytic data, this high deviation
+value suggest that even small synthetic modifications along the 3-step
+synthesis procedure may result in a different degree of Pd atom incorporation
+and type. Whereas the aspect of MOF synthesis reproducibility is a
+matter of wider research, ,
+
+Under UV irradiation,
+the exact photoinduced charge transfer pathway
+operating under the present reaction conditions cannot be conclusively
+established from the available data. Nevertheless, the observed photocatalytic
+activity is consistent with the excitation of the porphyrinic framework
+followed by charge separation and electron transfer to catalytically
+active Pd centers. Because transient
+spectroscopic techniques such as transient absorption spectroscopy
+were not employed in this study, the proposed mechanism should be
+regarded as a plausible interpretation based on the known photophysical
+behavior of porphyrinic materials rather than direct experimental
+proof.
+
+Apart from testing different
+batches, we also evaluated the long-term
+performance of the second PCN-222­(Pd) batch under light on-off
+cycles simulating day-night cycles (details in Figure c and ESI Section S3 ; Table S4 ). After each
+3 h long illumination period, the reactor was opened and purged with
+Ar for 10 min; the illumination was continued over the following 3
+h period. Regardless of retaining its macroscopic appearance ( Figure S4c ), PXRD and FTIR analyses ( Figure S4a and S4b , respectively) show partial
+framework decomposition after photocatalysis, evidenced by linker-like
+vibrational features and loss of crystallinity. In particular, peak
+broadening and loss of long-range crystallinity in PXRD spectra have
+revealed that PCN-222­(Pd) underwent partial structural decomposition
+during photocatalytic HER. All of these are indicative of framework
+collapse and partial amorphization. Furthermore, the characteristic
+carboxylate coordination bands associated with the Zr-porphyrin framework
+in the FTIR spectra became broadened and shifted, while new bands
+resembling those of the free porphyrinic ligand emerged.
+
+The
+gradual decrease in hydrogen evolution activity observed during
+successive photocatalytic cycles appears to be closely associated
+with structural changes in the catalyst. Postcatalytic FTIR spectra
+revealed broadening and shifting of characteristic framework absorption
+bands, while PXRD patterns showed a noticeable reduction in diffraction
+reflection intensities and partial loss of crystallinity. These observations
+suggest partial degradation of the PCN-222­(Pd) framework under photocatalytic
+conditions. Since the porphyrinic linker and the coordinated Pd centers
+constitute the catalytically active architecture, disruption of the
+framework is expected to reduce the accessibility and effectiveness
+of active sites, thereby contributing to the progressive decline in
+the HER performance.
+
+PCN-222-type frameworks are generally stable
+in aqueous media due
+to the robustness of Zr-O coordination bonds. , However, under photocatalytic conditions, partial structural degradation
+is observed, as evidenced by FTIR and PXRD analyses. This suggests
+that while the framework remains stable in the dark, the combination
+of irradiation and reactive intermediates generated during the photocatalytic
+process leads to a gradual loss of crystallinity and partial linker
+dissociation. , Despite the fact that the exact
+trend is a matter of further investigation, this result shows that
+PCN-222­(Pd) generally exhibits high activity even after 12 h of illumination
+and does not show dramatic deactivation commonly observed in other
+photocatalytic MOFs. ,
+
+CONCLUSION
+In summary, a swift microwave-based
+fabrication of metalated PCN-222
+was successfully applied to prepare a series of its Pd-, Zn-, Ni-,
+Cu-, and Pb-containing derivatives. Several characterization methods
+were used for characterization: PXRD revealed the iso-reticular crystalline
+character of PCN-222­(M) analogs; FTIR, TXRF, and DRS confirmed successful
+metalation. The photocatalytic HER activities of PCN-222­(M) were tested
+under UV- and visible-light revealing minor HER activities for PCN-222­(Zn,
+Pb, Cu), whereas PCN-222­(Pd) demonstrated high H 2 evolution
+rates reaching AQY values of 0.04. Following its strong absorption
+in the visible-light region, PCN-222­(Pd) could also deliver substantial
+activity under visible-light illumination.
+
+Steady-state PL results
+showed that the presence of Pd and Ni centers
+inside the porphyrin cores results in efficient charge separation
+and leads to a strongly suppressed radiative emission of the PMOF.
+While Ni sites stay inactive toward HER in PCN-222­(Ni), this efficient
+charge separation and the additional ability to catalytically promote
+H 2 generation by Pd turned PCN-222­(Pb) into an active photocatalyst.
+It should be noted that steady-state photoluminescence measurements
+predominantly probe processes originating from singlet excited states
+and therefore do not directly monitor the long-lived triplet states
+that are typically involved in photocatalytic hydrogen evolution.
+Consequently, PL quenching is interpreted here only as evidence of
+excited-state interactions between the porphyrinic linker and incorporated
+metal centers. The PL data are not considered direct proof of the
+charge-transfer processes responsible for photocatalysis but rather
+provide complementary information regarding electronic communication
+within the framework.
+
+The robustness of the synthetic protocol
+and the photocatalytic
+performance of PCN-222­(Pd) were examined by producing multiple catalyst
+batches. The reusability of the best-performing PCN-222­(Pd) was tested
+by lengthy exposure of the catalyst to light (12 h; four successive
+cycles), displaying its sustained HER efficiency. This work advances
+the use of metal-incorporated PMOFs and paves the way for their further
+exploration. However, the hydrogen evolution rates obtained in this
+study are lower than those reported for some optimized porphyrinic
+MOF systems. Direct comparison between literature reports remains
+challenging because photocatalytic performance is highly dependent
+on experimental variables such as the irradiation source, sacrificial
+agent, catalyst loading, and reactor configuration. Therefore, the
+present work focuses primarily on relative activity trends among the
+investigated metalated PCN-222 materials under identical reaction
+conditions rather than on achieving maximum hydrogen productivity.
+
+Although the microwave-assisted synthesis of PCN-222-based materials
+has been previously reported, the present approach focuses on establishing
+a general and reproducible protocol for metal incorporation across
+different ions. The emphasis of this work is not on minimizing the
+number of synthetic steps but rather on enabling consistent comparison
+of metal-dependent properties within a unified synthetic framework.
+Furthermore, in the current work, microwave synthesis was employed
+as a rapid and reproducible route to prepare a series of metalated
+PCN-222 derivatives under comparable conditions. Accordingly, the
+focus of this study is placed on comparative catalytic evaluation
+and structure-performance relationships rather than on the
+development of a fundamentally new synthetic methodology.
+
+While
+the photocatalytic efficiencies remain moderate and the exact
+charge-transfer mechanism requires further investigation using advanced
+time-resolved spectroscopic techniques, the present study provides
+useful insights into the interplay among metal identity, framework
+integrity, and photocatalytic hydrogen evolution in porphyrinic MOFs.
+Future research lines will focus on further optimization of catalyst
+loading, light intensity, and reaction conditions that could significantly
+improve AQY values, catalytic efficiency, and stability under operating
+conditions.

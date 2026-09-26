@@ -1,0 +1,791 @@
+ABSTRACT
+Abstract Visible-light-promoted
+radical reactions have significantly influenced
+modern synthetic organic chemistry over the past three decades. In
+particular, the dual catalytic methods combining N -heterocyclic carbenes (NHCs) with metal-based (Ir, Ru) photocatalysts
+have emerged as a powerful synthetic strategy for efficiently constructing
+valuable carbonyl compounds. This synergistic methodology has revealed
+great potential in pharmaceutical and materials science applications.
+Due to its broad utility, NHC catalysis has recently demonstrated
+considerable attention in organic synthesis, materials design, and
+the late-stage modifications of drugs and natural products. In this
+review, recent advances (2020-2025) in dual NHC and photoredox
+catalysis are highlighted, with a particular focus on methodology
+developments, mechanistic insights, and the reaction scope for the
+synthesis of ketones, esters, and amide derivatives, including pharmaceutically
+relevant intermediates. Moreover, this dual catalytic study discusses
+current synthetic challenges and opportunities for developing more
+efficient and multicatalytic systems and collecting new mechanistic
+information under green, sustainable conditions, which tolerate a
+broad range of functional groups and commercially available, inexpensive,
+nontoxic starting materials or reagents.
+
+INTRODUCTION
+Over the past two decades,
+visible-light-promoted radical reactions
+have been efficiently developed to synthesize organic intermediates,
+drugs, and natural products. - Photocatalysis offers sustainable, stereospecific, enantio- and
+regioselective green pathways to generate a variety of functionalized
+organic molecules using various organo- and metal-type photocatalysts
+under mild conditions. - Visible light as a clean and renewable energy source is used for
+the development of C-H bond activation. It has driven the recent development of diverse photocatalytic
+processes. Among these, the emergence of dual catalysis, particularly
+the synergistic combination of N -heterocyclic carbenes
+(NHCs) with photocatalysts, has opened new frontiers in molecular
+construction, particularly for carbonyl group-containing compounds. - These prevalent functional groups are present in various drugs,
+natural products, and bioactive molecules. -
+
+Over the past three decades, N -heterocyclic carbenes
+(NHCs) have been recognized as versatile organocatalysts and metal
+complexes, including the backbone of imidazolium, thiazolium, and
+triazolium derivatives. NHCs are widely used in numerous catalytic
+reactions and in the interconversion of functional groups through
+the umpolung approach. They can activate several functionalized aryl
+aldehydes by forming reactive intermediates such as acyl azoliums,
+Breslow intermediates, or homoenolates. - Notably, over the past
+ten years, many leading research teams involved in NHC-catalyzed radical
+reactions combined with diverse photocatalysts have rapidly developed
+various complex catalytic systems to produce pharmaceutically relevant
+molecules. The resulting dual or triple catalytic systems enable unprecedented
+reactivity and selectivity profiles, facilitating single-electron
+transfer (SET) processes under mild conditions when coupled with visible-light-induced
+photocatalysis. - These cooperative catalytic systems permit the efficient
+and cost-effective generation of carbon-carbon and carbon-heteroatom
+bonds through radical pathways that are otherwise difficult to produce
+highly functionalized organic molecules using traditional thermal
+or single catalytic approaches. -
+
+The combination of NHC and photoredox catalysis
+has proven particularly
+powerful for the modern photochemical synthesis of structurally diverse
+and pharmaceutically important carbonyl compounds, including ketones,
+esters, and amides. These motifs are foundational in numerous bioactive
+molecules, drugs, natural products, and optical and electronic materials,
+making their efficient and selective assembly a root of synthetic
+organic chemistry. Moreover, NHC catalysis showed eco-friendly, cost-effective,
+mild conditions, high functional group tolerance, and potential for
+late-stage functionalization, highlighting this dual catalysis’
+synthetic utility and industrial process discovery. Recently, Hopkinson,
+Marzo, Wang, Dong, and co-workers reported a detailed synthetic strategy
+and mechanistic overview review article of light-promoted dual photocatalysis
+combining NHCs with photocatalysts, which includes both organo-and
+transition metal photocatalysis for C-C, C-HA cross-coupling
+reactions involving various aldehydes, carboxylic acids, esters, acyl
+fluorides, amides, and other radical coupling partners, along with
+their applications in organic synthesis and medicinal chemistry. -
+
+In 2020, Ohmiya et al. reported significant developments in
+NHC-based
+radical catalysis, enabling the preparation of various carbonyl compounds
+through single-electron transfer (SET) and radical-radical
+cross-coupling pathways. Furthermore,
+in 2022, Studer et al. published a comprehensive review focused on
+radical NHC catalysis, highlighting NHC-catalyzed radical transformations
+of aldehydes and carboxylic acid derivatives into a wide range of
+carbonyl compounds including ketones, amides, and esters. Radical-radical
+coupling reactions were achieved through single-electron oxidation
+or reduction processes in the presence of NHC catalysts. Over the years, the research groups of Rovis,
+Chi, Glorius, Bode, Enders, Suzuki, Scheidt, and others have developed
+C-C, C-HA and H-X cross-coupling strategies enabled
+by N -heterocyclic carbene (NHC) catalysis. Later,
+dual catalytic approaches that combine NHCs with transition metals
+or organocatalysts were discovered, having a major impact on synthetic
+organic chemistry. -
+
+The previous review papers focused on recent advances in dual
+catalysis
+in organic synthesis, particularly visible-light-mediated N -heterocyclic carbene catalysis combined with photocatalysis
+involving either metal-based or organocatalysts and also NHC-catalyzed
+radical coupling reactions. These strategies have enabled the generation
+of diverse organic intermediates via NHC-catalyzed radical reactions. - The review articles by Ohmiya, Studer, and Hopkinson mostly discussed
+carbene-catalyzed radical-radical C-C/C-HA cross-coupling
+reactions proceeding via single-electron transfer (SET) processes
+in the presence of NHC catalysts, with or without a photocatalyst. -
+,
+
+This review mainly focuses
+on the most recent synthetic applications
+in dual photocatalysis reported between 2020 and 2025 for the sustainable
+preparation of various carbonyl compounds and their derivatives by
+combining NHC organocatalysts with metal-based photoredox catalysts
+such as Ir or Ru complexes. The presented NHC-catalyzed dual photocatalytic
+approach provides efficient and practical routes for the useful synthesis
+of diverse carbonyl compounds and the late-stage functionalization
+of bioactive molecules, drugs, and natural products. Moreover, the
+use of visible-light harvesting and earth-abundant catalysts is expected
+to further expand the impact of this approach in diverse research
+areas such as synthetic and medicinal chemistry, pharmaceuticals,
+fine chemicals, polymers, and advanced materials. The described NHC-mediated
+catalytic methods and reaction scopes are expected to facilitate the
+future novel design and development of triple, quadruple, or multicatalytic
+systems. -
+
+RESULTS AND DISCUSSION
+Hopkinson and co-workers
+efficiently developed a dual NHC and photoredox-catalyzed radical
+cross-coupling of aroyl fluorides with benzyl silanes as alkyl radical
+sources. The reaction of acyl fluorides 1 with organosilanes 2 in the presence of NHC (20 mol %), Ir-PC (2 mol %), with
+Cs 2 CO 3 (1 equiv) in CH 3 CN at room
+temperature for 24 h afforded the desired functionalized aryl ketones 3 . Under photoredox conditions, benzyl silanes 2 underwent single-electron oxidation followed by desilylation to
+form radical species E . The radical-radical cross-coupling
+reaction of intermediates C and E, followed
+by the elimination of NHC, finally furnished the corresponding aryl
+ketone products 3 . Electron-rich silane substrates reacted
+most efficiently under the optimized conditions; however, the authors
+also demonstrated that less-activated silyl derivatives, including
+primary benzylic substrates, could be successfully coupled. Moreover,
+the coupling reaction scope was expanded to include acyl fluorides 1 bearing various functional groups. Notably, organosilane
+scaffolds 2 , tolerating N-, O-, and S-heteroatoms, also
+underwent the most efficient carbon-carbon cross-coupling reactions.
+This dual catalysis study established the broad utility of diverse
+organosilane derivatives as suitable substrates for acyl-alkyl
+coupling reactions and produced moderate to good yields of highly
+substituted ketone moieties 3 ( Scheme ).
+
+In 2024, Han, Li, and their
+groups developed the first NHC/Ir-catalyzed
+1,2-boron migrative acylation, accelerated by dual photocatalysis
+using blue LED. The success of this transformation lies in the novel
+design of a unique TCNHPI boronic ester coupling substrate, which
+can generate β-boron radical species D through
+a single-electron reduction process. This photocatalytic strategy
+enables the rapid synthesis of a wide range of β-boryl ketones 6 from aldehyde 4 and TCNHPI boronic ester 5 using NHC (20 mol %), Ir-PC (2 mol %) in a DCM/THF 4:1 ratio
+of solvents under mild conditions. The broad applicability of this
+strategy was demonstrated via late-stage modifications of bioactive
+drugs and natural product scaffolds such as diflunisal, tolmetin,
+naproxen, citronellol, ciprofibrate, pterostilbene, and zingerone,
+as shown in Scheme . Detailed mechanistic studies, including control experiments, photophysical
+analysis, and DFT calculations, were conducted to provide insight
+into NHC-catalyzed acylation and the associated 1,2-boron migration
+process. The authors proposed a plausible radical pathway in which
+the Ir­(III) photocatalyst is excited under visible light irradiation.
+The excited-state photocatalyst, Ir­(III)*, then undergoes a single-electron
+transfer (SET) with the TCNHPI boronic ester 5 , generating
+an alkyl radical species C along with the oxidized photocatalyst
+Ir­(IV). The alkyl radical C subsequently undergoes a
+facile 1,2-boron migration to form a more stable radical species D . In parallel, aromatic aldehyde 4 condenses
+with carbene catalyst A to generate the deprotonated
+Breslow intermediate B under basic conditions. This electron-rich
+Breslow intermediate then undergoes a SET with the oxidized photocatalyst
+Ir­(IV), regenerating the ground-state Ir­(III) species and producing
+ketyl radical species E . Alternatively, under thermal
+conditions, a direct SET between Breslow intermediate B and TCNHPI ester 5 may occur, forming alkyl radical C , which can similarly convert into the more stable radical D , along with ketyl radical E . A subsequent
+radical-radical cross-coupling between species D and E followed by elimination of the carbene catalyst,
+furnished the desired carbonyl products 6 ( Scheme ).
+
+In 2023, a robust radical coupling method for
+1,2-sulfonylacylation
+of allenes, employing inexpensive and readily accessible aroyl fluoride
+through visible light-promoted dual photocatalysis by a combination
+of NHC and iridium photocatalysts, was reported by Wang et al. This
+versatile photocatalytic strategy provides an elegant synthetic approach
+for obtaining medicinally useful sulfonyl group-containing allyl ketones
+under mild conditions, in a short time (15 min), with excellent regioselectivity.
+The respective C-C and C-S coupling reactions between
+aroyl fluoride 1 , allene 7 , and sodium sulfonate 8 were achieved using catalytic amounts of NHC and an Ir-photocatalyst
+under blue LED irradiation. This method produced the corresponding
+vinyl sulfonyl ketones 9 in good yields with tolerance
+of a wide range of functional groups and accessible starting materials.
+Mechanistic investigations indicated that the 1,2-sulfonylacylation
+step proceeded through an unprecedented cross-coupling of a triazolium-carbene-stabilized
+ketyl radical C and an allyl radical B ,
+which opened a new avenue for the radical difunctionalization of allene
+derivatives via dual photocatalysis ( Scheme ).
+
+Wu et al. developed a new dual
+catalytic method that combines NHC
+catalysis with Ir-photocatalysis under mild conditions for the useful
+carbonylation of alkenes 12 , allowing the efficient synthesis
+of valuable 1,4-dicarbonyl compounds 13 in good yields.
+In this transformation, three new C-C bonds and two carbonyl
+(CO) groups were constructed in a one-pot process with a broad substrate
+scope and tolerance of various functional groups. Furthermore, the
+synthetic practicality of the approach was demonstrated through the
+effective construction of important heterocyclic compounds such as
+furan, pyrrole, and pyridazine, as well as 1,4-diol derivatives. This
+method offers new insights into NHC-photoredox-catalysis-driven
+multicatalytic systems design for CO utilization under economical
+and sustainable conditions ( Scheme ).
+
+Wang et al. reported an effective
+photocatalytic strategy involving
+NHC and photoredox iridium cocatalysis for the three-component symmetrical
+and unsymmetrical 1,2-dicarbonylation of olefins, aroyl fluorides,
+and α-keto acids under extremely mild conditions using readily
+available starting materials. The visible light-mediated multicomponent
+reaction of functionalized alkenes 12 , acyl fluorides 1 , and α-keto acids 14 were carried out
+in the presence of carbene catalyst (15 mol %), Ir-photocatalyst (1.5
+mol %), and Cs 2 CO 3 as a base in a MeOH/H 2 O solvent system at 30 °C for 12 h under green
+system, affording the desired 1,2-dicarbonylated products 15 in up to 88%. Mechanistic experiments indicated that the transformation
+proceeds via a radical cross-coupling pathway. The
+distinct reactivity of the acyl radical and the NHC-stabilized ketyl
+radical enabled excellent selectivity. The authors successfully developed
+a regioselective method for the 1,2-dicarbonylation of alkenes with
+two different aroyl and alkanoyl groups. This novel catalytic procedure
+represents a significant advancement in the selective multicomponent
+coupling of 1,2-dicarbonylation of alkenes, enabling the installation
+of both aroyl and alkanoyl functionalities. The radical transformation
+proceeds under mild conditions with broad substrate scope and tolerating
+various functional groups, offering a general and practical strategy
+for the synthesis of both symmetrical and unsymmetrical 1,2-dicarbonyl
+compounds 15 ( Scheme ).
+
+In 2022, a new photocatalytic method was developed
+for
+the direct
+1,2-dicarbonylation of alkenes via cooperative NHC
+and iridium photocatalysis to access 1,4-dicarbonyl compounds 17 reported by Fan, Feng, and co-workers. The radical reaction
+was carried out between olefins 16 and aroyl fluorides 1 in the presence of NHC (10 mol %), Ir-based photocatalyst
+(1.5 mol %), and Ph 3 P (1.5 equiv) in Cs 2 CO 3 (2 equiv) in DCM for 24 h. Visible-light-induced NHC involved
+catalytic process enabled the facile synthesis of a series of symmetric
+1,4-diketones 17 in 41-79% yield, with a broad
+substrate scope and excellent functional group tolerance. Furthermore,
+unsymmetric diketones were formed readily by varying the acyl and
+alkene precursors through three-component coupling of amide, benzoic
+acid, and alkene combination. This method exhibits remarkable generality
+and offers potential for late-stage modification of therapeutically
+relevant arenes and heteroarenes ( Scheme ).
+
+Wang and colleagues developed a cost-effective,
+convenient method
+for the efficient synthesis of difluoromethylated ketones 19 via a three-component coupling reaction of olefins 12 , aldehydes 4 , and 2-((difluoromethyl)­sulfonyl)­benzo­[d]­thiazole 18 under NHC-Ir photoredox catalysis. The reaction was achieved
+with Na 2 CO 3 (1.5 equiv) in the presence of an
+Ir-based photocatalyst (1 mol %), carbene catalyst (20 mol %), and
+450 nm blue LED irradiation. This dual photocatalysis strategy enabled
+the simultaneous incorporation of a difluoromethyl moiety known for
+its enhanced biological activity and a carbonyl group into substituted
+olefins 12 . The method showed a broad substrate scope
+and was compatible with various aromatic aldehydes and alkenes under
+sustainable conditions. Moreover, its utility was demonstrated by
+the successful late-stage functionalization of therapeutic agents
+and drug-like molecules, which produce numerous physiological effects,
+including antipyretic, anti-inflammatory, analgesic, etc. Further
+investigations into the NHC-mediated radical coupling process are
+expected to expand its synthetic applicability across diverse areas
+of chemistry ( Scheme ).
+
+Chi and co-workers recently developed a convenient
+and straightforward
+method for the synthesis of aryl alkyl ketones 22 through
+radical-radical cross-coupling of carboxylic acids 20 and acids/acyl imidazoles 21 by merging NHC and metal
+photocatalysis. The acyl imidazoles can be readily generated in situ
+via the reaction of a carboxylic acid with CDI (carbonyldiimidazole),
+providing an effective method for the streamlined photochemical synthesis
+of a series of ketone moieties 22 from two distinct carboxylic
+acids (aryl or alkyl groups). The mild reaction conditions, operational
+simplicity, and readily available carboxylic acids as both acyl sources
+and radical precursors make this synthetic approach more versatile
+and convenient. Moreover, this methodology could be suitable for modifying
+various natural products, pharmacological agents, and their fragments,
+including nalidixic acid, fluorbiprofen, indoprofen, ketoprofen, naproxen,
+etc. Remarkably, this method was further extended for the NHC-catalyzed
+cross-coupling three-component reaction by the addition of an alkene
+moiety as a third coupling partner under mild conditions, enabling
+the rapid assembly of structurally complex carbonyl products from
+simple, commercially available acids and alkenes ( Scheme ).
+
+Studer and his groups reported a visible light-mediated
+fluoro-aroylation
+of benzofuran, indole scaffolds 23 via cooperative NHC and iridium photoredox catalysis, achieved using
+catalytic amounts of NHC (20 mol %) and iridium catalysts (2 mol %)
+with the addition of K 2 HPO 4 (2 equiv) and 5
+W blue LED irradiation. Acyl fluorides 1 acted as bifunctional
+reagents, enabling the incorporation of the aroyl group and a fluoride
+moiety into benzofuran derivatives 24 . Based on these
+experimental results and previous literature reports, Studer et al.
+proposed a plausible mechanistic pathway for the formation of the
+O-heterocyclic product 24 via radical cross-coupling
+between an NHC-bound radical intermediate B and a benzofuran
+radical species C . Upon blue LED irradiation, benzofuran 23 ( E 1/2 = 1.28 V vs SCE) is oxidized
+to its radical cation C by photoexcited Ir­(III)*. On
+the other hand, the reaction of acyl fluorides 1 with
+the NHC furnishes the acyl azolium ion A ( E 1/2 = -1.29 V vs SCE), which is reduced by Ir­(II)
+( E 1/2 (P/P •- )
+= -1.37 V vs SCE) to regenerate Ir­(III) with the formation
+of the persistent NHC-connected ketyl radical B . This
+photocatalytic strategy displayed a broad substrate scope and a good
+functional group tolerance. Moreover, N -acyl indoles
+were found to be suitable substrates for the dearomative 2,3-difunctionalization
+of the indole moiety. The synthetic scope of this method was further
+demonstrated by showing that anhydrides can also serve as alternative
+bifunctional reagents in the difunctionalization of benzofuran scaffolds.
+In addition, mechanistic investigations indicated that these transformations
+proceed via a rare radical-radical cation
+cross-coupling reaction, which serves as a key step in this method
+( Scheme ).
+
+Wang et al. described the most efficient 1,4-sulfonylacylation
+of 1,3-enynes 25 and acyl fluoride 1 by
+merging N -heterocyclic carbene (NHC) with photocatalysis
+under blue LED irradiation. This photocatalytic transformation offers
+a facile and direct approach to tetrasubstituted allenyl ketone derivatives 26 under sustainable conditions, exhibiting excellent chemo-
+and regioselectivity. This method is compatible with a wide range
+of functional groups and is suitable for late-stage functionalization
+of drug molecules including cholesterol derivatives, mefenamic acid,
+telmisartan, etc. Mechanistic investigations revealed that the key
+step involves radical-radical cross-coupling between allenyl
+and ketyl radicals, providing a novel pathway in NHC-catalyzed reactions.
+The stable ketyl radical was generated from acyl fluorides via oxidative
+quenching of the excited photocatalyst. This method holds potential
+for the late-stage modification of various pharmaceuticals and bioactive
+compounds ( Scheme ).
+
+The acylative Suzuki-type
+cross-coupling of aroyl fluorides and
+alkyl trifluoroborates system was reported by Li and co-workers by
+merging NHC catalysis and photoredox catalysis. Using this novel dual
+catalytic strategy, a broad spectrum of aryl methyl ketones was efficiently
+prepared from readily available starting materials under mild conditions.
+The radical reaction was performed between aroyl fluorides 1 and alkyl trifluoroborates 27 in the presence of catalytic
+amounts of a carbene catalyst (15 mol %) and an Ir-based photocatalyst
+(2 mol %) under blue LED irradiation to afford corresponding ketone
+products 28 in high yields, including a variety of electron-rich
+and electron-poor functional groups, such as F, Cl, Br, Me, and OMe.
+To further demonstrate the generality of the method, catalytic acylation
+of silyl group attached carbazoles 29 with acyl fluoride 1 was also successfully carried out. In addition, possible
+mechanistic investigations were conducted to elucidate the unique
+sequential energy transfer and single-electron transfer activation
+pathway, including cyclic voltammetry analyses, photophysical experiments,
+and computational simulations ( Scheme ).
+
+Wang et al. discovered that dual NHC/photoredox
+synergistically
+catalyzed the aminoalkylacylation of alkenes 12 with
+α-silyl amines 31 and benzyl fluorides 1 in the presence of NHC (20 mol %) and Ir catalyst (1 mol %) and
+furnished the γ-aminoketones in moderate yields. This approach
+displayed excellent functional group tolerance and easily accessible
+starting materials and provided straightforward access to a diverse
+range of γ-aminoketones 32 under mild reaction
+conditions. The utility of this method was further demonstrated through
+the late-stage functionalization of biologically active compounds
+and pharmaceutical drugs ( Scheme ).
+
+A visible light-promoted radical
+cross-coupling method was developed
+for the preparation of the corresponding α-amino aryl ketones 34 from carboxylic acids or amides 33 via dual catalysis reported by Wang and co-workers. The
+combination of NHC and Ir-photoredox catalysis permits the single-electron
+reduction of acyl azolium intermediates, followed by radical-radical
+coupling to efficiently construct a C-C bond, yielding the
+desired bioactive α-amino ketones 34 in good yields.
+This catalytic method employs simple operation or readily available
+aromatic acid 10 and functionalized amine derivatives 33 and exhibits broad substrate scope and good functional
+group tolerance under eco-friendly conditions. The corresponding α-amino
+ketones were further transformed into a terminal olefin through a
+Wittig reaction, an α-amino alcohol through NaBH 4 reduction, and α-amino oximes using hydroxylamine under standard
+conditions ( Scheme ).
+
+Scheidt and co-workers outlined
+this approach via hypothesis-driven
+experimentation guided by computational investigation. In addressing
+a standard limitation of single-electron carbene processes, the authors
+provided mechanistic insights that could advance this catalytic platform,
+expand the substrate scope, and accelerate the utility of NHCs in
+molecular design and synthesis. The modularity of these single-electron
+operators involved in a dual catalysis by combined NHC-catalysis and
+metal-based photoredox catalytic method for preparing aliphatic ketones 37 from carboxylic acids 35 or amide 10 in the presence of silicon reagents 36 . By modulating
+the steric and electronic parameters of the NHC, they achieved increased
+yields of up to 65% compared to their previously reported results.
+Moreover, they significantly expanded the reaction scope by directly
+functionalizing readily available amino acids to obtain the corresponding
+α-amino ketone scaffolds 37 through a one-pot procedure.
+The utility of this method was further demonstrated through the late-stage
+functionalization of biologically active agents and pharmaceutical
+drugs ( Scheme ).
+
+In 2020, the groups of Scheidt, Chen, and co-workers
+demonstrated
+a photocatalytic method for effectively preparing ketones 37a from amide 10 and amino ester 38 via dual
+photocatalysis merging NHC and iridium catalysts, leading to the formation
+of highly functionalized carbonyl compounds with a wide range of synthetic
+utility and pharmaceutical applications. This method summarizes the
+potential of incorporating radical processes into NHC catalysis. Bioactive
+carbonyl molecules and drug-like compounds were synthesized from derivatives
+of dehydrocholic acid, micardis, and prandin using an NHC catalyst
+(15 mol %) and a photocatalyst (1 mol %) under visible-light irradiation.
+NHC-derived acyl azolium and alkyl radical intermediates were expected
+to find significant synthetic applications in NHC-catalyzed asymmetric
+reactions and related biological studies. This method operates under
+mild conditions and tolerates sensitive functional groups well. Remarkably,
+the NHC involved photocatalytic strategy applies to the late-stage
+derivatization of various bioactive organic intermediates, producing
+a valuable tool for conveniently synthesizing biobased products ( Scheme ).
+
+A three-component
+coupling strategy was developed by Studer et
+al. for the convenient synthesis of β-trifluoromethylated aryl
+ketones via NHC-catalyzed coupling reactions involving radical intermediates.
+The respective radical reaction involved cross-coupling of aroyl fluorides 1 , olefins 12 , and the Langlois reagent (CF 3 SO 2 Na) 39 under the described method,
+which furnished the corresponding various β-trifluoromethylated
+ketones 40 in good yields up to 88% with excellent functional
+group tolerance achieved through cooperative photoredox/NHC catalysis.
+The coupling reaction was conducted using a catalytic amount of NHC
+(20 mol %) and an Ir-based photocatalyst (2 mol %) in DCM under photochemical
+conditions. Studer and co-workers proposed a visible-light-mediated
+dual photocatalytic approach for alkene acyltrifluoromethylation,
+which proceeds via a domino-type carbon radical coupling between the
+NHC-bound ketyl radical B and the benzylic radical D . Upon blue LED irradiation, the excited state of [Ir­(ppy) 2 (dtbbpy)]­PF 6 undergoes a well-known reductive quenching
+by the trifluoromethanesulfinate anion 39 , producing
+the corresponding Ir­(II) complex [ E 1/2 (Ir 3+ /Ir 2+ ) = -1.51 V vs SCE] and the
+trifluoromethylsulfonyl radical C , which subsequently
+fragments to release SO 2 and generate the trifluoromethyl
+radical D . The resulting Ir­(II) complex then reduces
+the acylazolium intermediate A ( E 1/2 = -1.29 V vs SCE) via a single-electron transfer
+(SET) process. The acylazolium intermediate, generated in
+situ from aroyl fluorides 1 and the NHC, affords
+the persistent ketyl radical B along with regeneration
+of the Ir­(III) complex, thereby closing the photoredox cycle ( Scheme ).
+
+In 2025, Dong and Wang et al. developed an NHC-catalyzed
+cross-coupling
+reaction involving arylated alkenes 12 , amides 10 , and 1,3-benzodioxole 41 as coupling reagents,
+and also serving as the solvent. Visible-light-mediated dual catalysis
+enabled the practical and novel synthesis of highly substituted ketone
+scaffolds 42 in the presence of NHC (10 mol %) and an
+Ir-photocatalyst (2 mol %) under sustainable conditions. This practical
+method was successfully applied to the late-stage functionalization
+of bioactive molecules and drugs. The approach features mild reaction
+conditions, excellent selectivity, operational simplicity, broad functional
+group compatibility, and scalability ( Scheme ).
+
+In 2025, Chi et al. developed a novel NHC-mediated
+photocatalytic
+method for benzyl alcohol para -selective C-H
+acylation. The C-C cross-coupling reaction proceeds through
+cooperative NHC and Ir-photoredox catalysis. Benzyl and arylethyl
+alcohols 43 were selectively acylated at the para -position of the phenyl ring, affording the corresponding
+variety of diaryl ketones 45 bearing a carbamate moiety.
+Combined experimental and computational mechanistic studies support
+the proposed reaction pathway and reveal exclusive para -selective C­(sp 2 )-H acylation. The NHC-catalyzed
+direct aryl C-H functionalization strategy is expected to find
+broad applications in synthetic and medicinal organic chemistry ( Scheme ).
+
+Chi et al. developed a cooperative NHC and Ir-photocatalyzed
+approach
+for the convenient synthesis of 3-acylated N -methylindoles,
+from indole 46 , amide 10 and provided an
+efficient method for structurally diverse 3-acylindoles via NHC catalysis.
+The presented dual catalytic approach enables the synthesis of various
+substituted 3-benzoylindoles 47 and several analogs of
+aldose reductase inhibitors, demonstrating the potential utility of
+this acylation strategy. Some of the obtained 3-acylindole derivatives
+exhibited notable antibacterial activities. A series of 3-acylindoles
+was achieved via aryl radical cations reacting with NHC-bound ketyl
+radicals. This work will find various applications and further challenge
+synthetic chemists ( Scheme ).
+
+Han et al. developed NHC-catalyzed regioselective
+bis-acylation
+of alkenes by merging NHC organocatalysis and Ir-photoredox catalysis.
+The reaction of alkenes 12 , ketoacids 48 , and amides 10 in the presence of catalytic amounts
+of an NHC catalyst and an iridium photocatalyst in 1,2-DEC at 60 °C
+for 12 h afforded a broad range of 1,4-diketones 49 in
+good yields using readily available starting materials, a wide range
+of functional group tolerance, and under mild conditions. Interestingly,
+the 1,4-dicarbonyl products could be readily converted into various
+heterocyclic compounds such as substituted furans, pyrroles, and pyridazines.
+Moreover, mechanistic experiments supported understanding this NHC
+and photoredox dual catalytic radical cascade coupling process ( Scheme ).
+
+Zhao et al. discovered a dual-catalyzed radical
+alkene aminoacylation
+reaction of compound 50 and amide 10 via
+cooperative NHC and photoredox catalysis under blue LED irradiation
+conditions. Hydrazones single-electron transfer (SET) oxidation produces
+an N-centered hydrazonyl radical intermediate, which undergoes regioselective
+6-endo-trig cyclization as a key step. This method efficiently produced
+diverse 1,4,5,6-tetrahydropyridazines 51 in moderate
+to good yields, exhibiting excellent functional group tolerance under
+mild reaction conditions ( Scheme ).
+
+Feng et al. described a novel strategy for the
+trifunctionalization
+of unactivated alkenes via a combined NHC/Ir-dual photocatalytic radical
+relay alkylacylation in the presence of acid 20 , alkene 52 and sodium trifluoromethanesulfinate 8 under
+mild conditions. The NHC-catalyzed cross-coupling reaction was carried
+out using catalytic amounts of NHC (15 mol %) and an Ir-based photocatalyst
+(5 mol %) in 1,2-DCE at rt for 24 h under photochemical conditions.
+This approach provides an efficient strategy for molecular framework
+construction, involving multistep C-C bond formation and cleavage
+through remote 1,4-cyano migration and alkylacylation. Additionally,
+theoretical calculations and mechanistic studies supported the proposed
+mechanism and explained the regioselectivity of the 1,4-CN migration
+( Scheme ).
+
+Sun and Zheng et al. reported an efficient dual
+catalytic radical
+1,4-mono/difluoromethylative acylation of 1,3-enynes by combining
+NHC organocatalysis and Ir-photocatalysis. This transformation proceeds
+under mild conditions using bench-stable and commercially available
+Hu’s reagents, CFH 2 SO 2 Na or CF 2 HSO 2 Na, as fluoromethyl radical sources. The reaction
+of Hu’s reagents 55 and 1,3-enynes 54 with readily available benzoyl fluorides 1 as acylation
+partners, providing direct access to value-added -CFH 2 - and -HCF 2 -containing allene ketone scaffolds 56 . The key step of the transformation involves a cross-coupling between
+allenyl and ketyl radicals enabled by dual photocatalysis ( Scheme ).
+
+Ren et al. developed
+a step- and atom-economical synthetic protocol
+for the facile synthesis of valuable α-indole methyl ketones 58 from 3-methylindole 57 . The NHC-catalyzed
+coupling reaction proceeds via the direct acylation of indole methyl
+C­(sp 3 )-H bonds under dual NHC and photoredox catalysis
+under mild conditions. This approach enables the efficient synthesis
+of both α-2-indolyl methyl ketones and α-3-indolyl methyl
+ketones by simply switching between 2- and 3-alkyl indole substrates.
+The successful synthesis of α-indole methyl ketones highlights
+their potential applications in the synthesis of biologically active
+indole-based natural products and heterocyclic compounds ( Scheme ).
+
+Recently, Wang et
+al. reported a visible-light-mediated alkylacylation
+of vinylarenes 12 with tertiary arylamines 59 and acyl fluorides 1 for the efficient synthesis of
+γ-aminoketones 60 under sustainable conditions
+in good yields. The presented dual catalytic method employs an NHC
+catalyst (20 mol %) and a photoredox catalyst (2 mol %) under mild
+conditions. This reaction demonstrates good functional group tolerance
+and utilizes readily available starting materials. Furthermore, a
+wide range of γ-aminoketones bearing a quaternary center were
+obtained via radical coupling using dual catalysis ( Scheme ).
+
+In 2025, Jin et al.
+developed a green and mild dual catalytic system
+by merging photoredox/NHC catalysis to enable the efficient synthesis
+of structurally diverse α-N-aryl amino ketone scaffolds 62 in good yields via radical-radical coupling between N -methyl radicals and persistent radical species derived
+from NHC intermediates. This method exhibits excellent compatibility
+with both secondary and tertiary arylamine substrates. Moreover, NHC-mediated
+radical transformations offer a green and sustainable approach to
+access α-N-aryl amino ketone derivatives ( Scheme ).
+
+In 2023, an innovative
+photocatalytic method was developed for the elegant synthesis of 3-benzoylbicyclo[1.1.1]­pentane-1-acetates 65 through a three-component coupling reaction of aldehydes 4 , [1.1.1]­propellane 63 , and diazoalkanes 64 , enabled by cooperative NHC and iridium cocatalysis described
+by Jiang and his team. The visible-light-promoted radical C-C
+cross-coupling reaction for the synthesis of functionalized bicyclo[1.1.1]­pentanes
+(BCPs) 65 in good yields was carried out using an NHC
+catalyst (15 mol %), an iridium photocatalyst (2.5 mol %), and DMAP
+(50 mol %) under 456 nm blue LED irradiation for 12 h. This study
+highlights the method's operational simplicity, high atom economy,
+and broad substrate scope, providing a powerful photochemical method
+for constructing 1,3-disubstituted BCP ketones from readily available
+starting materials using nontoxic reagents/catalysts. These compounds
+will find broad synthetic applicability of BCP-type bioisosteres in
+medicinal chemistry ( Scheme ).
+
+Wang and co-workers demonstrated carbene and
+iridium photoredox
+cocatalyzed alkylacylation of alkenes 12 in the presence
+of DMAP (50 mol %), using aryl aldehyde 4 and alkyl diazo
+ester 64 . This strategy offers a novel approach for transient
+radical generation, producing nitrogen gas (N 2 ) as the
+only byproduct, a green and environmentally benign process. The developed
+radical cross-coupling reaction afforded acyl ester scaffolds 66 in excellent yields under extremely mild conditions, employing
+NHC (15 mol %) and photoredox catalyst (1 mol %), with a broad substrate
+scope and good functional group tolerance. Notably, this radical reaction
+involved a multicomponent reaction that utilized traditional carbene
+precursors, diazo esters, as radical sources, preparing the first
+report of such a radical process in NHC organocatalysis. Compared
+with previously reported mechanistic pathways that generate radicals
+and large waste fragments, this dual catalytic protocol exhibits excellent
+atom economy. It represents a more sustainable synthetic application
+in pharmaceutical chemistry ( Scheme ).
+
+Jiang et al. outlined
+an NHC/photosensitization relay catalytic
+methodology that enables photoinduced energy transfer of an NHC-bound
+intermediate D to furnish the desired ( Z )-allylic fluorides 68 with excellent stereochemical
+control and high yields using NHC (10 mol %), Ir-PC (1 mol %), in
+the presence of Selectfluor (fluoride source). The synthesis of α-fluoro
+alkenyl ester moiety 68 from conjugated aldehyde 67 was systematically investigated, highlighting the influence
+of NHC catalysts and Ir-based photosensitizers. Resulting in a highly
+enantioselective α-fluorination step, the key ( E )-acyl azolium species E underwent in situ photoisomerization
+before NHC turnover. It is proposed that π-π interactions
+between the NHC and alkene moiety may enhance asymmetric induction,
+and the choice of iridium photocatalyst plays a critical role in regulating
+the rate and stage of isomerization. This unprecedented synergy between
+photosensitization and NHC-based organocatalysis offers unique advantages
+for accessing thermodynamically disfavored alkene isomers, particularly
+in systems bearing various sensitive functional groups ( Scheme ).
+
+Studer and co-workers
+reported a convenient and novel catalytic
+method for the 1,3-difunctionalization of arylated cyclopropanes using
+NHC/Ir-based cooperative photoredox catalysis. This method enables
+sequential C-O and C-C bond formation, affording a variety
+of γ-aroyloxy ketone analogs 71 in good yields
+with broad functional group tolerance and substrate scope. The dual
+catalytic approach employed between cyclopropanes 69 with
+anhydrides 70 using triazolium-based carbene catalyst
+(10 mol %) and an Ir-photocatalyst (2.5 mol %) in the presence of
+Cs 2 CO 3 and 1,2-dichloroethane as the best choice
+of solvent. Mechanistic investigations disclosed that the cascade
+proceeds through nucleophilic ring-opening of an aryl cyclopropyl
+radical cation C , followed by radical-radical
+cross-coupling B and D as key intermediates
+for producing keto esters 71 . Notably, the authors found
+that 1,2,3,5-tetrakis­(carbazol-9-yl)-4,6-dicyanobenzene (4CzIPN) organocatalyst
+was found to be the best choice for employing the catalytic reaction
+of acyl fluorides 1 and substituted cyclopropane 69 . This approach holds high potential for applications in
+medicinal activity and active pharmaceutical ingredients ( Scheme ).
+
+Huo et al. reported
+a mild and straightforward system for the NHC/photoredox
+dual-catalytic method for the α-carboxylation of N -aryl tetrahydroisoquinolines 72 and tertiary amine
+C­(sp 3 )-H bonds using diethyl pyrocarbonate (DEPC) 73 . This approach provides a novel route for the synthesis
+of α-amino acid derivatives 74 . The method exhibits
+a broad substrate scope and simple starting materials, accommodating
+both N-aryl tetrahydroisoquinolines (THIQs) and N -methylanilines. It also works well in large-scale reactions. Additionally,
+this method is applied to the late-stage modification of various drugs
+and pharmaceutical compounds ( Scheme ).
+
+Yang et al. presented an NHC/photoredox-catalyzed
+radical cross-coupling reaction for constructing α-keto amide
+derivatives, offering a complementary approach to classical two-electron
+processes. The decarboxylative acylation of oxamic acids 75 with acyl fluorides 1 enables the synthesis of a wide
+range of useful α-keto amides 76 using NHC (20
+mol %), Ir-PC (2 mol %) and Cs 2 CO 3 (2 equiv)
+in DCM for 24 h under eco-friendly conditions, displaying good functional
+groups tolerance including Me, OMe, Br, I, CF 3 , CO 2 Me. Mechanistic investigations revealed that the C­(sp 2 )-C­(sp 2 ) bond formation occurs via a radical-radical
+cross-coupling between a carbamoyl radical and an NHC-derived ketyl
+radical. This method represents the first example of a carbene-catalyzed
+two-component radical cross-coupling involving C­(sp 2 )-centered
+radical intermediates. Compared to previously reported methods based
+on electron-pair mechanisms, this strategy offers a distinct advantage
+in accessing sterically hindered α-keto amide scaffolds 76 in moderate to good yields ( Scheme ).
+
+Shu and co-workers presented
+a visible-light-promoted NHC/Ru-catalyzed three-component coupling
+reaction of alkenes, disulfides, and alkenes, which afforded the corresponding
+β-thiolated-α-arylated ketones 78 at room
+temperature. The radical-radical cross-coupling proceeded using
+a thiazolium-based NHC (10 mol %) and a Ru catalyst (2 mol %) in the
+presence of KOAc, with DMSO as polar solvent under 30 W blue LED irradiation.
+This NHC-catalyzed method allows the sequential addition of sulfides 77 to alkenes 12 and aldehydes 4 through rapid C-S and C-C bond formation. This catalytic
+approach demonstrates excellent functional group tolerance, enables
+the functionalization of drug-like molecules under mild conditions,
+and affords direct access to β-thiolated-α-arylated ketones 78 from readily available starting materials. This photocatalysis
+also applies to the late-stage functional groups derivatization of
+therapeutic agents and bioactive organic compounds ( Scheme ).
+
+In 2021, Shu and co-workers
+reported, for the first time, a visible-light-mediated
+NHC-catalyzed vinylation of aromatic aldehydes at ambient temperature.
+This method relies on a site-selective and regioselective 2-fold sequential
+C-H cross-functionalization. The reaction carried out between
+an alkene 79 and an aromatic aldehyde 4 ,
+in the presence of NHC (10 mol %), photocatalyst (2 mol %), Cs 2 CO 3 as base, and TTBDPB (1.9 equiv) under the presented
+conditions, efficiently afforded vinyl ketones 80 in
+high yield. The described photochemical reaction displays a broad
+range of functional group tolerance, accepting various electron-withdrawing
+and -donating aldehydes and functionalized alkenes. Mechanistic studies
+indicated that the transformation proceeds through radical-radical
+cross-coupling reactions. This NHC catalysis relay method represents
+a promising platform for developing visible-light-promoted NHC and
+Ru-catalyzed carbon-carbon and carbon-heteroatom bond-forming
+reactions under sustainable conditions ( Scheme ).
+
+Wang and co-workers developed a convenient method
+for the preparation
+of α-aryl-β-monofluoromethyl ketones 82 via a three-component difunctionalization of alkenes through
+dual catalysis by combining NHC/photoredox catalysts. A wide range
+of alkenes 12 and aroyl fluorides 1 were
+successfully studied, demonstrating good functional group tolerance
+and the use of readily available starting materials. The activation
+of a bench-stable and readily accessible fluorinating reagent (NaSO 2 CH 2 F) was achieved using a Ru-photocatalyst to
+generate the CH 2 F radical via single-electron oxidation,
+without the need for external oxidants. The late-stage functionalization
+of diverse bioactive drug molecules and natural products further demonstrated
+the synthetic utility of this strategy ( Scheme ).
+
+NHC-catalyzed C-C bond
+cleavage of γ-cyclopropane enals 83 followed by
+γ-alkylation via a radical process under photoredox
+dual catalysis was reported by Ye and co-workers. A variety of halogenated
+alkylating reagents 84 were successfully employed. The
+dual photocatalysis involved an NHC catalyst (10 mol %) and a Ru-based
+photocatalyst (2.5 mol %), performed in the presence of various alcohols
+in DCE at rt for 12 h. α-Bromomalonates bearing various substituents
+such as cyano, ester, allyl, and nitro groups were tolerated well,
+giving the corresponding γ-alkylated α,β-unsaturated
+esters 85 in up to 95%. The reaction proceeds by adding
+an alkyl radical to NHC-bound conjugated alkene intermediates, subsequent
+single-electron transfer oxidation of homoenolate radical, and finally
+reaction with alcohols to afford the corresponding ester products.
+The reaction features exclusive γ-regioselectivity, a broad
+range of functional group tolerance, reaction simplicity, and mild
+reaction conditions ( Scheme ).
+
+Xu et al. presented the remote
+benzylation of γ-alkenyl-γ-oxidized
+enals via cooperative photoredox and NHC catalysis, affording an array
+of ε-benzylation products 88 in up to a 69% yield.
+The reaction was carried out using an NHC catalyst (20 mol %) and
+a Ru-based photocatalyst (5 mol %) under visible-light irradiation
+in the presence of conjugated aldehyde 86 , alkyl bromide 87 , and various alcohols, under mild conditions. In this C-C
+cross-coupling reaction, the benzylic radical was generated through
+photoinduced single-electron reduction of benzyl bromide 87 . At the same time, trienolate intermediate B , derived
+from the corresponding γ-alkenyl-γ-oxidized enal under
+NHC catalysis, played a key role. The benzylic radical D selectively added to the ε-position of the trienolate intermediate B to form species C followed by the elimination
+of the NHC catalyst to produce the conjugated ester 88 via SET. This catalytic system exhibited various functional group
+tolerance, accepting electron-donating, electron-withdrawing, and
+steric substituents on the aryl ring and also verified various alcoholic
+substrates ( Scheme ).
+
+In 2020, Dai et al. described an unprecedented
+γ-difluoroalkylation
+of γ-preoxidized enals via cooperative photoredox and NHC catalysis.
+The photocatalytic reaction of α,β-unsaturated aldehyde 89 with difluorinated alkyl halides 90 , in the
+presence of an NHC catalyst (10 mol %) and a Ru-photocatalyst (2 mol
+%) using CsOAc as a base, using a variety of alcohols, afforded the
+desired ester products 91 in good yields. Bromo- and
+iodosubstituted difluoroacetates and difluoroamides worked well in
+this transformation. The key step of this C-C cross-coupling
+reaction involves the conjugated addition of a difluoroalkyl radical B , generated under photoredox conditions, to the dienolate
+intermediate A formed via NHC catalysis. Subsequently,
+radical-radical cross-coupling and subsequent addition to various
+alcohols offer γ-difluoroalkylated α,β-unsaturated
+esters 91 . This strategy allows efficient construction
+of C­(sp 3 )-CF 2 R bonds at the γ-position
+of carbonyl compounds, offering a novel approach for the cost-effective
+preparation of γ-difluoroalkylated α,β-unsaturated
+esters 91 and amides bearing all-carbon quaternary centers
+( Scheme ).
+
+CONCLUSION
+This
+review focused mainly on visible-light-mediated dual photocatalysis
+merging NHC organocatalysts and Ir/Ru photoredox catalysts as a groundbreaking
+recent radical method allowing the highly efficient and regioselective
+construction of a broad range of highly functionalized carbonyl compounds,
+including ketones, esters, and amides. These catalytic strategies
+also facilitate the late-stage functionalization of drug-like molecules,
+natural products, and bioactive compounds under mild conditions, products
+exhibiting excellent functional group tolerance, available starting
+materials, high yields of products, an atom-economical process, and
+operational simplicity. Highly substituted ketones, esters, and amide
+scaffolds derived via these photochemical transformations from easily
+accessible starting materials have shown significant potential in
+pharmaceutical, agrochemical, and materials science applications.
+This review highlights recent developments in NHC-catalyzed radical
+cross-coupling processes over the past six years (2020-2025),
+discussing dual catalytic method design and their novel synthetic
+applications, electronic and steric influences of the catalysts, mechanistic
+insights, and current limitations related to functional group compatibility.
+Additionally, the described methods are compatible with sensitive
+functional groups on drugs, natural products, and bioactive compounds.
+The presented NHC and Ir/or Ru-mediated catalytic methods and reaction
+scopes are expected to facilitate the future design and development
+of novel triple, quadruple, or multicatalytic systems as well as support
+the green modification and construction of medicinally and pharmaceutically
+active molecules.
+
+ACKNOWLEDGMENTS
+Vasudevan Dhayalan
+expresses his appreciation to DST-SERB
+for an ANRF-Core Research Grant (CRG/2022/001855), and to the National
+Institute of Technology Puducherry, Karaikal, India for their research
+support.
+
+SECTION
+The entire
+manuscript was written by VD.
+
+SECTION
+The
+author declares no
+competing financial interest.

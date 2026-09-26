@@ -1,0 +1,514 @@
+IOANNIS D. SPANOPOULOS
+Our research combines molecular and crystal
+engineering to design
+multifunctional materials with previously unattainable combinations
+of finely tunable properties and record environmental stability.
+
+Ioannis D. Spanopoulos holds a BSc. degree in Chemistry
+and a MSc.
+degree in Environmental Chemistry and Technology from the National
+and Kapodistrian University of Athens. In 2015 he acquired his PhD.
+degree in Materials Chemistry from the University of Crete, under
+the supervision of Prof. Pantelis N. Trikalitis, working on Metal
+Organic Frameworks for gas storage and separation applications. In
+2016, he joined the research group of Prof. Mercouri G. Kanatzidis
+at Northwestern University as a Post-Doctoral Fellow, focusing on
+the design and synthesis of environmentally friendly and stable perovskite
+materials for optoelectronic applications. In 2021, he started his
+independent career at the University of South Florida as an Assistant
+Professor in the Department of Chemistry. He received the 2020 IIN
+Outstanding Researcher Award from the International Institute for
+Nanotechnology, the 2022 ACS PRF Doctoral New Investigator Research
+Award, the 2024 DOE Early Career Research Program (ECRP) Award, the
+2024 Interdisciplinary Research Award (IDRA), the 2024 High Impact
+Practices (HIPs) Excellence Award, the 2025 Global Excellence in Research
+Award, as well as the 2025 Outstanding Research Achievement Award
+from USF. He is a Fellow of the International Association of Advanced
+Materials (IAAM) and a Highly Cited Researcher for the Year 2022.
+For his achievements in materials chemistry, he has been recognized
+as an Emerging Investigator by the Journal of Materials Chemistry
+A . Research at the Spanopoulos Group focuses on utilizing
+molecular and crystal engineering to design and synthesize next-generation,
+multifunctional materials for medical, energy, and environment-related
+applications. The group recently reported two new families of materials,
+the Porous Metal Halide Semiconductors ( PMHSs ) and the crystalline Fullerene-based Metal Halide
+Semiconductors ( FMHSs ). More information about Dr. Ioannis D. Spanopoulos
+and his research can be found here: https://www.spanopoulos-lab.com/ .
+
+In this virtual special issue, Dr. Ioannis D. Spanopoulos
+and co-workers
+contribute a Perspective paper titled “ When Pore Met
+Semi: Charting the Rise of Porous Metal Halide Semiconductors ” (DOI: 10.1021/acsorginorgau. ). The Perspective highlights the emergence of porous metal halide
+semiconductors as a promising new class of functional materials. It
+presents a general strategy to introduce porosity into metal halide
+semiconductors using molecular cages as structure-directing countercations,
+leading to ultramicroporous frameworks. Structural features, porosity,
+optical properties, and exceptional long-term water stability are
+discussed, while preserving semiconducting behavior, and the Perspective
+outlines the opportunities and challenges associated with combining
+porosity and electronic functionality in this emerging materials platform.
+
+ALEXIS PRIETO
+Our research aims to develop transformations
+that enable simple
+and efficient access to compounds of interest that were previously
+hardly accessible.
+
+Alexis Prieto began his studies
+in chemistry at the Institut Universitaire
+Technologique (IUT) of Poitiers and later graduated from ENSICAEN
+(École nationale supérieure d’ingénieurs
+de Caen) in 2013. He then pursued his Ph.D. at the Université
+Claude Bernard Lyon 1, under the codirection of Drs. Nuno Monteiro
+and Didier Bouyssi, focusing on the development of radical CH-functionalization
+of hydrazones using transition metal catalysts. In 2016, he joined
+the group of Pr. Paolo Melchiorre as a postdoctoral associate, exploring
+photoredox and metallaphotoredox catalysis. A year later, he embarked
+on a second one-year postdoctoral position with Drs. Emmanuel Magnier
+and Jérome Hannedouche, delving into various topics related
+to fluorine chemistry and transition metal catalysis. In 2019, he
+was appointed by the CNRS as a Chargé de Recherche (Associate
+Professor) at the Institut Charles Gerhardt Montpellier (ICGM). His
+current research interests encompass radical chemistry, photochemistry,
+and transition metal catalysis. For more details about him and his
+research, visit his personal webpage ( https://www.icgm.fr/alexis-prieto/ )
+
+In this virtual special issue, Dr. Alexis Prieto presents
+an article
+titled “ Red Light and Supersilane: A Novel Pathway
+for Hydrofunctionalizations and Giese Reactions” (DOI: 10.1021/acsorginorgau.5c00032 ). In this study, the authors and co-workers report the photoredox
+activation of silanes under deep-red light irradiation to generate
+silyl radicals. Using osmium-based photocatalysts, or in some cases
+under photocatalyst-free conditions, these radicals enable a range
+of transformations, including hydrosilylation, hydrosulfonylation,
+and Giese reactions. By extending silyl radical chemistry into the
+red-light region, this work offers new opportunities for mild, selective,
+and scalable synthetic methods and provides access to a diverse array
+of high value molecules.
+
+VINCENT BIZET
+Our group is passionate about the development
+of new synthetic
+methodologies in organofluorine chemistry and conducting comprehensive
+studies of reaction mechanisms.
+
+Vincent Bizet is
+a CNRS researcher (PI) at the LIMA laboratory
+(UMR 7042 CNRS) in Mulhouse. His research interests encompass SF 5 chemistry, homogeneous catalysis, heterocyclic chemistry,
+asymmetric synthesis, as well as organofluorine and sulfur chemistry.
+He obtained his B.S. in chemistry in 2007 and completed graduated
+studies in 2009 at the University of Caen Normandie. He then pursued
+a Ph.D. in Organic Chemistry (2009-2012) at INSA Rouen under
+the supervision of Dr. Dominique Cahard and Jean-Luc Renaud focusing
+on organofluorine chemistry and ruthenium catalysis. In 2012, he was
+awarded an Alexander von Humboldt postdoctoral fellowship and joined
+Prof. Carsten Bolm’s group at the RWTH Aachen University to
+work on sulfoximine chemistry. In 2014, he undertook a second postdoctoral
+position with Prof. Clément Mazet at the University of Geneva,
+where he developed palladium-catalyzed asymmetric transformations.
+Dr. Bizet was appointed at the CNRS in 2016 and joined the LIMA laboratory
+(UMR 7042 CNRS) located in Mulhouse, where he completed his habilitation
+in 2022. The same year, he became a member of the Early Career Advisory
+Board of the journals Tetrahedron and Tetrahedron
+Letters . His commitment to research was recognized by the
+2022 Guy Ourisson Prize from the Gutenberg Circle of the University
+of Strasbourg and by the 2023 Thieme Chemistry Journal Award. More
+information about Dr. Bizet’s work can be found here: https://bsm.unistra.fr/ .
+
+In this virtual special issue, Dr. Vincent Bizet’s Article
+titled “ Straightforward Access to Pentafluorosulfanylated
+Phenols and Aminophenols via [4 + 2] Diels-Alder Cycloaddition
+Reaction ” (DOI: 10.1021/acsorginorgau.5c00042 ) reports a collaborative study with Dr. Karinne Miqueu and co-workers.
+The authors introduce a convergent strategy that builds the aromatic
+ring while installing the SF 5 group, using SF 5 -alkynes as polarized dienophiles in highly regioselective [4 + 2]
+Diels-Alder reactions with electron-rich dienes. This approach
+provides rapid access to a broad family of SF 5 -substituted
+phenols and, in particular, 2-SF 5 -4-aminophenols, with
+excellent regioselectivity across diverse aryl and heteroaryl SF 5 -alkynes. Mechanistic studies combining DFT, activation strain,
+and energy decomposition analyses reveal that regioselectivity is
+driven by reduced strain and Pauli repulsion in highly asynchronous
+transition states, rather than classical HOMO-LUMO control.
+This work provides both a practical synthetic entry to SF 5 building blocks and clear insight into an unusual mode of Diels-Alder
+selectivity.
+
+ARTUR KASPRZAK
+My research introduces new concepts in
+the design, synthesis, properties,
+and applications of molecular receptors, including those incorporating
+buckybowl or metallocene motifs.
+
+Artur Kasprzak
+is currently an associate professor at the Department
+of Organic Chemistry, Faculty of Chemistry, Warsaw University of Technology
+(WUT). He received BSc (2015), MSc (2016), PhD (2020; advisor: Prof.
+Mariola Koszytkowska-Stawińska, coadvisor: Dr. Magdalena Popławska),
+and DSc (2023) diplomas in chemical sciences at the Faculty of Chemistry,
+WUT. He has been a visiting researcher in Prof. Hidehiro Sakurai’s
+group (The University of Osaka, Japan) in 2016 and 2019, initiating
+his work in sumanene chemistry and molecular receptors science. Currently,
+he is a leader of the Functional Organic Compounds Group at the Department
+of Organic Chemistry, Faculty of Chemistry, WUT. His primary research
+interests include organic, supramolecular, and (nano)­materials chemistry.
+In particular, he pioneered the application of sumanene derivatives
+as optical and electrochemical molecular receptors for cations. For
+more details about him and his research, visit his personal webpage: https://zcho.ch.pw.edu.pl/skl_kas.html .
+
+In this virtual special issue, Dr. Artur Kasprzak’s
+article
+titled “ Structure-Dependent Water Solubility and Receptor
+Properties of C3-Symmetric Dendrimers Bearing Sumanene or Triphenylene
+Cores ” (DOI: 10.1021/acsorginorgau.5c00048 ) presents a study with Dr. Hidehiro Sakurai and co-workers. The
+study introduces water-soluble dendrimers based on sumanene and triphenylene
+cores and shows that their solubility is closely linked to aggregation
+tendencies, quantified through molecular dynamics calculations of
+dimerization free energies. In addition, selected compounds act as
+highly selective fluorescent receptors for group 13 cations Al 3+ , Ga 3+ , and In 3+ in water, achieving
+nanomolar detection limits. Spectroscopic and computational analyses
+clarify the cation-binding mechanism, and tests in real water samples
+demonstrate practical sensing capabilities. Overall, this contribution
+establishes the first water-soluble sumanene derivatives and highlights
+their promise for aqueous metal-ion recognition.
+
+DEMYAN E. PROKOPCHUK
+We aim to understand C-H and N-H
+bond thermochemistry
+that governs the movement of protons and electrons within organometallic
+reagents and small molecules.
+
+Demyan E. Prokopchuk
+received his bachelor’s degree in chemistry
+with a minor in Computer Science from the University of Saskatchewan
+in 2009. In 2015, he completed his PhD at the University of Toronto
+under the supervision of Prof. Robert Morris studying the mechanisms
+of iron catalyzed transfer hydrogenation and ruthenium mediated water
+splitting. He also spent 5 months as a visiting researcher at ETH
+Zürich in the lab of Prof. Hansjörg Grützmacher.
+From 2015 to 2017, Demyan was a postdoctoral fellow at Pacific Northwest
+National Laboratory (PNNL) in the Center for Molecular Electrocatalysis,
+cosupervised by Dr. Morris Bullock and Dr. Michael Mock. At PNNL,
+he investigated N 2 and H 2 activation reactions
+mediated by molecular Fe complexes. After a brief postdoctoral fellowship
+in 2018 at the University of Calgary studying nickel mediated CO 2 electroreduction with Prof. Warren Piers, he began his independent
+career in 2019 at Rutgers-Newark and currently holds the title of
+Assistant Professor. His group currently receives external funding
+from the NSF (CAREER), DOE, and the ACS-PRF. Demyan’s research
+focuses on molecular organic and organometallic chemistry, with many
+projects functioning at the confluence of synthesis, ligand design,
+small molecule activation, mechanistic analysis, chemically noninnocent
+ligands, electrocatalysis, and C-H/N-H bond thermochemistry.
+When he is not thinking about research or moonlighting as the group’s de facto plumber, Demyan enjoys spending time with his family
+and traveling abroad. You can find the Prokopchuk group homepage at https://www.depchem.com/ .
+
+In this virtual special issue, Dr. Demyan E. Prokopchuk presents
+the article titled “ Expanding the PCET Thermochemistry
+of Cp N3 : N-H Bond
+Strengths of Metal-Free Cp N3 Molecules and the Influence of Fe­(CO) 3 Coordination ” (DOI: 10.1021/acsorginorgau.5c00060 ), in collaboration with Dr. Andreas Hansen and co-workers. The authors
+determine N-H acidities and bond dissociation free energies
+for metal-free Cp N3 systems through combined p K a and electrochemical measurements, supported by closely
+matching DFT calculations. Extending the analysis to Fe­(CO) 3 complexes reveals that coordination to iron has only a minor influence
+on the exocyclic N-H acidity. Complementary spectroscopic and
+electronic-structure investigations clarify the oxidation state of
+iron and highlight the strong donor character of the Cp N3 ligand. Together, these results deepen the thermochemical understanding
+of redox-active cyclopentadienyl frameworks and their PCET behavior
+with and without transition metals.
+
+MARIATERESA GIUSTINIANO
+By leveraging isonitrile chemistry with
+enabling technologies and
+in aqueous media, M.G.’s research aims to unveil unique opportunities
+to advance sustainability in drug discovery.
+
+Mariateresa
+Giustiniano is an Associate Professor in Medicinal
+Chemistry at the University of Naples Federico II. She graduated in
+2007 in Chemistry and Pharmaceutical Technologies, and in 2010 she
+obtained her PhD in Drug’s Sciences (University of Naples-Federico
+II). In 2009-2010 she has been a visiting student in the laboratories
+of Prof. G. C. Tron (University of Piemonte Orientale, Novara) and
+Prof. J. Zhu (CNRS, Gif-sur-Yvette, Paris). From 2011 to 2016 she
+held postdoctoral fellowships at University of Naples Federico II,
+and in 2016 she became Assistant Professor. In 2021 she was the recipient
+of the DCF-Prize (Italian Society of Chemistry), and in 2023 she was
+acknowledged as an Outstanding Reviewer for Chemical Science (RSC).
+In June 2023 she got the national scientific habilitation for Full
+Professor position. She is a member of the Editorial Advisory Board
+of the Journal of Medicinal Chemistry (ACS). The
+research interests of M.G. focus on the development of green organic
+synthetic methodologies to speed up drug’s research and discovery.
+
+She works with isonitrile chemistry and exploits the peculiar properties
+of this class of compounds both as nucleophiles and carbenes in multicomponent
+reactions (MCRs) and as radical acceptors in visible light photo­(redox)
+catalytic approaches. Recently, she has highlighted the unique opportunities
+provided by isonitriles for promoting photochemical reactions. Such
+chemistry is also investigated by M.G. in water-based reaction media
+(e.g., photomicellar conditions), thus contributing to boost the green
+innate features of isonitrile-based MCRs and photocatalysis. Furthermore,
+by applying isonitrile (photo)­chemistry, M.G. is also committed to
+improving the synthetic access to isotope-labeled compounds and to
+identifying new approaches for the late-stage functionalization of
+biorelevant compounds.
+
+In this virtual special issue, Prof.
+Mariateresa Giustiniano reports
+the article titled “ Arylazo Sulfones as 1,3-Dipole
+Acceptors in the (Photo)-Micellar van Leusen Triazole Synthesis ” (DOI: 10.1021/acsorginorgau.5c00080 ), in collaboration with Diego Brancaccio, Stefano Protti, and co-workers.
+The study introduces arylazo sulfones as bench-stable alternatives
+to diazonium salts for the van Leusen synthesis of 1,2,4-triazoles.
+Using a CTAC-based micellar medium in water, the authors develop a
+mild and sustainable [3 + 2] cycloaddition with α-acidic isonitriles,
+showing broad scope and good functional group tolerance. NMR investigations
+clarify the role of the micellar environment, while recyclability
+studies highlight both opportunities and limitations of the aqueous
+system.
+
+QILEI ZHU
+Through innovative electrosynthetic and
+photocatalytic methods,
+we aim to push the frontiers of sustainable synthesis and empower
+new discoveries across organic chemistry and beyond.
+
+Qilei Zhu is an Assistant Professor in the Department of Chemistry
+at the University of Utah. He was born and raised in Zhejiang, China,
+and received his B.S. in Chemistry from Peking University in the summer
+of 2014, where he conducted research on transition-metal-catalyzed
+C-H and C-C bond activation. He then pursued his Ph.D.
+in Organic Chemistry at Princeton University under the supervision
+of Prof. Robert Knowles from 2014 to 2019. His doctoral work focused
+on carbocation generation and photocatalytic strong bond activation
+via proton-coupled electron transfer (PCET). In 2019, Qilei joined
+the laboratory of Prof. Daniel Nocera at Harvard University as a postdoctoral
+researcher, where he explored the use of titania in organic synthesis
+and carried out mechanistic studies of radical transformations using
+spectroscopic and electroanalytical techniques. Since 2022, he has
+led an independent research group at the University of Utah. The Zhu
+Laboratory develops selective and sustainable chemical transformations
+to streamline the synthesis of functionalized molecules from accessible
+feedstocks. Current research directions include: (1) electrosynthetic
+and electrocatalytic strategies for the sustainable functionalization
+of abundant feedstocks such as alcohols and amines and (2) the discovery
+and optimization of electron donor-acceptor (EDA) photocatalysts
+for selective functionalization of strong aromatic and aliphatic C-H
+bonds. More information is available on the Zhu Group Web site: https://www.zhuchemlab.com/ .
+
+In this virtual special issue, Dr. Qilei Zhu presents the
+Letter
+titled “Electrochemical Halogenation and Etherification
+of Alcohols Enabled by a Halide-Coupled Phosphine Oxidation” (DOI: 10.1021/acsorginorgau.5c00091 ). With co-workers, this
+contribution describes an electrochemical Appel reaction in which
+anodic oxidation replaces stoichiometric chemical oxidants, using
+readily available tetraalkylammonium halides as halogen sources. The
+method enables efficient chlorination, bromination, and iodination
+of alcohols under mild conditions, with broad functional group tolerance
+and applicability to complex molecules. Mechanistic studies support
+a halide-coupled phosphine oxidation pathway, illustrating how electrochemistry
+can serve as a sustainable and versatile alternative to classical
+alcohol functionalization reactions.
+
+SELVAN DEMIR
+Through delicate synthetic control of
+oxidation and spin states,
+my group develops peerless lanthanide molecules with exciting applications
+in information storage and quantum computing.
+
+Selvan
+Demir received a Diploma in chemistry in 2007, and a Dr.
+rer. nat. in 2010, both from the University of Cologne. Her graduate
+studies involved research on scandium solid state chemistry with Prof.
+Gerd Meyer at the University of Cologne and scandium organometallic
+chemistry with Prof. William J. Evans at the University of California,
+Irvine. Subsequently, she joined postdoctoral research on single-molecule
+magnets and porous aromatic frameworks in the group of Prof. Jeffrey
+R. Long at the University of California, Berkeley. She was also a
+postdoctoral research affiliate at the Lawrence Berkeley National
+Laboratory where she conducted transuranic chemistry with Dr. David
+K. Shuh. Then she moved to the University of Göttingen for
+a Junior Professorship in Inorganic Chemistry. In 2019, she joined
+Michigan State University as an Assistant Professor of Chemistry,
+where she has developed a versatile research program with a focus
+on single-molecule magnets, quantum information science, small molecule
+activation, and catalysis, all with the rare earth and actinide elements.
+Her group discovered several new radicals, where their implementation
+in metal complexes enhanced in exciting ways both organic and inorganic
+chemistry. She received numerous awards such as most recently the
+NSF CAREER Award (2024), the American Chemical Society’s ACS
+Women Chemists Committee WCC Rising Star Award (2025), the Friedrich
+Wilhelm Bessel Research Award by the Alexander von Humboldt Foundation
+(2025), the Sloan Research Fellowship (2025), and the Camille Dreyfus
+Teacher-Scholar Award (2025). More information on Dr. Demir’s
+work can be found here: https://selvandemir.com/ .
+
+In this virtual special issue, Prof. Selvan Demir reports
+the article
+titled “Synthesis and Electronic Structure of a Tetraazanaphthalene
+Radical-Bridged Yttrium Complex” (DOI: 10.1021/acsorginorgau.5c00086 ). In this study, Prof. Selvan Demir and co-workers synthesize the
+first dinuclear yttrium complexes bridged by a tetraazanaphthalene
+ligand in both closed-shell and radical forms. Structural, spectroscopic,
+electrochemical, and computational analyses reveal that coordination
+to yttrium stabilizes the tetraazanaphthalene radical and strongly
+influences its spin and charge distribution. This work establishes
+tetraazanaphthalene as a new redox-active bridging ligand and provides
+key insights into ligand-centered radical chemistry relevant to magnetic
+and spintronic materials.
+
+KSHATRESH DUTTA DUBEY
+Through computational insight, my work
+seeks to unify organic and
+inorganic reactivity, revealing the fundamental principles that drive
+catalysis and molecular transformation.
+
+Kshatresh
+Dutta Dubey is an Assistant Professor in the Department
+of Chemistry, School of Natural Sciences, Shiv Nadar Institution of
+Eminence, Delhi NCR, India. His research integrates computational
+and theoretical chemistry to explore the mechanistic underpinnings
+of chemical and biochemical processes. His current work focuses on
+elucidating enzymatic reaction mechanisms, catalysis, and electronic
+structure-reactivity relationships using advanced quantum chemical
+and hybrid QM/MM methodologies. Dr. Dubey obtained his Bachelor’s
+and Master’s degrees in Physics from DDU Gorakhpur University,
+India, where he developed a strong foundation in theoretical modeling
+and molecular simulations. He pursued his Ph.D. in Physics at the
+same institution under the supervision of Prof. R. P. Ojha, where
+his doctoral research centered on computational studies of reaction
+mechanisms and molecular interactions in complex systems. Following
+his Ph.D., Dr. Dubey undertook extensive postdoctoral research across
+several leading international institutions, where he honed his expertise
+in quantum chemistry and computational enzymology. From January 2014
+to September 2017, he worked with Prof. Sason Shaik at the Hebrew
+University of Jerusalem, Israel, investigating the electronic structure
+and reactivity of transition-metal complexes and metalloenzymes. Subsequently,
+from October 2017 to September 2018, he joined Prof. Lynn Kamerlin
+at Uppsala University, Sweden, focusing on enzyme catalysis and computational
+modeling of biochemical reactions. He then conducted postdoctoral
+research with Prof. Carme Rovira at the University of Barcelona, Spain
+(2018-2019), where he explored carbohydrate-active enzymes
+and reaction mechanisms relevant to bioinorganic chemistry. Dr. Dubey’s
+interdisciplinary background in physics and chemistry, combined with
+his international research experience, underpins his ongoing efforts
+to understand chemical reactivity at the molecular level and to design
+predictive models for catalysis and enzymatic function.
+
+In this
+virtual special issue, Dr. Kshatresh Dutta Dubey presents
+the Review titled “Role of Propionate Side Chain in
+Heme-Containing Metalloenzymes” (DOI: 10.1021/acsorginorgau.5c00078 ). Together with his co-workers, the Review focuses on heme propionate
+side chains (Prop-6 and Prop-7) as active mechanistic components rather
+than merely structural elements involved in heme anchoring or substrate
+recognition. Drawing primarily on studies published since 2005, it
+summarizes emerging roles of these groups in water gating, proton
+delivery, and proton-coupled electron transfer, oxidant formation,
+electron transfer, and redox-potential regulation in iron heme enzymes.
+A key theme is the distinct behavior of Prop-6 and Prop-7, with Prop-6
+often residing in more rigid hydrogen-bond networks, while Prop-7
+more frequently acts as a dynamic regulator of hydration and proton
+flux. Overall, the Review offers an integrated framework for understanding
+how heme propionates help coordinate hydration, proton and electron
+movement, and intermediate stabilization in enzymatic catalysis.
+
+ZACHARIAS AMARA
+Working across nano- to macroscopic interfaces,
+my research seeks
+to harness light to drive transformative, greener chemistry that shapes
+a more imaginative future.
+
+Zacharias Amara is an
+Associate Professor of Chemistry at the Conservatoire
+National des Arts et Métiers (Cnam) in Paris, where he leads
+the Molecular Chemistry Group within the Laboratory of Genomics, Bioinformatics,
+and Molecular Chemistry. His research explores how light-driven processes
+and molecular design can be leveraged to build more sustainable chemical
+technologies, with a particular focus on photocatalysis, organic synthesis,
+and continuous-flow processing. He is especially interested in how
+reactions behave at nano- to macroscopic interfaces, developing strategies
+to control photochemical reactivity and enable greener, scalable transformations.
+A multidisciplinary chemist by training, Zac holds a PharmD and a
+PhD in Organic Chemistry from Paris-Sud University (now Paris-Saclay),
+followed by postdoctoral positions at the University of Nottingham
+and Chimie ParisTech. His work has contributed to advances in photochemical
+oxidation, green catalysis, and the synthesis of high-value molecules
+such as artemisinin. At Cnam, he has built an active research group
+engaged in designing novel photocatalysts, developing light-enabled
+continuous-flow methods, and translating laboratory insights into
+industrially relevant processes. His scientific leadership has been
+recognized by several awards. In 2024, Zac was named a Junior Member
+of the Institut Universitaire de France (2024-2028). He is
+a recipient of the I-Lab Innovation Award, the Jean Normant Prize,
+the ACS Green Chemistry Institute Ignition Grant, and funding from
+the Bill & Melinda Gates Foundation, among many others. He has
+supervised numerous researchers, advised start-ups in green chemistry,
+and cofounded Linium Biochemicals. With more than 30 invited lectures
+and publications spanning organic chemistry, catalysis, materials
+science, and process engineering, Zac’s long-term vision is
+to harness light at interfaces to drive new discoveries and developments
+in chemical technologies.
+
+In this virtual special issue, Dr.
+Zacharias Amara’s Perspective
+is titled “ More than Catalyst Recycling: Tuning Synthetic
+Photocatalytic Processes via Heterogenization on Silica and Alumina ” (DOI: 10.1021/acsorginorgau.5c00088 ). In this work, he and his co-workers show that immobilizing molecular
+photocatalysts on insulating oxides such as SiO 2 and Al 2 O 3 preserves their intrinsic photophysical properties
+while allowing the local environment to be deliberately tuned. The
+Perspective demonstrates that heterogenization can improve catalyst
+stability and reactivity, broaden compatibility with green solvents,
+and enable continuous-flow operation, extending far beyond simple
+catalyst recovery. By comparing silica and alumina supports, the Perspective
+also points to underexplored opportunities to control selectivity
+and performance through surface effects, positioning heterogenized
+photocatalysts as versatile platforms for sustainable synthesis.
+
+Eteri Svanidze links chemical discovery
+with physical insight,
+transforming serendipitous findings into rationally designed quantum
+materials through tightly integrated synthesis, measurement, and theory.
+
+Eteri Svanidze is currently a group leader of the Research
+of Exotic Actinide- and Lanthanide-based Materials (REALM)
+group at the Max Planck Institute for Chemical Physics of Solids (MPI
+CPfS) https://www.cpfs.mpg.de/realm-group . Dr. Svanidze’s research centers on the discovery and design
+of novel quantum materials, with a particular emphasis on compounds
+and alloys that host unconventional superconductivity, emergent magnetism,
+and strongly correlated electronic behavior. A core goal of her work
+is to bridge the disciplines of chemistry and physics, not only to
+address fundamental scientific questions but also to unlock the application
+potential of both simple and complex solid-state materials. Dr. Svanidze
+received her bachelor’s degree in physics and mathematics from
+the State University of New York at Fredonia (USA) in 2009, followed
+by a Master of Science in Applied Physics from Rice University (Houston,
+USA) in 2011. She completed her PhD in 2015 under the supervision
+of Prof. Emilia Morosan, defending a thesis entitled “Itinerant
+Magnets Composed of Nonmagnetic Elements.” Afterward,
+she joined MPI CPfS as a postdoctoral researcher (2016-2017).
+In 2018, she was awarded a Fulbright Research Chair position, which
+she carried out jointly at McMaster University (Hamilton, Canada)
+and the Centro Brasileiro de Pesquisas Físicas (Rio de Janeiro,
+Brazil). She returned to MPI CPfS to establish the REALM group, where
+her research continues to advance the field of quantum materials.
+Her work has been recognized by numerous awards, including: the 2024
+Early Career Actinides Research Award; the 2023 European Rare Earth
+and Actinide Society Junior Award; a 2022 Plus 3 Perspectives Programme
+grant; and the 2022 UNESCO-L’Oréal Women in Science
+Award.
+
+In this virtual special, Dr. Eteri Svanidze’s
+article, titled
+“ Complex Magnetism in the Mixed-Valence Europium Mercuride
+Eu 11‑x Hg 54+x ” (DOI: 10.1021/acsorginorgau.5c00099 ) examines how mixed europium valence gives rise to unusual magnetic
+behavior in a noncentrosymmetric intermetallic compound. The study
+shows that the coexistence of Eu 2+ and Eu 3+ ,
+stabilized by distinct crystallographic environments, leads to magnetic
+ordering below 5.5 K and an unusually rich magnetic phase diagram.
+Detailed structural, magnetic, and spectroscopic analyses reveal fragile
+ferrimagnetic behavior, valence inhomogeneity, and strong coupling
+between electronic structure and magnetism, positioning Eu 11- x Hg 54+ x as a model system
+for exploring correlated electron phenomena in rare-earth materials.
+
+SECTION
+Views expressed
+in this editorial are those of the author and not necessarily the
+views of the ACS.
+
+SECTION
+Published as part of ACS Organic
+& Inorganic Au special issue “2025 Rising Stars in ACS Organic
+& Inorganic Au”.
